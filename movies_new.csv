@@ -1,0 +1,1001 @@
+title,release_date,release_year,release_month,release_day,genre,rating,run_time,director,actors,budget,revenue
+The Godfather,1972-03-14,1972,March,Tuesday,"Crime, Drama",9.2,175,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan, Diane Keaton",6000000.0,245066411.0
+GoodFellas,1990-09-12,1990,September,Wednesday,"Biography, Crime, Drama",8.7,145,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",25000000.0,46835000.0
+Pulp Fiction,1994-09-10,1994,September,Saturday,"Crime, Drama",8.9,154,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis",8000000.0,214179088.0
+The Usual Suspects,1995-07-19,1995,July,Wednesday,"Crime, Drama, Mystery",8.5,106,Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin",6000000.0,23341568.0
+Apocalypse Now,1979-08-15,1979,August,Wednesday,"Drama, Mystery, War",8.4,147,Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest",31500000.0,150000000.0
+Trainspotting,1996-02-23,1996,February,Friday,Drama,8.1,93,Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd",4000000.0,16491080.0
+Fight Club,1999-10-15,1999,October,Friday,Drama,8.8,139,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier",63000000.0,100853753.0
+Schindler's List,1993-12-15,1993,December,Wednesday,"Biography, Drama, History",9.0,195,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",22000000.0,321365567.0
+Boogie Nights,1997-10-07,1997,October,Tuesday,Drama,7.9,155,Paul Thomas Anderson,"Mark Wahlberg, Julianne Moore, Burt Reynolds, Luis Guzmán",15000000.0,43101594.0
+Reservoir Dogs,1992-09-02,1992,September,Wednesday,"Crime, Thriller",8.3,99,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",1200000.0,2859750.0
+The Shawshank Redemption,1994-09-23,1994,September,Friday,Drama,9.3,142,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",25000000.0,28341469.0
+Jaws,1975-06-20,1975,June,Friday,"Adventure, Mystery, Thriller",8.1,124,Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",7000000.0,470653000.0
+Taxi Driver,1976-02-09,1976,February,Monday,"Crime, Drama",8.2,114,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks",1900000.0,28600000.0
+L.A. Confidential,1997-09-19,1997,September,Friday,"Crime, Drama, Mystery",8.2,138,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce, Kim Basinger",35000000.0,126216940.0
+Back to the Future,1985-07-03,1985,July,Wednesday,"Adventure, Comedy, Sci-Fi",8.5,116,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",19000000.0,381109762.0
+The Godfather Part II,1974-12-20,1974,December,Friday,"Crime, Drama",9.0,202,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",13000000.0,102600000.0
+Fargo,1996-03-08,1996,March,Friday,"Crime, Thriller",8.1,98,Joel Coen,"Ethan Coen, William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare",7000000.0,60611975.0
+The Dark Knight,2008-07-14,2008,July,Monday,"Action, Crime, Drama",9.0,152,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",185000000.0,1004558444.0
+The Matrix,1999-03-30,1999,March,Tuesday,"Action, Sci-Fi",8.7,136,Lana Wachowski,"Lilly Wachowski, Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",63000000.0,463517383.0
+Magnolia,1999-12-10,1999,December,Friday,Drama,8.0,188,Paul Thomas Anderson,"Tom Cruise, Jason Robards, Julianne Moore, Philip Seymour Hoffman",37000000.0,48451803.0
+Scarface,1983-12-09,1983,December,Friday,"Crime, Drama",8.3,170,Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio",25000000.0,66023329.0
+The Royal Tenenbaums,2001-10-05,2001,October,Friday,"Comedy, Drama",7.6,110,Wes Anderson,"Gene Hackman, Gwyneth Paltrow, Anjelica Huston, Ben Stiller",21000000.0,71441250.0
+Donnie Darko,2001-10-24,2001,October,Wednesday,"Drama, Mystery, Sci-Fi",8.0,113,Richard Kelly,"Jake Gyllenhaal, Jena Malone, Mary McDonnell, Holmes Osborne",6000000.0,7500000.0
+Platoon,1986-12-19,1986,December,Friday,"Drama, War",8.1,120,Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David",6000000.0,138530565.0
+Heat,1995-12-15,1995,December,Friday,"Action, Crime, Drama",8.3,170,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer, Jon Voight",60000000.0,187436818.0
+American Beauty,1999-09-15,1999,September,Wednesday,Drama,8.3,122,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",15000000.0,356296601.0
+The Big Lebowski,1998-03-06,1998,March,Friday,"Comedy, Crime",8.1,117,Joel Coen,"Ethan Coen, Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi",15000000.0,46969409.0
+Raging Bull,1980-11-14,1980,November,Friday,"Biography, Drama, Sport",8.1,129,Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",18000000.0,23000000.0
+Un prophète,1980-11-14,1980,November,Friday,"Crime, Drama",7.8,155,Jacques Audiard,"Tahar Rahim, Niels Arestrup, Adel Bencherif, Reda Kateb",18000000.0,23000000.0
+The Departed,2006-10-04,2006,October,Wednesday,"Crime, Drama, Thriller",8.5,151,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",90000000.0,291465000.0
+There's Something About Mary,1998-07-15,1998,July,Wednesday,"Comedy, Romance",7.1,119,Bobby Farrelly,"Peter Farrelly, Cameron Diaz, Matt Dillon, Ben Stiller, Lee Evans",23000000.0,369884651.0
+Léon,1998-07-15,1998,July,Wednesday,"Action, Crime, Drama",8.5,110,Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",23000000.0,369884651.0
+Cidade de Deus,1998-07-15,1998,July,Wednesday,"Crime, Drama",8.6,130,Fernando Meirelles,"Kátia Lund, Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele, Phellipe Haagensen",23000000.0,369884651.0
+Once Upon a Time in America,1984-05-23,1984,May,Wednesday,"Crime, Drama",8.3,229,Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams",30000000.0,5472914.0
+"Lock, Stock and Two Smoking Barrels",1998-08-28,1998,August,Friday,"Action, Comedy, Crime",8.1,107,Guy Ritchie,"Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham",1350000.0,28356188.0
+The Truman Show,1998-06-04,1998,June,Thursday,"Comedy, Drama",8.2,103,Peter Weir,"Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich",60000000.0,264118201.0
+Toy Story,1995-10-30,1995,October,Monday,"Animation, Adventure, Comedy",8.3,81,John Lasseter,"Tom Hanks, Tim Allen, Don Rickles, Jim Varney",30000000.0,373554033.0
+Alien,1979-05-25,1979,May,Friday,"Horror, Sci-Fi",8.5,117,Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright",11000000.0,104931801.0
+Rushmore,1998-12-11,1998,December,Friday,"Comedy, Drama, Romance",7.6,93,Wes Anderson,"Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel",9000000.0,17096053.0
+Se7en,1995-09-22,1995,September,Friday,"Crime, Drama, Mystery",8.6,127,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker",33000000.0,327311859.0
+Good Will Hunting,1997-12-05,1997,December,Friday,"Drama, Romance",8.3,126,Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård",10000000.0,225933435.0
+Aliens,1986-07-18,1986,July,Friday,"Action, Adventure, Sci-Fi",8.4,137,James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser",18500000.0,183316455.0
+The Exorcist,1973-12-26,1973,December,Wednesday,Horror,8.1,122,William Friedkin,"Ellen Burstyn, Max von Sydow, Linda Blair, Lee J. Cobb",12000000.0,441405644.0
+One Flew Over the Cuckoo's Nest,1975-11-19,1975,November,Wednesday,Drama,8.7,133,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco",3000000.0,108981275.0
+Chinatown,1974-06-20,1974,June,Thursday,"Drama, Mystery, Thriller",8.2,130,Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez",6000000.0,30000000.0
+Casino,1995-11-22,1995,November,Wednesday,"Crime, Drama",8.2,178,Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci, James Woods",50000000.0,116112375.0
+True Romance,1993-09-09,1993,September,Thursday,"Crime, Drama, Romance",7.9,119,Tony Scott,"Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer",12500000.0,12600000.0
+Gladiator,2000-05-04,2000,May,Thursday,"Action, Adventure, Drama",8.5,155,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",103000000.0,465361176.0
+Raiders of the Lost Ark,1981-06-12,1981,June,Friday,"Action, Adventure",8.4,115,Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies",18000000.0,389925971.0
+Miller's Crossing,1990-09-21,1990,September,Friday,"Crime, Drama, Thriller",7.7,115,Joel Coen,"Ethan Coen, Gabriel Byrne, Albert Finney, John Turturro, Marcia Gay Harden",14000000.0,5080409.0
+Being John Malkovich,1999-10-29,1999,October,Friday,"Comedy, Drama, Fantasy",7.7,113,Spike Jonze,"John Cusack, Cameron Diaz, Catherine Keener, John Malkovich",13000000.0,22863596.0
+Die Hard,1988-07-15,1988,July,Friday,"Action, Thriller",8.2,132,John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson",28000000.0,140767956.0
+Casablanca,1942-11-26,1942,November,Thursday,"Drama, Romance, War",8.5,102,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",878000.0,10462500.0
+Kick-Ass,2010-03-22,2010,March,Monday,"Action, Comedy, Crime",7.6,117,Matthew Vaughn,"Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz, Garrett M. Brown",28000000.0,96188903.0
+The Prestige,2006-10-19,2006,October,Thursday,"Drama, Mystery, Sci-Fi",8.5,130,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",40000000.0,109676311.0
+Inglourious Basterds,2009-08-19,2009,August,Wednesday,"Adventure, Drama, War",8.3,153,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent",70000000.0,321457747.0
+Evil Dead II,1987-03-13,1987,March,Friday,"Comedy, Horror",7.7,84,Sam Raimi,"Bruce Campbell, Sarah Berry, Dan Hicks, Kassie Wesley DePaiva",3500000.0,10900000.0
+Jurassic Park,1993-06-11,1993,June,Friday,"Action, Adventure, Sci-Fi",8.2,127,Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",63000000.0,920100000.0
+Batman Begins,2005-06-10,2005,June,Friday,"Action, Crime, Drama",8.2,140,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson",150000000.0,374218673.0
+The Green Mile,1999-12-10,1999,December,Friday,"Crime, Drama, Fantasy",8.6,189,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt",60000000.0,286801374.0
+The French Connection,1971-10-09,1971,October,Saturday,"Action, Crime, Drama",7.7,104,William Friedkin,"Gene Hackman, Roy Scheider, Fernando Rey, Tony Lo Bianco",1800000.0,41158757.0
+Unforgiven,1992-08-07,1992,August,Friday,"Drama, Western",8.2,130,Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris",14400000.0,159157447.0
+Drive,2011-09-15,2011,September,Thursday,"Action, Drama",7.8,100,Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks",15000000.0,78054825.0
+The Shining,1980-05-23,1980,May,Friday,"Drama, Horror",8.4,146,Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",19000000.0,44781695.0
+The Evil Dead,1981-09-10,1981,September,Thursday,Horror,7.4,85,Sam Raimi,"Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker",350000.0,29612367.0
+Forrest Gump,1994-06-23,1994,June,Thursday,"Drama, Romance",8.8,142,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise, Sally Field",55000000.0,677387716.0
+The Thing,1982-06-25,1982,June,Friday,"Horror, Mystery, Sci-Fi",8.2,109,John Carpenter,"Kurt Russell, Wilford Brimley, Keith David, Richard Masur",15000000.0,19629760.0
+Citizen Kane,1941-04-17,1941,April,Thursday,"Drama, Mystery",8.3,119,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead",839727.0,23218000.0
+Blue Velvet,1986-01-01,1986,January,Wednesday,"Crime, Drama, Mystery",7.7,120,David Lynch,"Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern",6000000.0,8618766.0
+The Wicker Man,1973-12-01,1973,December,Saturday,"Horror, Mystery, Thriller",7.5,88,Robin Hardy,"Edward Woodward, Christopher Lee, Diane Cilento, Britt Ekland",810000.0,
+Eternal Sunshine of the Spotless Mind,2004-03-19,2004,March,Friday,"Drama, Romance, Sci-Fi",8.3,108,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",20000000.0,72258126.0
+The Princess Bride,1987-09-25,1987,September,Friday,"Adventure, Comedy, Family",8.0,98,Rob Reiner,"Cary Elwes, Mandy Patinkin, Robin Wright, Chris Sarandon",16000000.0,30861665.0
+A Clockwork Orange,1971-12-19,1971,December,Sunday,"Crime, Sci-Fi",8.3,136,Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",2200000.0,26589000.0
+Go,1999-04-09,1999,April,Friday,"Comedy, Crime",7.2,102,Doug Liman,"Sarah Polley, Jay Mohr, Scott Wolf, Taye Diggs",6500000.0,28451622.0
+Stand by Me,1986-08-08,1986,August,Friday,"Adventure, Drama",8.1,89,Rob Reiner,"Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell",8000000.0,52287414.0
+The Lord of the Rings: The Return of the King,2003-12-01,2003,December,Monday,"Action, Adventure, Drama",9.0,201,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",94000000.0,1118888979.0
+Terminator 2: Judgment Day,1991-07-03,1991,July,Wednesday,"Action, Sci-Fi",8.6,137,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",102000000.0,520000000.0
+Toy Story 2,1999-10-30,1999,October,Saturday,"Animation, Adventure, Comedy",7.9,92,John Lasseter,"Ash Brannon, Lee Unkrich, Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer",90000000.0,497366869.0
+Saving Private Ryan,1998-07-24,1998,July,Friday,"Drama, War",8.6,169,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",70000000.0,481840909.0
+Indiana Jones and the Last Crusade,1989-05-24,1989,May,Wednesday,"Action, Adventure",8.2,127,Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott",48000000.0,474171806.0
+Sin City,2005-04-01,2005,April,Friday,"Crime, Thriller",8.0,124,Frank Miller,"Quentin Tarantino, Robert Rodriguez, Mickey Rourke, Clive Owen, Bruce Willis, Jessica Alba",40000000.0,158733820.0
+Saw,2004-10-01,2004,October,Friday,"Horror, Mystery, Thriller",7.6,103,James Wan,"Cary Elwes, Leigh Whannell, Danny Glover, Ken Leung",1200000.0,103911669.0
+My Left Foot: The Story of Christy Brown,1989-04-07,1989,April,Friday,"Biography, Drama",7.8,103,Jim Sheridan,"Daniel Day-Lewis, Brenda Fricker, Alison Whelan, Kirsten Sheridan",645180.0,14743391.0
+Bowling for Columbine,2002-10-09,2002,October,Wednesday,"Documentary, Crime, Drama",8.0,120,Michael Moore,"Michael Moore, Charlton Heston, Marilyn Manson, Salvador Allende",4000000.0,35564473.0
+Man on Fire,2004-04-23,2004,April,Friday,"Action, Crime, Drama",7.7,146,Tony Scott,"Denzel Washington, Christopher Walken, Dakota Fanning, Radha Mitchell",70000000.0,130293714.0
+Almost Famous,2000-09-15,2000,September,Friday,"Adventure, Comedy, Drama",7.9,122,Cameron Crowe,"Billy Crudup, Patrick Fugit, Kate Hudson, Frances McDormand",60000000.0,47386287.0
+High Fidelity,2000-03-17,2000,March,Friday,"Comedy, Drama, Music",7.4,113,Stephen Frears,"John Cusack, Iben Hjejle, Todd Louiso, Jack Black",30000000.0,47126295.0
+Django Unchained,2012-12-25,2012,December,Tuesday,"Drama, Western",8.4,165,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",100000000.0,425368238.0
+12 Angry Men,1957-04-10,1957,April,Wednesday,"Crime, Drama",9.0,96,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler",350000.0,1000000.0
+Memento,2000-10-11,2000,October,Wednesday,"Mystery, Thriller",8.4,113,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",9000000.0,39723096.0
+Rain Man,1988-12-11,1988,December,Sunday,Drama,8.0,133,Barry Levinson,"Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen",25000000.0,354825435.0
+Minority Report,2002-06-20,2002,June,Thursday,"Action, Crime, Mystery",7.6,145,Steven Spielberg,"Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow",102000000.0,358372926.0
+Goldfinger,1964-09-20,1964,September,Sunday,"Action, Adventure, Thriller",7.7,110,Guy Hamilton,"Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton",2500000.0,124881062.0
+The Social Network,2010-10-01,2010,October,Friday,"Biography, Drama",7.8,120,David Fincher,"Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Rooney Mara",40000000.0,224920315.0
+American Psycho,2000-04-13,2000,April,Thursday,"Crime, Drama, Horror",7.6,102,Mary Harron,"Christian Bale, Justin Theroux, Josh Lucas, Bill Sage",7000000.0,34266564.0
+Men in Black,1997-07-02,1997,July,Wednesday,"Action, Adventure, Comedy",7.3,98,Barry Sonnenfeld,"Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio",90000000.0,589390539.0
+No Country for Old Men,2007-06-13,2007,June,Wednesday,"Crime, Drama, Thriller",8.2,122,Ethan Coen,"Joel Coen, Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",25000000.0,171627166.0
+Airplane!,1980-07-02,1980,July,Wednesday,Comedy,7.7,88,Jim Abrahams,"David Zucker, Jerry Zucker, Robert Hays, Julie Hagerty, Leslie Nielsen, Kareem Abdul-Jabbar",3500000.0,83453539.0
+There Will Be Blood,2007-12-26,2007,December,Wednesday,Drama,8.2,158,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer",25000000.0,77208711.0
+Inception,2010-07-15,2010,July,Thursday,"Action, Adventure, Sci-Fi",8.8,148,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe",160000000.0,825532764.0
+JFK,1991-12-20,1991,December,Friday,"Drama, History, Thriller",8.0,189,Oliver Stone,"Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau",40000000.0,205405498.0
+King Kong,2005-12-12,2005,December,Monday,"Action, Adventure, Drama",7.2,187,Peter Jackson,"Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann",207000000.0,562363449.0
+The Terminator,1984-10-26,1984,October,Friday,"Action, Sci-Fi",8.1,107,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield",6400000.0,78371200.0
+The Lord of the Rings: The Fellowship of the Ring,2001-12-18,2001,December,Tuesday,"Action, Adventure, Drama",8.8,178,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",93000000.0,871368364.0
+Kill Bill: Vol. 1,2003-10-10,2003,October,Friday,"Action, Crime, Drama",8.2,111,Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen",30000000.0,180906076.0
+The Silence of the Lambs,1991-02-14,1991,February,Thursday,"Crime, Drama, Thriller",8.6,118,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons",19000000.0,272742922.0
+The Color of Money,1986-10-17,1986,October,Friday,"Drama, Sport",7.0,119,Martin Scorsese,"Paul Newman, Tom Cruise, Mary Elizabeth Mastrantonio, Helen Shaver",13800000.0,52293982.0
+This Is England,2006-09-12,2006,September,Tuesday,"Crime, Drama",7.7,101,Shane Meadows,"Thomas Turgoose, Stephen Graham, Jo Hartley, Andrew Shim",2380000.0,8176544.0
+It's a Wonderful Life,1946-12-20,1946,December,Friday,"Drama, Family, Fantasy",8.6,130,Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell",3180000.0,9644124.0
+Children of Men,2006-09-22,2006,September,Friday,"Action, Drama, Sci-Fi",7.9,109,Alfonso Cuarón,"Julianne Moore, Clive Owen, Chiwetel Ejiofor, Michael Caine",76000000.0,70595464.0
+In the Name of the Father,1993-12-12,1993,December,Sunday,"Biography, Crime, Drama",8.1,133,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie, Philip King",13000000.0,65796862.0
+American History X,1998-07-01,1998,July,Wednesday,"Crime, Drama",8.5,119,Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",20000000.0,23875127.0
+Twelve Monkeys,1995-12-29,1995,December,Friday,"Mystery, Sci-Fi, Thriller",8.0,129,Terry Gilliam,"Bruce Willis, Madeleine Stowe, Brad Pitt, Joseph Melito",29000000.0,168841459.0
+Dog Day Afternoon,1975-08-01,1975,August,Friday,"Biography, Crime, Drama",8.0,125,Sidney Lumet,"Al Pacino, John Cazale, Penelope Allen, Sully Boyar",1800000.0,46665856.0
+The Untouchables,1987-06-03,1987,June,Wednesday,"Crime, Drama, Thriller",7.8,119,Brian De Palma,"Kevin Costner, Sean Connery, Robert De Niro, Charles Martin Smith",25000000.0,76270454.0
+Close Encounters of the Third Kind,1977-11-18,1977,November,Friday,"Drama, Sci-Fi",7.6,138,Steven Spielberg,"Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon",20000000.0,306889114.0
+"Il buono, il brutto, il cattivo",1977-11-18,1977,November,Friday,"Adventure, Western",8.8,161,Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffrè",20000000.0,306889114.0
+Glengarry Glen Ross,1992-09-15,1992,September,Tuesday,"Crime, Drama, Mystery",7.7,100,James Foley,"Al Pacino, Jack Lemmon, Alec Baldwin, Alan Arkin",12500000.0,10725228.0
+The Wolf of Wall Street,2013-12-25,2013,December,Wednesday,"Biography, Comedy, Crime",8.2,180,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",100000000.0,392000000.0
+Road to Perdition,2002-07-12,2002,July,Friday,"Crime, Drama, Thriller",7.7,117,Sam Mendes,"Tom Hanks, Tyler Hoechlin, Rob Maxey, Liam Aiken",80000000.0,181001478.0
+Up,2009-05-28,2009,May,Thursday,"Animation, Adventure, Comedy",8.3,96,Pete Docter,"Bob Peterson, Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer",175000000.0,735099082.0
+Natural Born Killers,1994-08-25,1994,August,Thursday,"Action, Crime, Drama",7.2,119,Oliver Stone,"Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield",34000000.0,50283563.0
+Out of Sight,1998-06-26,1998,June,Friday,"Comedy, Crime, Drama",7.0,123,Steven Soderbergh,"George Clooney, Jennifer Lopez, Ving Rhames, Steve Zahn",48000000.0,77745966.0
+The Bourne Identity,2002-06-14,2002,June,Friday,"Action, Mystery, Thriller",7.9,119,Doug Liman,"Franka Potente, Matt Damon, Chris Cooper, Clive Owen",60000000.0,214034224.0
+An American Werewolf in London,1981-08-21,1981,August,Friday,"Comedy, Horror",7.5,97,John Landis,"David Naughton, Jenny Agutter, Joe Belcher, Griffin Dunne",10000000.0,31973249.0
+United 93,2006-04-28,2006,April,Friday,"Action, Drama, History",7.6,111,Paul Greengrass,"David Alan Basche, Olivia Thirlby, Liza Colón-Zayas, J.J. Johnson",15000000.0,76286096.0
+Full Metal Jacket,1987-06-26,1987,June,Friday,"Drama, War",8.3,116,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin",30000000.0,46357676.0
+The General,1926-12-25,1926,December,Saturday,"Biography, Crime, Drama",7.2,124,John Boorman,"Brendan Gleeson, Adrian Dunbar, Sean McGinley, Maria Doyle Kennedy",750000.0,1000000.0
+The Deer Hunter,1978-03-09,1978,March,Thursday,"Drama, War",8.1,183,Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale, John Savage",15000000.0,49000000.0
+Desperado,1995-08-25,1995,August,Friday,"Action, Crime, Thriller",7.1,104,Robert Rodriguez,"Antonio Banderas, Salma Hayek, Joaquim de Almeida, Cheech Marin",7000000.0,25405445.0
+Interview with the Vampire: The Vampire Chronicles,1995-08-25,1995,August,Friday,"Drama, Fantasy, Horror",7.5,123,Neil Jordan,"Brad Pitt, Tom Cruise, Antonio Banderas, Kirsten Dunst",7000000.0,25405445.0
+Things to Do in Denver When You're Dead,1995-12-01,1995,December,Friday,"Crime, Drama, Thriller",6.7,115,Gary Fleder,"Andy Garcia, Christopher Walken, Christopher Lloyd, William Forsythe",8000000.0,529766.0
+Little Miss Sunshine,2006-07-26,2006,July,Wednesday,"Comedy, Drama",7.8,101,Jonathan Dayton,"Valerie Faris, Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin",8000000.0,100523181.0
+Carlito's Way,1993-11-10,1993,November,Wednesday,"Crime, Drama, Thriller",7.9,144,Brian De Palma,"Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo",30000000.0,63848322.0
+Casino Royale,2006-11-14,2006,November,Tuesday,"Action, Adventure, Thriller",8.0,144,Martin Campbell,"Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright",150000000.0,599045960.0
+Dirty Harry,1971-12-23,1971,December,Thursday,"Action, Crime, Thriller",7.7,102,Don Siegel,"Clint Eastwood, Clint Eastwood, Andrew Robinson, Harry Guardino, Reni Santoni",4000000.0,35976000.0
+Gremlins,1984-06-07,1984,June,Thursday,"Comedy, Fantasy, Horror",7.3,106,Joe Dante,"Zach Galligan, Phoebe Cates, Hoyt Axton, John Louie",11000000.0,153083102.0
+Butch Cassidy and the Sundance Kid,1969-01-15,1969,January,Wednesday,"Biography, Crime, Drama",8.0,110,George Roy Hill,"Paul Newman, Robert Redford, Katharine Ross, Strother Martin",6000000.0,102308889.0
+Ocean's Eleven,2001-12-07,2001,December,Friday,"Crime, Thriller",7.7,116,Steven Soderbergh,"George Clooney, Brad Pitt, Julia Roberts, Matt Damon",85000000.0,450717150.0
+The Lord of the Rings: The Two Towers,2002-12-18,2002,December,Wednesday,"Action, Adventure, Drama",8.8,179,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",79000000.0,926287400.0
+Amores perros,2016-01-01,2016,January,Friday,"Drama, Thriller",8.1,154,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero",,
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,2006,November,Wednesday,Comedy,7.4,84,Larry Charles,"Sacha Baron Cohen, Ken Davitian, Luenell, Chester",18000000.0,262552893.0
+Austin Powers: The Spy Who Shagged Me,1999-06-08,1999,June,Tuesday,"Action, Adventure, Comedy",6.6,95,Jay Roach,"Mike Myers, Heather Graham, Michael York, Robert Wagner",33000000.0,312016928.0
+Batman Returns,1992-06-19,1992,June,Friday,"Action, Crime, Fantasy",7.1,126,Tim Burton,"Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken",80000000.0,280000000.0
+The Virgin Suicides,1999-12-31,1999,December,Friday,"Drama, Romance",7.2,97,Sofia Coppola,"Kirsten Dunst, Josh Hartnett, James Woods, Kathleen Turner",6000000.0,10409377.0
+28 Days Later...,1999-12-31,1999,December,Friday,"Drama, Horror, Sci-Fi",7.5,113,Danny Boyle,"Cillian Murphy, Naomie Harris, Christopher Eccleston, Alex Palmer",6000000.0,10409377.0
+The Life Aquatic with Steve Zissou,2004-12-10,2004,December,Friday,"Action, Adventure, Comedy",7.2,119,Wes Anderson,"Bill Murray, Owen Wilson, Anjelica Huston, Cate Blanchett",50000000.0,34808403.0
+Requiem for a Dream,2000-10-06,2000,October,Friday,Drama,8.3,102,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",4500000.0,7390108.0
+The Italian Job,2003-05-30,2003,May,Friday,"Action, Comedy, Crime",7.2,99,Peter Collinson,"Michael Caine, Noël Coward, Benny Hill, Raf Vallone",60000000.0,176070171.0
+Get Carter,2000-10-06,2000,October,Friday,"Action, Crime, Thriller",7.3,112,Mike Hodges,"Michael Caine, Ian Hendry, Britt Ekland, John Osborne",63600000.0,19412993.0
+The Rules of Attraction,2002-10-11,2002,October,Friday,"Comedy, Drama, Romance",6.6,110,Roger Avary,"James Van Der Beek, Ian Somerhalder, Shannyn Sossamon, Jessica Biel",4000000.0,11832822.0
+Zodiac,2007-03-02,2007,March,Friday,"Crime, Drama, Mystery",7.7,157,David Fincher,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo, Anthony Edwards",65000000.0,84785914.0
+Hot Fuzz,2007-02-14,2007,February,Wednesday,"Action, Comedy, Mystery",7.8,121,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy",12000000.0,80573774.0
+"O Brother, Where Art Thou?",2000-08-30,2000,August,Wednesday,"Adventure, Comedy, Crime",7.7,107,Joel Coen,"Ethan Coen, George Clooney, John Turturro, Tim Blake Nelson, John Goodman",26000000.0,71870729.0
+Braindead,1992-08-13,1992,August,Thursday,"Comedy, Fantasy, Horror",7.5,104,Peter Jackson,"Timothy Balme, Diana Peñalver, Elizabeth Moody, Ian Watkin",3000000.0,242623.0
+Dumb and Dumber,1994-12-16,1994,December,Friday,Comedy,7.3,107,Peter Farrelly,"Bobby Farrelly, Jim Carrey, Jeff Daniels, Lauren Holly, Mike Starr",16000000.0,247275374.0
+The Jungle Book,1967-10-18,1967,October,Wednesday,"Animation, Adventure, Comedy",7.6,78,Wolfgang Reitherman,"Phil Harris, Sebastian Cabot, Louis Prima, Bruce Reitherman",4000000.0,205843612.0
+The Bourne Ultimatum,2007-08-03,2007,August,Friday,"Action, Mystery, Thriller",8.0,115,Paul Greengrass,"Matt Damon, Edgar Ramírez, Joan Allen, Julia Stiles",70000000.0,442824138.0
+Shallow Grave,1994-12-22,1994,December,Thursday,"Crime, Thriller",7.3,89,Danny Boyle,"Kerry Fox, Christopher Eccleston, Ewan McGregor, Ken Stott",,
+From Dusk Till Dawn,1996-01-19,1996,January,Friday,"Action, Crime, Horror",7.2,108,Robert Rodriguez,"Harvey Keitel, George Clooney, Juliette Lewis, Quentin Tarantino",19000000.0,25836616.0
+Gone with the Wind,1939-12-15,1939,December,Friday,"Drama, Romance, War",8.2,238,Victor Fleming,"George Cukor, Sam Wood, Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil",4000000.0,402352579.0
+American Pie,1999-07-09,1999,July,Friday,Comedy,7.0,95,Paul Weitz,"Chris Weitz, Jason Biggs, Chris Klein, Thomas Ian Nicholas, Jennifer Coolidge",11000000.0,235483004.0
+Slumdog Millionaire,2008-11-12,2008,November,Wednesday,"Crime, Drama, Romance",8.0,120,Danny Boyle,"Loveleen Tandan, Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor",15000000.0,378410542.0
+On the Waterfront,1954-06-22,1954,June,Tuesday,"Crime, Drama, Thriller",8.1,108,Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger",910000.0,9600000.0
+Snatch,2000-09-01,2000,September,Friday,"Comedy, Crime",8.2,104,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham, Vinnie Jones",10000000.0,83557872.0
+The Naked Gun: From the Files of Police Squad!,1988-12-02,1988,December,Friday,"Comedy, Crime",7.6,85,David Zucker,"Leslie Nielsen, Priscilla Presley, O.J. Simpson, Ricardo Montalban",12000000.0,78756177.0
+National Lampoon's Animal House,1988-12-02,1988,December,Friday,Comedy,7.4,109,John Landis,"John Belushi, Karen Allen, Tom Hulce, Stephen Furst",12000000.0,78756177.0
+Three Kings,1999-09-27,1999,September,Monday,"Action, Adventure, Comedy",7.1,114,David O. Russell,"George Clooney, Mark Wahlberg, Ice Cube, Spike Jonze",75000000.0,108000000.0
+In Bruges,2008-02-08,2008,February,Friday,"Comedy, Crime, Drama",7.9,107,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Ciarán Hinds, Elizabeth Berrington",15000000.0,34533783.0
+Toy Story 3,2010-06-16,2010,June,Wednesday,"Animation, Adventure, Comedy",8.3,103,Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",200000000.0,1066969703.0
+Cloverfield,2008-01-15,2008,January,Tuesday,"Action, Adventure, Horror",7.0,85,Matt Reeves,"Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller",25000000.0,170764026.0
+Dawn of the Dead,2004-03-19,2004,March,Friday,"Horror, Thriller",7.8,127,George A. Romero,"David Emge, Ken Foree, Scott H. Reiniger, Gaylen Ross",26000000.0,102278712.0
+Quiz Show,1994-08-25,1994,August,Thursday,"Biography, Drama, History",7.5,133,Robert Redford,"Ralph Fiennes, John Turturro, Rob Morrow, Paul Scofield",31000000.0,24822619.0
+Dalkomhan insaeng,1994-08-25,1994,August,Thursday,"Action, Crime, Drama",7.5,119,Jee-woon Kim,"Lee Byung-hun, Shin Min-a, Yeong-cheol Kim, Hwang Jung-min",31000000.0,24822619.0
+The Sixth Sense,1999-08-06,1999,August,Friday,"Drama, Mystery, Thriller",8.2,107,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",40000000.0,672806292.0
+The Long Good Friday,1980-11-01,1980,November,Saturday,"Crime, Drama, Mystery",7.6,114,John Mackenzie,"Bob Hoskins, Helen Mirren, Paul Freeman, Leo Dolan",,
+Juno,2007-12-05,2007,December,Wednesday,"Comedy, Drama",7.5,96,Jason Reitman,"Elliot Page, Michael Cera, Jennifer Garner, Jason Bateman",7500000.0,232372681.0
+Planet of the Apes,2001-07-25,2001,July,Wednesday,"Adventure, Sci-Fi",8.0,112,Franklin J. Schaffner,"Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans",100000000.0,362211740.0
+Kiss Kiss Bang Bang,2005-09-05,2005,September,Monday,"Comedy, Crime, Mystery",7.5,103,Shane Black,"Robert Downey Jr., Val Kilmer, Michelle Monaghan, Corbin Bernsen",15000000.0,15785148.0
+Jackie Brown,1997-12-25,1997,December,Thursday,"Crime, Drama, Thriller",7.5,154,Quentin Tarantino,"Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda",12000000.0,39673162.0
+Sideways,2004-10-22,2004,October,Friday,"Comedy, Drama, Romance",7.5,127,Alexander Payne,"Paul Giamatti, Thomas Haden Church, Virginia Madsen, Sandra Oh",16000000.0,109502303.0
+Edward Scissorhands,1990-12-05,1990,December,Wednesday,"Drama, Fantasy, Romance",7.9,105,Tim Burton,"Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall",20000000.0,53000000.0
+The Thin Red Line,1998-12-25,1998,December,Friday,"Drama, History, War",7.6,170,Terrence Malick,"Jim Caviezel, Sean Penn, Nick Nolte, Kirk Acevedo",52000000.0,98126565.0
+Hotel Rwanda,2004-03-04,2004,March,Thursday,"Biography, Drama, History",8.1,121,Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix, Xolani Mali",17500000.0,38000000.0
+Sexy Beast,2001-01-12,2001,January,Friday,"Crime, Drama, Thriller",7.3,89,Jonathan Glazer,"Ray Winstone, Ben Kingsley, Ian McShane, Amanda Redman",5000000.0,
+Swingers,2002-10-01,2002,October,Tuesday,"Comedy, Drama",7.2,96,Doug Liman,"Vince Vaughn, Heather Graham, Jon Favreau, Ron Livingston",,
+Le fabuleux destin d'Amélie Poulain,2002-10-01,2002,October,Tuesday,"Comedy, Romance",8.3,122,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta",,
+Män som hatar kvinnor,2002-10-01,2002,October,Tuesday,"Crime, Drama, Mystery",7.8,152,Niels Arden Oplev,"Michael Nyqvist, Noomi Rapace, Ewa Fröling, Lena Endre",,
+Nuovo Cinema Paradiso,2002-10-01,2002,October,Tuesday,"Drama, Romance",8.5,155,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli",,
+Witness for the Prosecution,1957-12-17,1957,December,Tuesday,"Crime, Drama, Mystery",8.4,116,Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester",3000000.0,9000000.0
+The Apartment,1960-06-21,1960,June,Tuesday,"Comedy, Drama, Romance",8.3,125,Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",3000000.0,25000000.0
+Meet the Parents,2000-10-06,2000,October,Friday,"Comedy, Romance",7.0,108,Jay Roach,"Ben Stiller, Robert De Niro, Teri Polo, Blythe Danner",55000000.0,330444045.0
+The Right Stuff,1983-10-20,1983,October,Thursday,"Adventure, Biography, Drama",7.8,193,Philip Kaufman,"Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid",27000000.0,21500000.0
+Catch Me If You Can,2002-12-16,2002,December,Monday,"Biography, Crime, Drama",8.1,141,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",52000000.0,352114312.0
+Saturday Night Fever,1977-12-16,1977,December,Friday,"Drama, Music",6.8,118,John Badham,"John Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali",3500000.0,237113184.0
+Anchorman: The Legend of Ron Burgundy,2004-06-28,2004,June,Monday,Comedy,7.1,94,Adam McKay,"Will Ferrell, Christina Applegate, Steve Carell, Paul Rudd",26000000.0,90574188.0
+Happiness,1998-10-16,1998,October,Friday,"Comedy, Drama",7.7,134,Todd Solondz,"Jane Adams, Jon Lovitz, Philip Seymour Hoffman, Dylan Baker",3000000.0,2807390.0
+Knocked Up,2007-06-01,2007,June,Friday,"Comedy, Romance",6.9,129,Judd Apatow,"Seth Rogen, Katherine Heigl, Paul Rudd, Leslie Mann",30000000.0,219922417.0
+District 9,2009-08-05,2009,August,Wednesday,"Action, Sci-Fi, Thriller",7.9,112,Neill Blomkamp,"Sharlto Copley, David James, Jason Cope, Nathalie Boltt",30000000.0,210819611.0
+Fahrenheit 9/11,2004-06-25,2004,June,Friday,"Documentary, Drama, War",7.5,122,Michael Moore,"Michael Moore, George W. Bush, Ben Affleck, Stevie Wonder",6000000.0,222446882.0
+Star Trek,2009-05-06,2009,May,Wednesday,"Action, Adventure, Sci-Fi",7.9,127,J.J. Abrams,"Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy",150000000.0,385680446.0
+Senna,2010-10-07,2010,October,Thursday,"Documentary, Biography, Sport",8.5,106,Asif Kapadia,"Ayrton Senna, Reginaldo Leme, John Bisignano, Neyde Senna",,8212430.0
+Serbuan maut,2010-10-07,2010,October,Thursday,"Action, Crime, Thriller",7.6,101,Gareth Evans,"Iko Uwais, Ananda George, Ray Sahetapy, Donny Alamsyah",,8212430.0
+Brick,2006-03-31,2006,March,Friday,"Crime, Drama, Mystery",7.2,110,Rian Johnson,"Joseph Gordon-Levitt, Lukas Haas, Emilie de Ravin, Meagan Good",475000.0,3919254.0
+The Lives of Others,2006-03-15,2006,March,Wednesday,"Drama, Mystery, Thriller",8.4,137,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur",2000000.0,70000000.0
+When We Were Kings,1996-10-25,1996,October,Friday,"Documentary, Sport",8.0,88,Leon Gast,"Muhammad Ali, George Foreman, Don King, James Brown",,2666118.0
+Groundhog Day,1993-02-11,1993,February,Thursday,"Comedy, Drama, Fantasy",8.0,101,Harold Ramis,"Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky",14600000.0,71074049.0
+All the President's Men,1976-01-18,1976,January,Sunday,"Drama, History, Thriller",7.9,138,Alan J. Pakula,"Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam",8500000.0,70600000.0
+A Quiet Place,2018-04-03,2018,April,Tuesday,"Drama, Horror, Sci-Fi",7.5,90,John Krasinski,"Emily Blunt, John Krasinski, Millicent Simmonds, Noah Jupe",17000000.0,341000000.0
+Unbreakable,2000-11-22,2000,November,Wednesday,"Drama, Mystery, Sci-Fi",7.3,106,M. Night Shyamalan,"Bruce Willis, Samuel L. Jackson, Robin Wright, Spencer Treat Clark",75000000.0,248118121.0
+Pan's Labyrinth,2006-10-10,2006,October,Tuesday,"Drama, Fantasy, War",8.2,118,Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López, Maribel Verdú",19000000.0,83258226.0
+Hugo,2011-11-22,2011,November,Tuesday,"Adventure, Drama, Family",7.5,126,Martin Scorsese,"Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley",170000000.0,185770160.0
+Sunshine,2007-04-05,2007,April,Thursday,"Sci-Fi, Thriller",7.2,107,Danny Boyle,"Cillian Murphy, Rose Byrne, Chris Evans, Cliff Curtis",50000000.0,34806812.0
+The King of Kong,2007-04-05,2007,April,Thursday,"Documentary, Biography, Sport",8.0,79,Seth Gordon,"Steve Wiebe, Billy Mitchell, Mark Alpiger, Adam Wood",50000000.0,34806812.0
+The People vs. Larry Flynt,1996-12-25,1996,December,Wednesday,"Biography, Drama",7.3,130,Milos Forman,"Woody Harrelson, Courtney Love, Edward Norton, Brett Harrelson",36000000.0,20300385.0
+Superbad,2007-03-20,2007,March,Tuesday,Comedy,7.6,113,Greg Mottola,"Michael Cera, Jonah Hill, Christopher Mintz-Plasse, Bill Hader",20000000.0,170812526.0
+Serenity,2005-09-25,2005,September,Sunday,"Action, Adventure, Sci-Fi",7.8,119,Joss Whedon,"Nathan Fillion, Gina Torres, Chiwetel Ejiofor, Alan Tudyk",39000000.0,38869464.0
+Night of the Living Dead,1968-10-04,1968,October,Friday,"Horror, Thriller",7.8,96,George A. Romero,"Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman",114000.0,30000000.0
+Austin Powers: International Man of Mystery,1997-05-02,1997,May,Friday,"Adventure, Comedy",7.0,94,Jay Roach,"Mike Myers, Elizabeth Hurley, Michael York, Mimi Rogers",16500000.0,67711748.0
+28 Weeks Later,2007-04-26,2007,April,Thursday,"Action, Adventure, Horror",6.9,100,Juan Carlos Fresnadillo,"Jeremy Renner, Rose Byrne, Robert Carlyle, Harold Perrineau",15000000.0,65048678.0
+The Thin Blue Line,1988-08-28,1988,August,Sunday,"Documentary, Crime",8.0,101,Errol Morris,"Randall Adams, David Harris, Gus Rose, Jackie Johnson",,1209846.0
+Dog Soldiers,2002-05-10,2002,May,Friday,"Action, Horror, Thriller",6.8,105,Neil Marshall,"Sean Pertwee, Kevin McKidd, Emma Cleasby, Liam Cunningham",2000000.0,3537283.0
+Dead Poets Society,1989-06-02,1989,June,Friday,"Comedy, Drama",8.1,128,Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles",16400000.0,235860116.0
+Get Shorty,1995-10-20,1995,October,Friday,"Comedy, Crime, Thriller",6.9,105,Barry Sonnenfeld,"Gene Hackman, Rene Russo, Danny DeVito, John Travolta",30250000.0,115101622.0
+Bad Santa,2003-11-26,2003,November,Wednesday,"Comedy, Crime, Drama",7.1,92,Terry Zwigoff,"Billy Bob Thornton, Bernie Mac, Lauren Graham, John Ritter",23000000.0,76490720.0
+Ghostbusters,2016-07-14,2016,July,Thursday,"Action, Comedy, Fantasy",7.8,105,Ivan Reitman,"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",144000000.0,229147509.0
+Donnie Brasco,1997-02-27,1997,February,Thursday,"Biography, Crime, Drama",7.7,127,Mike Newell,"Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby",35000000.0,124909762.0
+Top Gun,1986-05-16,1986,May,Friday,"Action, Drama",6.9,109,Tony Scott,"Tom Cruise, Tim Robbins, Kelly McGillis, Val Kilmer",15000000.0,356830601.0
+(500) Days of Summer,2009-07-17,2009,July,Friday,"Comedy, Drama, Romance",7.7,95,Marc Webb,"Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend, Chloë Grace Moretz",7500000.0,60781545.0
+Chopper,2000-06-21,2000,June,Wednesday,"Biography, Crime, Drama",7.1,94,Andrew Dominik,"Eric Bana, Simon Lyndon, Vince Colosimo, Renée Brack",,236185.0
+The Breakfast Club,1985-02-15,1985,February,Friday,"Comedy, Drama",7.8,97,John Hughes,"Emilio Estevez, Judd Nelson, Molly Ringwald, Ally Sheedy",1000000.0,51525171.0
+Grosse Pointe Blank,1997-04-11,1997,April,Friday,"Action, Comedy, Crime",7.3,107,George Armitage,"John Cusack, Minnie Driver, Dan Aykroyd, Joan Cusack",15000000.0,31070412.0
+John Wick: Chapter 3 - Parabellum,2019-05-15,2019,May,Wednesday,"Action, Crime, Thriller",7.4,130,Chad Stahelski,"Keanu Reeves, Halle Berry, Ian McShane, Laurence Fishburne",55000000.0,326709727.0
+The Dirty Dozen,1967-06-15,1967,June,Thursday,"Action, Adventure, War",7.7,150,Robert Aldrich,"Lee Marvin, Ernest Borgnine, Charles Bronson, John Cassavetes",5400000.0,45300000.0
+To Kill a Mockingbird,1962-12-20,1962,December,Thursday,"Crime, Drama",8.3,129,Robert Mulligan,"Gregory Peck, John Megna, Frank Overton, Rosemary Murphy",2000000.0,13129846.0
+Harold and Maude,1971-12-20,1971,December,Monday,"Comedy, Drama, Romance",7.9,91,Hal Ashby,"Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack",1200000.0,
+Vals Im Bashir,1971-12-20,1971,December,Monday,"Documentary, Animation, Biography",8.0,90,Ari Folman,"Ari Folman, Ron Ben-Yishai, Ronny Dayag, Ori Sivan",1200000.0,
+Shame,2011-10-02,2011,October,Sunday,Drama,7.2,101,Steve McQueen,"Michael Fassbender, Carey Mulligan, James Badge Dale, Lucy Walters",6500000.0,3909002.0
+Kill Bill: Vol. 2,2004-04-16,2004,April,Friday,"Action, Crime, Thriller",8.0,137,Quentin Tarantino,"Uma Thurman, David Carradine, Michael Madsen, Daryl Hannah",30000000.0,152159461.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,2003,July,Wednesday,"Action, Adventure, Fantasy",8.1,143,Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",140000000.0,655011224.0
+Bottle Rocket,1996-02-21,1996,February,Wednesday,"Comedy, Crime, Drama",6.9,91,Wes Anderson,"Luke Wilson, Owen Wilson, Ned Dowd, Shea Fowler",7000000.0,1040879.0
+Star Wars: Episode V - The Empire Strikes Back,1996-02-21,1996,February,Wednesday,"Action, Adventure, Fantasy",8.7,124,Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",7000000.0,1040879.0
+Jackass: The Movie,2002-10-25,2002,October,Friday,"Documentary, Action, Comedy",6.6,85,Jeff Tremaine,"Johnny Knoxville, Bam Margera, Chris Pontius, Steve-O",5000000.0,64282312.0
+Point Break,1991-01-31,1991,January,Thursday,"Action, Crime, Thriller",7.2,122,Kathryn Bigelow,"Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty",24000000.0,83531958.0
+The Squid and the Whale,2005-10-05,2005,October,Wednesday,"Comedy, Drama",7.3,81,Noah Baumbach,"Owen Kline, Jeff Daniels, Laura Linney, Jesse Eisenberg",1500000.0,11098131.0
+Network,1976-11-14,1976,November,Sunday,Drama,8.1,121,Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch, Robert Duvall",3800000.0,23689877.0
+The Irishman,2019-11-01,2019,November,Friday,"Biography, Crime, Drama",7.8,209,Martin Scorsese,"Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel",159000000.0,968853.0
+Once Upon a Time in the West,1968-12-21,1968,December,Saturday,Western,8.5,165,Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards",5000000.0,5380118.0
+RoboCop,2014-01-30,2014,January,Thursday,"Action, Crime, Sci-Fi",7.6,102,Paul Verhoeven,"Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox",120000000.0,242688965.0
+Bonnie and Clyde,1967-07-18,1967,July,Tuesday,"Action, Biography, Crime",7.7,111,Arthur Penn,"Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman",2500000.0,50700000.0
+"South Park: Bigger, Longer & Uncut",1999-06-30,1999,June,Wednesday,"Animation, Comedy, Fantasy",7.7,81,Trey Parker,"Trey Parker, Matt Stone, Mary Kay Bergman, Isaac Hayes",21000000.0,83137603.0
+The Texas Chain Saw Massacre,1974-10-01,1974,October,Tuesday,Horror,7.4,83,Tobe Hooper,"Marilyn Burns, Edwin Neal, Allen Danziger, Paul A. Partain",85000.0,30900000.0
+Dodgeball: A True Underdog Story,1974-10-01,1974,October,Tuesday,"Comedy, Sport",6.7,92,Rawson Marshall Thurber,"Ben Stiller, Christine Taylor, Vince Vaughn, Rip Torn",85000.0,30900000.0
+La piel que habito,1974-10-01,1974,October,Tuesday,"Drama, Horror, Mystery",7.6,120,Pedro Almodóvar,"Antonio Banderas, Elena Anaya, Jan Cornet, Marisa Paredes",85000.0,30900000.0
+Ruby Sparks,2012-07-25,2012,July,Wednesday,"Comedy, Drama, Fantasy",7.2,104,Jonathan Dayton,"Valerie Faris, Paul Dano, Zoe Kazan, Annette Bening, Antonio Banderas",8000000.0,9128263.0
+Layer Cake,2004-09-30,2004,September,Thursday,"Action, Crime, Drama",7.3,105,Matthew Vaughn,"Daniel Craig, Sienna Miller, Michael Gambon, Tom Hardy",6500000.0,11850214.0
+Rounders,1998-09-11,1998,September,Friday,"Crime, Drama",7.3,121,John Dahl,"Matt Damon, Edward Norton, Gretchen Mol, John Malkovich",12000000.0,22921898.0
+Superman,1978-12-13,1978,December,Wednesday,"Action, Adventure, Sci-Fi",7.4,143,Richard Donner,"Christopher Reeve, Margot Kidder, Gene Hackman, Marlon Brando",55000000.0,300218018.0
+Day of the Dead,2008-04-08,2008,April,Tuesday,"Horror, Thriller",7.1,101,George A. Romero,"Lori Cardille, Terry Alexander, Joseph Pilato, Jarlath Conroy",18000000.0,
+Marathon Man,1976-10-08,1976,October,Friday,"Crime, Drama, Thriller",7.4,125,John Schlesinger,"Dustin Hoffman, Laurence Olivier, Roy Scheider, William Devane",6500000.0,21709020.0
+Midnight Cowboy,1969-05-25,1969,May,Sunday,Drama,7.8,113,John Schlesinger,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver",3600000.0,44785053.0
+Life of Brian,1979-08-17,1979,August,Friday,Comedy,8.0,94,Terry Jones,"Graham Chapman, John Cleese, Michael Palin, Terry Gilliam",4000000.0,20745728.0
+Raising Arizona,1987-03-01,1987,March,Sunday,"Comedy, Crime",7.3,94,Joel Coen,"Ethan Coen, Nicolas Cage, Holly Hunter, Trey Wilson, John Goodman",6000000.0,29180280.0
+Moon,2009-06-12,2009,June,Friday,"Drama, Mystery, Sci-Fi",7.8,97,Duncan Jones,"Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw",5000000.0,9760104.0
+Clerks,1994-09-13,1994,September,Tuesday,Comedy,7.7,92,Kevin Smith,"Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer",27575.0,3151130.0
+Drag Me to Hell,2009-03-15,2009,March,Sunday,Horror,6.6,99,Sam Raimi,"Alison Lohman, Justin Long, Ruth Livier, Lorna Raver",30000000.0,90810892.0
+Brazil,1985-02-20,1985,February,Wednesday,"Drama, Sci-Fi",7.9,132,Terry Gilliam,"Jonathan Pryce, Kim Greist, Robert De Niro, Katherine Helmond",15000000.0,9900000.0
+The Bourne Supremacy,2004-07-23,2004,July,Friday,"Action, Mystery, Thriller",7.7,108,Paul Greengrass,"Matt Damon, Franka Potente, Joan Allen, Brian Cox",75000000.0,288500217.0
+Trois couleurs: Rouge,2004-07-23,2004,July,Friday,"Drama, Mystery, Romance",8.1,99,Krzysztof Kieslowski,"Irène Jacob, Jean-Louis Trintignant, Frédérique Feder, Jean-Pierre Lorit",75000000.0,288500217.0
+A History of Violence,2005-09-23,2005,September,Friday,"Action, Crime, Drama",7.4,96,David Cronenberg,"Viggo Mortensen, Maria Bello, Ed Harris, William Hurt",32000000.0,60740827.0
+The Hangover,2009-06-02,2009,June,Tuesday,Comedy,7.7,100,Todd Phillips,"Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms",35000000.0,469310836.0
+Scott Pilgrim vs. the World,2010-08-12,2010,August,Thursday,"Action, Comedy, Fantasy",7.5,112,Edgar Wright,"Michael Cera, Mary Elizabeth Winstead, Kieran Culkin, Anna Kendrick",85000000.0,48000000.0
+The Producers,1967-11-22,1967,November,Wednesday,"Comedy, Music",7.5,88,Mel Brooks,"Zero Mostel, Gene Wilder, Dick Shawn, Kenneth Mars",947000.0,
+Animal Kingdom,2010-06-03,2010,June,Thursday,"Crime, Drama, Thriller",7.2,113,David Michôd,"James Frecheville, Guy Pearce, Joel Edgerton, Bryce Lindemann",5000000.0,1000000.0
+The Hudsucker Proxy,1994-03-11,1994,March,Friday,"Comedy, Drama, Fantasy",7.2,111,Joel Coen,"Ethan Coen, Tim Robbins, Paul Newman, Jennifer Jason Leigh, Charles Durning",25000000.0,2800000.0
+Jerry Maguire,1996-12-13,1996,December,Friday,"Comedy, Drama, Romance",7.3,139,Cameron Crowe,"Tom Cruise, Cuba Gooding Jr., Renée Zellweger, Kelly Preston",50000000.0,273552592.0
+Speed,1994-06-09,1994,June,Thursday,"Action, Adventure, Thriller",7.3,116,Jan de Bont,"Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton",30000000.0,350448145.0
+True Grit,1969-06-11,1969,June,Wednesday,"Drama, Western",7.6,110,Ethan Coen,"Joel Coen, Jeff Bridges, Matt Damon, Hailee Steinfeld, Josh Brolin",,31132592.0
+Cool Hand Luke,1967-06-22,1967,June,Thursday,"Crime, Drama",8.1,127,Stuart Rosenberg,"Paul Newman, George Kennedy, Strother Martin, J.D. Cannon",3200000.0,16217773.0
+Zombieland,2009-10-07,2009,October,Wednesday,"Action, Comedy, Horror",7.6,88,Ruben Fleischer,"Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin",23600000.0,102391540.0
+American: The Bill Hicks Story,2010-04-10,2010,April,Saturday,"Documentary, Animation, Biography",7.7,102,Matt Harlock,"Paul Thomas, Bill Hicks, Dwight Slade, Mary Hicks, Steve Hicks",,90275.0
+Crash,1996-07-17,1996,July,Wednesday,"Crime, Drama, Thriller",7.7,112,Paul Haggis,"Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave",9000000.0,
+The Graduate,1967-12-21,1967,December,Thursday,"Comedy, Drama, Romance",8.0,106,Mike Nichols,"Dustin Hoffman, Anne Bancroft, Katharine Ross, William Daniels",3000000.0,104945305.0
+A Bronx Tale,1993-09-14,1993,September,Tuesday,"Crime, Drama",7.8,121,Robert De Niro,"Robert De Niro, Chazz Palminteri, Lillo Brancato, Francis Capra",10000000.0,17287898.0
+Låt den rätte komma in,1993-09-14,1993,September,Tuesday,"Drama, Fantasy, Horror",7.9,114,Tomas Alfredson,"Kåre Hedebrant, Lina Leandersson, Per Ragnar, Henrik Dahl",10000000.0,17287898.0
+As Good as It Gets,1997-12-19,1997,December,Friday,"Comedy, Drama, Romance",7.7,139,James L. Brooks,"Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr.",50000000.0,314178011.0
+Das Boot,1981-09-17,1981,September,Thursday,"Drama, War",8.4,149,Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch",14000000.0,85000000.0
+A Serious Man,2009-09-30,2009,September,Wednesday,"Comedy, Drama",7.0,106,Ethan Coen,"Joel Coen, Michael Stuhlbarg, Richard Kind, Sari Lennick, Fred Melamed",7000000.0,31430334.0
+The Fly,1986-08-15,1986,August,Friday,"Drama, Horror, Sci-Fi",7.6,96,David Cronenberg,"Jeff Goldblum, Geena Davis, John Getz, Joy Boushel",15000000.0,60629159.0
+The Wrestler,2008-09-07,2008,September,Sunday,"Drama, Sport, Thriller",7.9,109,Darren Aronofsky,"Mickey Rourke, Marisa Tomei, Evan Rachel Wood, Mark Margolis",6000000.0,44734660.0
+Titanic,1997-11-18,1997,November,Tuesday,"Drama, Romance",7.9,194,James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",200000000.0,2264162353.0
+Finding Nemo,2003-05-30,2003,May,Friday,"Animation, Adventure, Comedy",8.2,100,Andrew Stanton,"Lee Unkrich, Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe",94000000.0,940335536.0
+The Fugitive,1993-08-06,1993,August,Friday,"Action, Crime, Drama",7.8,130,Andrew Davis,"Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore",44000000.0,368875760.0
+Star Wars,1977-05-25,1977,May,Wednesday,"Action, Adventure, Fantasy",8.6,121,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness",11000000.0,775398007.0
+The Hustler,1961-09-25,1961,September,Monday,"Drama, Sport",8.0,134,Robert Rossen,"Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott",2000000.0,7600000.0
+Per un pugno di dollari,1961-09-25,1961,September,Monday,"Action, Drama, Western",7.9,99,Sergio Leone,"Clint Eastwood, Gian Maria Volontè, Marianne Koch, Wolfgang Lukschy",2000000.0,7600000.0
+Don't Look Now,1973-01-18,1973,January,Thursday,"Drama, Horror, Mystery",7.1,110,Nicolas Roeg,"Julie Christie, Donald Sutherland, Hilary Mason, Clelia Matania",1500000.0,
+Fantastic Mr. Fox,2009-10-23,2009,October,Friday,"Animation, Adventure, Comedy",7.9,87,Wes Anderson,"George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman",40000000.0,46471023.0
+The Mist,2007-11-21,2007,November,Wednesday,"Horror, Sci-Fi, Thriller",7.1,126,Frank Darabont,"Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher",18000000.0,57470220.0
+Field of Dreams,1989-04-21,1989,April,Friday,"Drama, Family, Fantasy",7.5,107,Phil Alden Robinson,"Kevin Costner, James Earl Jones, Ray Liotta, Amy Madigan",15000000.0,84431625.0
+Rise of the Planet of the Apes,2011-08-03,2011,August,Wednesday,"Action, Drama, Sci-Fi",7.6,105,Rupert Wyatt,"James Franco, Andy Serkis, Freida Pinto, Karin Konoval",93000000.0,482860185.0
+Moneyball,2011-09-23,2011,September,Friday,"Biography, Drama, Sport",7.6,133,Bennett Miller,"Brad Pitt, Robin Wright, Jonah Hill, Philip Seymour Hoffman",50000000.0,110206216.0
+Jackass Number Two,2006-09-22,2006,September,Friday,"Documentary, Action, Comedy",7.0,92,Jeff Tremaine,"Johnny Knoxville, Steve-O, Chris Pontius, Bam Margera",11000000.0,72778712.0
+The Fighter,2010-12-10,2010,December,Friday,"Action, Biography, Drama",7.8,116,David O. Russell,"Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo",25000000.0,93617009.0
+Mud,2013-04-26,2013,April,Friday,Drama,7.4,130,Jeff Nichols,"Matthew McConaughey, Tye Sheridan, Jacob Lofland, Sam Shepard",10000000.0,32613173.0
+Hodejegerne,2013-04-26,2013,April,Friday,"Action, Crime, Thriller",7.5,100,Morten Tyldum,"Aksel Hennie, Synnøve Macody Lund, Nikolaj Coster-Waldau, Julie R. Ølgaard",10000000.0,32613173.0
+This Is the End,2013-06-12,2013,June,Wednesday,"Comedy, Fantasy",6.6,107,Evan Goldberg,"Seth Rogen, James Franco, Jonah Hill, Seth Rogen, Jay Baruchel",32000000.0,126041322.0
+Gone Girl,2014-10-01,2014,October,Wednesday,"Drama, Mystery, Thriller",8.1,149,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",61000000.0,369330363.0
+Guardians of the Galaxy,2014-07-30,2014,July,Wednesday,"Action, Adventure, Comedy",8.0,121,James Gunn,"Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",170000000.0,772776600.0
+Serbuan maut 2: Berandal,2014-07-30,2014,July,Wednesday,"Action, Crime, Thriller",7.9,150,Gareth Evans,"Iko Uwais, Yayan Ruhian, Arifin Putra, Oka Antara",170000000.0,772776600.0
+Mad Max: Fury Road,2015-05-13,2015,May,Wednesday,"Action, Adventure, Sci-Fi",8.1,120,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",150000000.0,378858340.0
+The Descent,2005-07-08,2005,July,Friday,"Adventure, Horror, Thriller",7.2,99,Neil Marshall,"Shauna Macdonald, Natalie Mendoza, Alex Reid, Saskia Mulder",3500000.0,57130027.0
+Patriots Day,2016-12-12,2016,December,Monday,"Action, Crime, Drama",7.3,133,Peter Berg,"Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman",45000000.0,50548152.0
+2001: A Space Odyssey,1968-04-02,1968,April,Tuesday,"Adventure, Sci-Fi",8.3,149,Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",12000000.0,71923560.0
+Insomnia,2002-05-24,2002,May,Friday,"Drama, Mystery, Thriller",7.2,118,Christopher Nolan,"Al Pacino, Robin Williams, Hilary Swank, Martin Donovan",46000000.0,113714830.0
+Capturing the Friedmans,2003-05-30,2003,May,Friday,"Documentary, Biography, Crime",7.7,107,Andrew Jarecki,"Arnold Friedman, Jesse Friedman, David Friedman, Elaine Friedman",,4076990.0
+The Curious Case of Benjamin Button,2008-12-25,2008,December,Thursday,"Drama, Fantasy, Romance",7.8,166,David Fincher,"Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond",150000000.0,335802786.0
+Batman,1989-06-23,1989,June,Friday,"Action, Adventure",7.5,126,Tim Burton,"Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl",35000000.0,411348924.0
+Sleepy Hollow,1999-11-19,1999,November,Friday,"Fantasy, Horror, Mystery",7.3,105,Tim Burton,"Johnny Depp, Christina Ricci, Miranda Richardson, Michael Gambon",100000000.0,206071502.0
+The Third Man,1949-08-31,1949,August,Wednesday,"Film-Noir, Mystery, Thriller",8.1,104,Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard",,1226098.0
+Spider-Man 2,2004-06-25,2004,June,Friday,"Action, Adventure, Sci-Fi",7.4,127,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco",200000000.0,788976453.0
+24 Hour Party People,2002-02-13,2002,February,Wednesday,"Biography, Comedy, Drama",7.3,117,Michael Winterbottom,"Steve Coogan, Lennie James, John Thomson, Nigel Pivaro",,
+The Blair Witch Project,1999-07-14,1999,July,Wednesday,"Horror, Mystery",6.5,81,Daniel Myrick,"Eduardo Sánchez, Heather Donahue, Michael C. Williams, Joshua Leonard, Bob Griffin",200000.0,248639099.0
+End of Watch,2012-09-20,2012,September,Thursday,"Action, Adventure, Crime",7.6,109,David Ayer,"Jake Gyllenhaal, Michael Peña, Anna Kendrick, America Ferrera",7000000.0,48126384.0
+WALL·E,2008-06-22,2008,June,Sunday,"Animation, Adventure, Family",8.4,98,Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",180000000.0,521311860.0
+The Imposter,2012-07-13,2012,July,Friday,"Documentary, Biography, Crime",7.5,99,Bart Layton,"Adam O'Brian, Nicholas Barclay, Carey Gibson, Bryan Gibson",,
+Salvador,1986-04-23,1986,April,Wednesday,"Drama, History, Thriller",7.4,122,Oliver Stone,"James Woods, Jim Belushi, Michael Murphy, John Savage",4500000.0,1500000.0
+X2,2003-04-27,2003,April,Sunday,"Action, Sci-Fi, Thriller",7.4,134,Bryan Singer,"Patrick Stewart, Hugh Jackman, Halle Berry, Ian McKellen",110000000.0,407711549.0
+Spider-Man,2002-05-01,2002,May,Wednesday,"Action, Adventure, Sci-Fi",7.4,121,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco",139000000.0,821708551.0
+North by Northwest,1959-07-08,1959,July,Wednesday,"Action, Adventure, Mystery",8.3,136,Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",4000000.0,13275000.0
+Inside Man,2006-03-17,2006,March,Friday,"Crime, Drama, Mystery",7.6,129,Spike Lee,"Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer",45000000.0,186003591.0
+Face/Off,1997-06-27,1997,June,Friday,"Action, Crime, Sci-Fi",7.3,138,John Woo,"John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola",80000000.0,245676146.0
+The Lego Movie,2014-02-06,2014,February,Thursday,"Animation, Action, Adventure",7.7,100,Phil Lord,"Christopher Miller, Chris Pratt, Will Ferrell, Elizabeth Banks, Will Arnett",60000000.0,469160692.0
+Batoru rowaiaru,2014-02-06,2014,February,Thursday,"Action, Adventure, Drama",7.6,114,Kinji Fukasaku,"Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto, Chiaki Kuriyama",60000000.0,469160692.0
+Mission: Impossible - Ghost Protocol,2011-12-07,2011,December,Wednesday,"Action, Adventure, Thriller",7.4,132,Brad Bird,"Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton",145000000.0,694713380.0
+Mission: Impossible,1996-05-22,1996,May,Wednesday,"Action, Adventure, Thriller",7.1,110,Brian De Palma,"Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny",80000000.0,457731198.0
+Collateral,2004-08-04,2004,August,Wednesday,"Action, Crime, Drama",7.5,120,Michael Mann,"Tom Cruise, Jamie Foxx, Jada Pinkett Smith, Mark Ruffalo",65000000.0,217764291.0
+Edge of Tomorrow,2014-05-27,2014,May,Tuesday,"Action, Adventure, Sci-Fi",7.9,113,Doug Liman,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson",178000000.0,370541256.0
+Snowpiercer,2013-08-01,2013,August,Thursday,"Action, Drama, Sci-Fi",7.1,126,Bong Joon Ho,"Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris",39200000.0,86758912.0
+Blade,1998-08-21,1998,August,Friday,"Action, Horror, Sci-Fi",7.1,120,Stephen Norrington,"Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright",45000000.0,131183530.0
+The Artist,2011-10-12,2011,October,Wednesday,"Comedy, Drama, Romance",7.9,100,Michel Hazanavicius,"Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",15000000.0,133432856.0
+The Crying Game,1992-09-02,1992,September,Wednesday,"Crime, Drama, Romance",7.2,112,Neil Jordan,"Stephen Rea, Jaye Davidson, Forest Whitaker, Miranda Richardson",3705538.0,62548947.0
+Grizzly Man,2005-08-12,2005,August,Friday,"Documentary, Biography",7.8,103,Werner Herzog,"Timothy Treadwell, Amie Huguenard, Werner Herzog, Carol Dexter",,
+Starship Troopers,1997-11-07,1997,November,Friday,"Action, Adventure, Sci-Fi",7.3,129,Paul Verhoeven,"Casper Van Dien, Denise Richards, Dina Meyer, Jake Busey",105000000.0,121214377.0
+Dig!,2004-05-14,2004,May,Friday,"Documentary, Music",7.7,107,Ondi Timoner,"Anton Newcombe, Courtney Taylor-Taylor, Joel Gion, Matt Hollywood",,127067.0
+Caché,2005-10-05,2005,October,Wednesday,"Drama, Mystery, Thriller",7.3,117,Michael Haneke,"Daniel Auteuil, Juliette Binoche, Maurice Bénichou, Annie Girardot",8731048.0,36000000.0
+Idi i smotri,2005-10-05,2005,October,Wednesday,"Drama, Thriller, War",8.4,142,Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas",8731048.0,36000000.0
+Jûsan-nin no shikaku,2005-10-05,2005,October,Wednesday,"Action, Adventure, Drama",7.5,141,Takashi Miike,"Kôji Yakusho, Takayuki Yamada, Yûsuke Iseya, Ikki Sawamura",8731048.0,36000000.0
+Gone Baby Gone,2007-06-06,2007,June,Wednesday,"Crime, Drama, Mystery",7.6,114,Ben Affleck,"Morgan Freeman, Ed Harris, Casey Affleck, Michelle Monaghan",19000000.0,34619699.0
+Rango,2011-03-02,2011,March,Wednesday,"Animation, Action, Adventure",7.2,107,Gore Verbinski,"Johnny Depp, Isla Fisher, Timothy Olyphant, Abigail Breslin",135000000.0,245724603.0
+Trois couleurs: Blanc,2011-03-02,2011,March,Wednesday,"Comedy, Drama, Romance",7.6,92,Krzysztof Kieslowski,"Zbigniew Zamachowski, Julie Delpy, Janusz Gajos, Jerzy Stuhr",135000000.0,245724603.0
+Murderball,2005-07-22,2005,July,Friday,"Documentary, Sport",7.7,88,Henry Alex Rubin,"Dana Adam Shapiro, Joe Soares, Keith Cavill, Mark Zupan, Robert Soares",300000.0,1750211.0
+Dogville,2003-05-19,2003,May,Monday,"Crime, Drama",8.0,178,Lars von Trier,"Nicole Kidman, Paul Bettany, Lauren Bacall, Harriet Andersson",10000000.0,16680836.0
+Blow Out,1981-07-24,1981,July,Friday,"Crime, Drama, Mystery",7.4,108,Brian De Palma,"John Travolta, Nancy Allen, John Lithgow, Dennis Franz",18000000.0,12000000.0
+Marley,2012-04-20,2012,April,Friday,"Documentary, Biography, Music",7.9,144,Kevin Macdonald,"Bob Marley, Ziggy Marley, Rita Marley, Jimmy Cliff",,
+American Splendor,2003-08-15,2003,August,Friday,"Biography, Comedy, Drama",7.4,101,Shari Springer Berman,"Robert Pulcini, Paul Giamatti, Shari Springer Berman, Harvey Pekar, Chris Ambrose",2000000.0,6003587.0
+Changeling,2008-01-30,2008,January,Wednesday,"Biography, Crime, Drama",7.8,141,Clint Eastwood,"Angelina Jolie, Colm Feore, Amy Ryan, Gattlin Griffith",55000000.0,113020255.0
+Braveheart,1995-05-24,1995,May,Wednesday,"Biography, Drama, History",8.3,178,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen",72000000.0,213216216.0
+The Fisher King,1991-09-20,1991,September,Friday,"Comedy, Drama, Fantasy",7.5,137,Terry Gilliam,"Jeff Bridges, Robin Williams, Adam Bryant, Paul Lombardi",24000000.0,41895491.0
+Wild at Heart,1990-08-17,1990,August,Friday,"Comedy, Crime, Drama",7.2,125,David Lynch,"Nicolas Cage, Laura Dern, Willem Dafoe, J.E. Freeman",9500000.0,14560247.0
+Control,2022-09-23,2022,September,Friday,"Biography, Drama, Music",7.6,122,Anton Corbijn,"Sam Riley, Samantha Morton, Craig Parkinson, Alexandra Maria Lara",,
+In the Loop,2009-01-22,2009,January,Thursday,Comedy,7.4,106,Armando Iannucci,"Tom Hollander, Peter Capaldi, James Gandolfini, Harry Hadden-Paton",,6149791.0
+Cop Land,1997-08-15,1997,August,Friday,"Crime, Drama, Thriller",7.0,105,James Mangold,"Sylvester Stallone, Harvey Keitel, Ray Liotta, Robert De Niro",15000000.0,44862187.0
+Oldeuboi,1997-08-15,1997,August,Friday,"Action, Drama, Mystery",8.4,120,Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok",15000000.0,44862187.0
+Black Swan,2010-12-03,2010,December,Friday,"Drama, Thriller",8.0,108,Darren Aronofsky,"Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder",13000000.0,329398046.0
+Salinui chueok,2010-12-03,2010,December,Friday,"Crime, Drama, Mystery",8.1,131,Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Roe-ha Kim, Jae-ho Song",13000000.0,329398046.0
+Willy Wonka & the Chocolate Factory,1971-06-29,1971,June,Tuesday,"Family, Fantasy, Musical",7.8,100,Mel Stuart,"Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear",3000000.0,4000000.0
+Argo,2012-10-11,2012,October,Thursday,"Biography, Drama, Thriller",7.7,120,Ben Affleck,"Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin",44500000.0,232325503.0
+Dawn of the Planet of the Apes,2014-06-26,2014,June,Thursday,"Action, Adventure, Drama",7.6,130,Matt Reeves,"Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee",170000000.0,710644566.0
+The Taking of Pelham One Two Three,1974-10-02,1974,October,Wednesday,"Action, Crime, Thriller",7.6,104,Joseph Sargent,"Walter Matthau, Robert Shaw, Martin Balsam, Hector Elizondo",,
+50/50,2011-09-30,2011,September,Friday,"Comedy, Drama, Romance",7.6,100,Jonathan Levine,"Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard",8000000.0,39187783.0
+Notting Hill,1999-05-21,1999,May,Friday,"Comedy, Drama, Romance",7.2,124,Roger Michell,"Hugh Grant, Julia Roberts, Richard McCabe, Rhys Ifans",42000000.0,363889678.0
+The Grand Budapest Hotel,2014-02-26,2014,February,Wednesday,"Adventure, Comedy, Crime",8.1,99,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",30000000.0,174600318.0
+The Proposition,2005-10-06,2005,October,Thursday,"Crime, Drama, Western",7.3,104,John Hillcoat,"Ray Winstone, Guy Pearce, Emily Watson, Richard Wilson",2000000.0,5048693.0
+Bernie,2012-04-27,2012,April,Friday,"Biography, Comedy, Crime",6.8,99,Richard Linklater,"Jack Black, Shirley MacLaine, Matthew McConaughey, Brady Coleman",5000000.0,9206470.0
+The Aviator,2004-12-17,2004,December,Friday,"Biography, Drama",7.5,170,Martin Scorsese,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly",110000000.0,213700000.0
+Knuckle,2011-12-09,2011,December,Friday,"Documentary, Biography, Drama",6.8,97,Ian Palmer,"James Quinn McDonagh, Paddy Quinn McDonagh, Michael Quinn McDonagh, Ian Palmer",,
+Paths of Glory,1957-10-25,1957,October,Friday,"Drama, War",8.4,88,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready",935000.0,
+A Hard Day's Night,1964-07-07,1964,July,Tuesday,"Comedy, Musical",7.5,87,Richard Lester,"John Lennon, Paul McCartney, George Harrison, Ringo Starr",560000.0,2360561.0
+Holy Motors,2012-07-02,2012,July,Monday,"Drama, Fantasy",7.0,115,Leos Carax,"Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue",4000000.0,641100.0
+Moonrise Kingdom,2012-05-16,2012,May,Wednesday,"Comedy, Drama, Family",7.8,94,Wes Anderson,"Jared Gilman, Kara Hayward, Bruce Willis, Bill Murray",16000000.0,68263166.0
+Capitalism: A Love Story,2009-09-06,2009,September,Sunday,"Documentary, Crime, History",7.4,127,Michael Moore,"Michael Moore, William Black, Jimmy Carter, Elijah Cummings",20000000.0,17436509.0
+Galaxy Quest,1999-12-25,1999,December,Saturday,"Adventure, Comedy, Sci-Fi",7.4,102,Dean Parisot,"Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub",45000000.0,90683916.0
+A Room for Romeo Brass,1999-08-23,1999,August,Monday,"Comedy, Drama",7.6,90,Shane Meadows,"Martin Arrowsmith, Dave Blant, Darren Campbell, Paddy Considine",,
+Big,1988-06-03,1988,June,Friday,"Comedy, Drama, Fantasy",7.3,104,Penny Marshall,"Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard",18000000.0,151927281.0
+L'instinct de mort,1988-06-03,1988,June,Friday,"Action, Biography, Crime",7.5,113,Jean-François Richet,"Vincent Cassel, Cécile de France, Gérard Depardieu, Gilles Lellouche",18000000.0,151927281.0
+Performance,1970-08-03,1970,August,Monday,"Crime, Drama",6.7,105,Donald Cammell,"Nicolas Roeg, James Fox, Mick Jagger, Anita Pallenberg, Michèle Breton",,
+Michael Clayton,2007-10-12,2007,October,Friday,"Crime, Drama, Mystery",7.2,119,Tony Gilroy,"George Clooney, Tilda Swinton, Tom Wilkinson, Michael O'Keefe",25000000.0,92991835.0
+The Fifth Element,1997-05-02,1997,May,Friday,"Action, Adventure, Sci-Fi",7.6,126,Luc Besson,"Bruce Willis, Milla Jovovich, Gary Oldman, Ian Holm",90000000.0,263920180.0
+Shaun of the Dead,2004-04-09,2004,April,Friday,"Comedy, Horror",7.9,99,Edgar Wright,"Simon Pegg, Nick Frost, Kate Ashfield, Lucy Davis",6100000.0,30097092.0
+The Spy Who Loved Me,1977-07-07,1977,July,Thursday,"Action, Adventure, Thriller",7.0,125,Lewis Gilbert,"Roger Moore, Barbara Bach, Curd Jürgens, Richard Kiel",13000000.0,185438673.0
+A Monster Calls,2016-10-07,2016,October,Friday,"Adventure, Drama, Family",7.4,108,J.A. Bayona,"Lewis MacDougall, Sigourney Weaver, Felicity Jones, Toby Kebbell",43000000.0,47309313.0
+"I, Tonya",2017-12-08,2017,December,Friday,"Biography, Comedy, Drama",7.5,119,Craig Gillespie,"Margot Robbie, Sebastian Stan, Allison Janney, Julianne Nicholson",11000000.0,53939297.0
+El secreto de sus ojos,2017-12-08,2017,December,Friday,"Drama, Mystery, Romance",8.2,129,Juan José Campanella,"Ricardo Darín, Soledad Villamil, Pablo Rago, Carla Quevedo",11000000.0,53939297.0
+Broadcast News,1987-12-16,1987,December,Wednesday,"Comedy, Drama, Romance",7.2,133,James L. Brooks,"William Hurt, Albert Brooks, Holly Hunter, Robert Prosky",20000000.0,67330500.0
+The Goonies,1985-06-07,1985,June,Friday,"Adventure, Comedy, Family",7.7,114,Richard Donner,"Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman",19000000.0,61389680.0
+Rebel Without a Cause,1955-10-29,1955,October,Saturday,Drama,7.6,111,Nicholas Ray,"James Dean, Natalie Wood, Sal Mineo, Jim Backus",1500000.0,4500000.0
+Training Day,2001-10-05,2001,October,Friday,"Action, Crime, Drama",7.7,122,Antoine Fuqua,"Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger",45000000.0,104876233.0
+Coco,2017-10-27,2017,October,Friday,"Animation, Adventure, Comedy",8.4,105,Lee Unkrich,"Adrian Molina, Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach",175000000.0,800526015.0
+Avengers: Infinity War,2018-04-25,2018,April,Wednesday,"Action, Adventure, Sci-Fi",8.4,149,Anthony Russo,"Joe Russo, Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",300000000.0,2052415039.0
+Mission: Impossible - Fallout,2018-07-13,2018,July,Friday,"Action, Adventure, Thriller",7.7,147,Christopher McQuarrie,"Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg",178000000.0,791657398.0
+The Wind that Shakes the Barley,2018-07-13,2018,July,Friday,"Drama, War",7.5,127,Ken Loach,"Cillian Murphy, Pádraic Delaney, Liam Cunningham, Orla Fitzgerald",178000000.0,791657398.0
+Cemetery Junction,2010-04-14,2010,April,Wednesday,"Comedy, Drama",6.8,95,Ricky Gervais,"Stephen Merchant, Christian Cooke, Felicity Jones, Tom Hughes, Jack Doolan",,
+Before the Devil Knows You're Dead,2007-09-26,2007,September,Wednesday,"Crime, Drama, Thriller",7.3,117,Sidney Lumet,"Philip Seymour Hoffman, Ethan Hawke, Albert Finney, Marisa Tomei",18000000.0,25005257.0
+Sunset Blvd.,2007-09-26,2007,September,Wednesday,"Drama, Film-Noir",8.4,110,Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson",18000000.0,25005257.0
+8 Mile,2002-11-08,2002,November,Friday,"Drama, Music",7.2,110,Curtis Hanson,"Eminem, Brittany Murphy, Kim Basinger, Mekhi Phifer",41000000.0,242875078.0
+The Incredibles,2004-10-27,2004,October,Wednesday,"Animation, Action, Adventure",8.0,115,Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee",92000000.0,631442092.0
+The Hurt Locker,2008-10-10,2008,October,Friday,"Drama, Thriller, War",7.5,131,Kathryn Bigelow,"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce",15000000.0,49230772.0
+Santa Sangre,1989-11-24,1989,November,Friday,"Drama, Horror, Thriller",7.5,123,Alejandro Jodorowsky,"Axel Jodorowsky, Blanca Guerra, Guy Stockwell, Thelma Tixou",787000.0,
+Gangs of New York,2002-12-14,2002,December,Saturday,"Crime, Drama",7.5,167,Martin Scorsese,"Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent",100000000.0,193772504.0
+Basic Instinct,1992-03-20,1992,March,Friday,"Drama, Mystery, Thriller",7.0,127,Paul Verhoeven,"Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn",49000000.0,352927224.0
+Sing Street,2016-03-11,2016,March,Friday,"Comedy, Drama, Music",7.9,106,John Carney,"Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor",4000000.0,13624522.0
+The Omen,1976-06-25,1976,June,Friday,"Horror, Mystery",7.5,111,Richard Donner,"Gregory Peck, Lee Remick, Harvey Stephens, David Warner",2800000.0,60922980.0
+Winter's Bone,2010-06-11,2010,June,Friday,"Drama, Mystery",7.1,100,Debra Granik,"Jennifer Lawrence, John Hawkes, Garret Dillahunt, Isaiah Stone",2000000.0,13831503.0
+The Avengers,2012-04-25,2012,April,Wednesday,"Action, Sci-Fi",8.0,143,Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner",220000000.0,1518815515.0
+Die Hard 2,1990-07-02,1990,July,Monday,"Action, Thriller",7.1,124,Renny Harlin,"Bruce Willis, William Atherton, Bonnie Bedelia, Reginald VelJohnson",70000000.0,240031094.0
+Affliction,1998-02-12,1998,February,Thursday,"Drama, Mystery, Thriller",6.9,114,Paul Schrader,"Nick Nolte, Sissy Spacek, James Coburn, Brigid Tierney",6000000.0,6330054.0
+Invasion of the Body Snatchers,1978-12-19,1978,December,Tuesday,"Horror, Sci-Fi",7.4,115,Philip Kaufman,"Donald Sutherland, Brooke Adams, Jeff Goldblum, Veronica Cartwright",3500000.0,24946533.0
+American Pie 2,2001-08-10,2001,August,Friday,Comedy,6.4,108,J.B. Rogers,"Jason Biggs, Seann William Scott, Shannon Elizabeth, Alyson Hannigan",30000000.0,287553595.0
+Buffalo Soldiers,2002-10-31,2002,October,Thursday,"Comedy, Crime, Drama",6.7,98,Gregor Jordan,"Joaquin Phoenix, Anna Paquin, Ed Harris, Scott Glenn",15000000.0,
+Wolf Creek,2005-09-16,2005,September,Friday,"Horror, Thriller",6.2,99,Greg McLean,"Nathan Phillips, Cassandra Magrath, Kestie Morassi, John Jarratt",1000000.0,30894796.0
+Four Lions,2010-05-07,2010,May,Friday,"Comedy, Crime, Drama",7.3,97,Christopher Morris,"Will Adamsdale, Riz Ahmed, Adeel Akhtar, Arsher Ali",967686.0,4658570.0
+Dip huet seung hung,2010-05-07,2010,May,Friday,"Action, Crime, Drama",7.8,111,John Woo,"Chow Yun-Fat, Danny Lee, Sally Yeh, Kong Chu",967686.0,4658570.0
+Say Anything...,1989-04-14,1989,April,Friday,"Comedy, Drama, Romance",7.3,100,Cameron Crowe,"John Cusack, Ione Skye, John Mahoney, Lili Taylor",16000000.0,20036737.0
+The Insider,1999-10-28,1999,October,Thursday,"Biography, Drama, Thriller",7.8,157,Michael Mann,"Russell Crowe, Al Pacino, Christopher Plummer, Diane Venora",90000000.0,60289912.0
+Home Alone,1990-11-16,1990,November,Friday,"Comedy, Family",7.7,103,Chris Columbus,"Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard",18000000.0,476684675.0
+Dances with Wolves,1990-03-30,1990,March,Friday,"Adventure, Drama, Western",8.0,181,Kevin Costner,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant",22000000.0,424208848.0
+25th Hour,2002-12-19,2002,December,Thursday,Drama,7.6,135,Spike Lee,"Edward Norton, Barry Pepper, Philip Seymour Hoffman, Rosario Dawson",5000000.0,24000000.0
+Rosemary's Baby,1968-06-12,1968,June,Wednesday,"Drama, Horror",8.0,137,Roman Polanski,"Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer",3200000.0,33395426.0
+Easy Rider,1969-06-26,1969,June,Thursday,"Adventure, Drama",7.3,95,Dennis Hopper,"Peter Fonda, Dennis Hopper, Jack Nicholson, Antonio Mendoza",400000.0,60000000.0
+Exit Through the Gift Shop,2010-03-05,2010,March,Friday,"Documentary, Comedy, Crime",7.9,87,Banksy,"Banksy, Mr. Brainwash, Space Invader, Debora Guetta",,4790751.0
+A.I. Artificial Intelligence,2001-06-29,2001,June,Friday,"Drama, Sci-Fi",7.2,146,Steven Spielberg,"Haley Joel Osment, Jude Law, Frances O'Connor, Sam Robards",100000000.0,235926552.0
+Total Recall,2012-08-02,2012,August,Thursday,"Action, Adventure, Sci-Fi",7.5,113,Paul Verhoeven,"Arnold Schwarzenegger, Sharon Stone, Michael Ironside, Rachel Ticotin",125000000.0,198802074.0
+Side Effects,2013-02-07,2013,February,Thursday,"Crime, Drama, Mystery",7.1,106,Steven Soderbergh,"Rooney Mara, Channing Tatum, Jude Law, Catherine Zeta-Jones",30000000.0,63372757.0
+Killer Joe,2011-09-10,2011,September,Saturday,"Drama, Thriller",6.7,102,William Friedkin,"Matthew McConaughey, Emile Hirsch, Juno Temple, Thomas Haden Church",10000000.0,4633668.0
+The Queen of Versailles,2012-07-06,2012,July,Friday,Documentary,7.1,103,Lauren Greenfield,"Jaqueline Siegel, David Siegel, Lorraine Barrett, June Downs",,714544.0
+Taxi to the Dark Side,2007-04-30,2007,April,Monday,"Documentary, Crime, History",7.5,106,Alex Gibney,"Alex Gibney, Brian Keith Allen, Moazzam Begg, Christopher Beiring",1000000.0,274661.0
+Point Blank,2019-07-12,2019,July,Friday,"Crime, Drama, Thriller",7.3,92,John Boorman,"Lee Marvin, Angie Dickinson, Keenan Wynn, Carroll O'Connor",,
+Back to the Future Part II,1989-11-22,1989,November,Wednesday,"Adventure, Comedy, Sci-Fi",7.8,108,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Tom Wilson",40000000.0,332000000.0
+Leaving Las Vegas,1995-10-27,1995,October,Friday,"Drama, Romance",7.5,111,Mike Figgis,"Nicolas Cage, Elisabeth Shue, Julian Sands, Richard Lewis",3600000.0,49800000.0
+Poltergeist,1982-06-04,1982,June,Friday,"Horror, Thriller",7.3,114,Tobe Hooper,"JoBeth Williams, Heather O'Rourke, Craig T. Nelson, Beatrice Straight",10700000.0,122200000.0
+Tinker Tailor Soldier Spy,2011-09-16,2011,September,Friday,"Drama, Mystery, Thriller",7.0,127,Tomas Alfredson,"Gary Oldman, Colin Firth, Tom Hardy, Mark Strong",30000000.0,80630608.0
+The Searchers,1956-05-07,1956,May,Monday,"Adventure, Drama, Western",7.9,119,John Ford,"John Wayne, Jeffrey Hunter, Vera Miles, Ward Bond",3750000.0,
+The Spectacular Now,2013-08-02,2013,August,Friday,"Drama, Romance",7.1,95,James Ponsoldt,"Miles Teller, Shailene Woodley, Kyle Chandler, Jennifer Jason Leigh",2500000.0,6854611.0
+Deliverance,1972-08-18,1972,August,Friday,"Adventure, Drama, Thriller",7.7,109,John Boorman,"Jon Voight, Burt Reynolds, Ned Beatty, Ronny Cox",2000000.0,46122355.0
+From Russia with Love,1963-10-10,1963,October,Thursday,"Action, Adventure, Thriller",7.4,115,Terence Young,"Sean Connery, Robert Shaw, Lotte Lenya, Daniela Bianchi",2500000.0,78900000.0
+American Movie,1999-11-05,1999,November,Friday,"Documentary, Comedy",7.8,107,Chris Smith,"Mark Borchardt, Mike Schank, Tom Schimmels, Monica Borchardt",,
+Trois couleurs: Bleu,1999-11-05,1999,November,Friday,"Drama, Music, Mystery",7.9,94,Krzysztof Kieslowski,"Juliette Binoche, Zbigniew Zamachowski, Julie Delpy, Benoît Régent",,
+"Monsters, Inc.",2001-11-01,2001,November,Thursday,"Animation, Adventure, Comedy",8.1,92,Pete Docter,"David Silverman, Lee Unkrich, Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi",115000000.0,579707738.0
+Life of Pi,2012-11-20,2012,November,Tuesday,"Adventure, Drama, Fantasy",7.9,127,Ang Lee,"Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu",120000000.0,609016565.0
+Good Vibrations,2012-05-31,2012,May,Thursday,"Biography, Drama, Music",7.2,103,Lisa Barros D'Sa,"Glenn Leyburn, Cathal Maguire, Peter Kelly, Charlie Berkeley, Jack Carberry",,
+Revenge of the Nerds,1984-07-20,1984,July,Friday,Comedy,6.6,90,Jeff Kanew,"Robert Carradine, Anthony Edwards, Timothy Busfield, Andrew Cassese",,
+Blade Runner,1982-06-25,1982,June,Friday,"Action, Drama, Sci-Fi",8.1,117,Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos",28000000.0,41722424.0
+Captain America: The Winter Soldier,2014-03-20,2014,March,Thursday,"Action, Adventure, Sci-Fi",7.8,136,Anthony Russo,"Joe Russo, Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",170000000.0,714766572.0
+The Great Escape,1963-06-20,1963,June,Thursday,"Adventure, Drama, History",8.2,172,John Sturges,"Steve McQueen, James Garner, Richard Attenborough, Charles Bronson",4000000.0,11744471.0
+The Last Waltz,1978-05-01,1978,May,Monday,"Documentary, Biography, Music",8.1,117,Martin Scorsese,"Robbie Robertson, Muddy Waters, Neil Young, Van Morrison",,321952.0
+Scent of a Woman,1992-12-23,1992,December,Wednesday,Drama,8.0,156,Martin Brest,"Al Pacino, Chris O'Donnell, James Rebhorn, Gabrielle Anwar",31000000.0,134095253.0
+Midnight Run,1988-07-20,1988,July,Wednesday,"Action, Comedy, Crime",7.5,126,Martin Brest,"Robert De Niro, Charles Grodin, Yaphet Kotto, John Ashton",30000000.0,38413606.0
+Thief,1981-03-27,1981,March,Friday,"Action, Crime, Drama",7.4,123,Michael Mann,"James Caan, Tuesday Weld, Willie Nelson, Jim Belushi",5500000.0,11492915.0
+The Elephant Man,1980-10-09,1980,October,Thursday,"Biography, Drama",8.2,124,David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud",5000000.0,26010864.0
+Rocky,1976-11-21,1976,November,Sunday,"Drama, Sport",8.1,120,John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",1000000.0,117250402.0
+Vertigo,1958-05-28,1958,May,Wednesday,"Mystery, Romance, Thriller",8.3,128,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore",2479000.0,7797728.0
+El Topo,1970-12-18,1970,December,Friday,"Drama, Western",7.2,125,Alejandro Jodorowsky,"Alejandro Jodorowsky, Brontis Jodorowsky, José Legarreta, Alfonso Arau",400000.0,
+Kill List,2011-09-02,2011,September,Friday,"Action, Crime, Horror",6.4,95,Ben Wheatley,"Neil Maskell, MyAnna Buring, Harry Simpson, Michael Smiley",500000.0,450275.0
+The Dead Zone,1983-10-21,1983,October,Friday,"Drama, Horror, Sci-Fi",7.2,103,David Cronenberg,"Christopher Walken, Brooke Adams, Tom Skerritt, Herbert Lom",10000000.0,20766616.0
+Mary and Max.,1983-10-21,1983,October,Friday,"Animation, Comedy, Drama",8.1,92,Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries",10000000.0,20766616.0
+Dr. No,1962-10-07,1962,October,Sunday,"Action, Adventure, Thriller",7.2,110,Terence Young,"Sean Connery, Ursula Andress, Bernard Lee, Joseph Wiseman",1200000.0,59567035.0
+GoldenEye,1995-11-16,1995,November,Thursday,"Action, Adventure, Thriller",7.2,130,Martin Campbell,"Pierce Brosnan, Sean Bean, Izabella Scorupco, Famke Janssen",58000000.0,352194034.0
+Zero Dark Thirty,2012-12-19,2012,December,Wednesday,"Drama, History, Thriller",7.4,157,Kathryn Bigelow,"Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong",40000000.0,132820716.0
+The World's End,2013-07-18,2013,July,Thursday,"Action, Comedy, Sci-Fi",6.9,109,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike",20000000.0,46089287.0
+Election,1999-04-23,1999,April,Friday,"Comedy, Romance",7.3,103,Alexander Payne,"Matthew Broderick, Reese Witherspoon, Chris Klein, Jessica Campbell",25000000.0,14902041.0
+Escape from Alcatraz,1979-06-22,1979,June,Friday,"Action, Biography, Crime",7.6,112,Don Siegel,"Clint Eastwood, Patrick McGoohan, Roberts Blossom, Jack Thibeau",8000000.0,43004381.0
+Un condamné à mort s'est échappé ou Le vent souffle où il veut,1979-06-22,1979,June,Friday,"Drama, Thriller, War",8.2,101,Robert Bresson,"François Leterrier, Charles Le Clainche, Maurice Beerblock, Roland Monod",8000000.0,43004381.0
+The Cabin in the Woods,2012-04-12,2012,April,Thursday,"Horror, Mystery, Thriller",7.0,95,Drew Goddard,"Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz",30000000.0,71041255.0
+Silver Linings Playbook,2012-11-16,2012,November,Friday,"Comedy, Drama, Romance",7.7,122,David O. Russell,"Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver",21000000.0,236412453.0
+Rush,2013-09-02,2013,September,Monday,"Action, Biography, Drama",8.1,123,Ron Howard,"Daniel Brühl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara",38000000.0,90247624.0
+Elf,2003-10-09,2003,October,Thursday,"Adventure, Comedy, Family",7.1,97,Jon Favreau,"Will Ferrell, James Caan, Bob Newhart, Zooey Deschanel",32000000.0,225097437.0
+The Abyss,1989-08-09,1989,August,Wednesday,"Adventure, Drama, Mystery",7.5,140,James Cameron,"Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester",70000000.0,90000098.0
+Gravity,2013-10-03,2013,October,Thursday,"Drama, Sci-Fi, Thriller",7.7,91,Alfonso Cuarón,"Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen",105000000.0,723192705.0
+Her,2013-12-18,2013,December,Wednesday,"Drama, Romance, Sci-Fi",8.0,126,Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara",23000000.0,47351251.0
+Captain Phillips,2013-10-10,2013,October,Thursday,"Action, Biography, Crime",7.8,134,Paul Greengrass,"Tom Hanks, Barkhad Abdi, Barkhad Abdirahman, Catherine Keener",55000000.0,218791811.0
+Bound,1996-09-13,1996,September,Friday,"Crime, Thriller",7.3,109,Lana Wachowski,"Lilly Wachowski, Jennifer Tilly, Gina Gershon, Joe Pantoliano, John P. Ryan",4500000.0,7011317.0
+Half Nelson,2006-08-11,2006,August,Friday,Drama,7.1,106,Ryan Fleck,"Ryan Gosling, Anthony Mackie, Shareeka Epps, Jeff Lima",700000.0,4911725.0
+Munich,2005-12-23,2005,December,Friday,"Action, Drama, History",7.5,164,Steven Spielberg,"Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds",70000000.0,130982129.0
+Traffic,2000-03-23,2000,March,Thursday,"Crime, Drama, Thriller",7.6,147,Steven Soderbergh,"Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones, Jacob Vargas",48000000.0,207515725.0
+Nightcrawler,2014-10-23,2014,October,Thursday,"Crime, Drama, Thriller",7.8,117,Dan Gilroy,"Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed",8500000.0,50300000.0
+X-Men: Days of Future Past,2014-05-15,2014,May,Thursday,"Action, Adventure, Sci-Fi",7.9,132,Bryan Singer,"Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy",250000000.0,747862775.0
+Mistaken for Strangers,2013-09-19,2013,September,Thursday,"Documentary, Comedy, Music",7.3,75,Tom Berninger,"Tom Berninger, Matt Berninger, Bryce Dessner, Bryan Devendorf",,137460.0
+The Bad Lieutenant: Port of Call - New Orleans,2013-09-19,2013,September,Thursday,"Crime, Drama",6.6,122,Werner Herzog,"Nicolas Cage, Eva Mendes, Russell M. Haeuser, Val Kilmer",,137460.0
+A Bug's Life,1998-11-25,1998,November,Wednesday,"Animation, Adventure, Comedy",7.2,95,John Lasseter,"Andrew Stanton, Kevin Spacey, David Foley, Julia Louis-Dreyfus, Hayden Panettiere",120000000.0,363258859.0
+Whiplash,2014-10-10,2014,October,Friday,"Drama, Music",8.5,106,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser",3300000.0,13092000.0
+Shutter Island,2010-02-14,2010,February,Sunday,"Mystery, Thriller",8.2,138,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley",80000000.0,294800000.0
+Star Wars: Episode VII - The Force Awakens,2010-02-14,2010,February,Sunday,"Action, Adventure, Sci-Fi",7.8,138,J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson",80000000.0,294800000.0
+Lat sau san taam,2010-02-14,2010,February,Sunday,"Action, Crime, Thriller",7.7,128,John Woo,"Chow Yun-Fat, Tony Leung Chiu-wai, Teresa Mo, Philip Chan",80000000.0,294800000.0
+The Place Beyond the Pines,2013-03-14,2013,March,Thursday,"Crime, Drama, Thriller",7.3,140,Derek Cianfrance,"Ryan Gosling, Bradley Cooper, Eva Mendes, Craig Van Hook",15000000.0,35485608.0
+Happy Gilmore,1996-02-16,1996,February,Friday,"Comedy, Sport",7.0,92,Dennis Dugan,"Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay",12000000.0,41205099.0
+Kramer vs. Kramer,1979-12-07,1979,December,Friday,Drama,7.8,105,Robert Benton,"Dustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry",8000000.0,106260000.0
+Wonder Boys,2000-02-22,2000,February,Tuesday,"Comedy, Drama",7.2,107,Curtis Hanson,"Michael Douglas, Tobey Maguire, Frances McDormand, Robert Downey Jr.",35000000.0,
+War of the Worlds,2005-06-28,2005,June,Tuesday,"Action, Adventure, Sci-Fi",6.5,116,Steven Spielberg,"Tom Cruise, Dakota Fanning, Tim Robbins, Miranda Otto",132000000.0,603873119.0
+Four Weddings and a Funeral,1994-03-09,1994,March,Wednesday,"Comedy, Drama, Romance",7.1,117,Mike Newell,"Hugh Grant, Andie MacDowell, James Fleet, Simon Callow",4400000.0,245700832.0
+E.T. the Extra-Terrestrial,1982-06-11,1982,June,Friday,"Adventure, Family, Sci-Fi",7.9,115,Steven Spielberg,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace",10500000.0,792965500.0
+Nixon,1995-12-22,1995,December,Friday,"Biography, Drama, History",7.1,192,Oliver Stone,"Anthony Hopkins, Joan Allen, Powers Boothe, Ed Harris",44000000.0,13681765.0
+Star Wars: Episode III - Revenge of the Sith,2005-05-17,2005,May,Tuesday,"Action, Adventure, Fantasy",7.6,140,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L. Jackson",113000000.0,850000000.0
+Army of Darkness,1992-10-31,1992,October,Saturday,"Comedy, Horror",7.4,81,Sam Raimi,"Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie",11000000.0,21502976.0
+Manhunter,1974-02-26,1974,February,Tuesday,"Crime, Mystery, Thriller",7.2,120,Michael Mann,"William Petersen, Kim Greist, Joan Allen, Brian Cox",,
+Catfish,2010-09-17,2010,September,Friday,"Documentary, Drama, Mystery",7.1,87,Henry Joost,"Ariel Schulman, Nev Schulman, Ariel Schulman, Henry Joost, Angela Wesselman-Pierce",30000.0,3045943.0
+Tootsie,1982-12-17,1982,December,Friday,"Comedy, Drama, Romance",7.4,116,Sydney Pollack,"Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman",21000000.0,177200000.0
+Boyz n the Hood,1991-07-12,1991,July,Friday,"Crime, Drama",7.8,112,John Singleton,"Cuba Gooding Jr., Laurence Fishburne, Hudhail Al-Amir, Lloyd Avery II",6500000.0,57504069.0
+Do the Right Thing,1989-06-14,1989,June,Wednesday,"Comedy, Drama",7.9,120,Spike Lee,"Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson",6500000.0,37295445.0
+Crumb,1995-04-28,1995,April,Friday,"Documentary, Biography, Comedy",8.0,119,Terry Zwigoff,"Robert Crumb, Aline Kominsky-Crumb, Charles Crumb, Maxon Crumb",,3174695.0
+A Fish Called Wanda,1988-07-15,1988,July,Friday,"Comedy, Crime",7.5,108,Charles Crichton,"John Cleese, John Cleese, Jamie Lee Curtis, Kevin Kline, Michael Palin",7500000.0,62493712.0
+To Live and Die in L.A.,1985-11-01,1985,November,Friday,"Action, Crime, Drama",7.3,116,William Friedkin,"William Petersen, Willem Dafoe, Jane Leeves, Cherise Bates",,17307019.0
+Superman II,1980-12-04,1980,December,Thursday,"Action, Adventure, Sci-Fi",6.8,127,Richard Lester,"Richard Donner, Gene Hackman, Christopher Reeve, Margot Kidder, Ned Beatty",54000000.0,190458706.0
+Confessions of a Dangerous Mind,2002-12-31,2002,December,Tuesday,"Biography, Comedy, Crime",7.0,113,George Clooney,"Sam Rockwell, Drew Barrymore, George Clooney, Julia Roberts",30000000.0,33013805.0
+Paper Moon,1973-05-09,1973,May,Wednesday,"Comedy, Crime, Drama",8.1,102,Peter Bogdanovich,"Ryan O'Neal, Tatum O'Neal, Madeline Kahn, John Hillerman",2500000.0,30900000.0
+Wo hu cang long,1973-05-09,1973,May,Wednesday,"Action, Adventure, Drama",7.9,120,Ang Lee,"Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang, Chang Chen",2500000.0,30900000.0
+Angel Heart,1987-03-06,1987,March,Friday,"Horror, Mystery, Thriller",7.2,113,Alan Parker,"Mickey Rourke, Robert De Niro, Lisa Bonet, Charlotte Rampling",17000000.0,17186348.0
+Days of Wine and Roses,1962-12-26,1962,December,Wednesday,Drama,7.8,117,Blake Edwards,"Jack Lemmon, Lee Remick, Charles Bickford, Jack Klugman",,
+You're Next,2011-09-10,2011,September,Saturday,"Horror, Thriller",6.6,95,Adam Wingard,"Sharni Vinson, Joe Swanberg, AJ Bowen, Nicholas Tucci",1000000.0,14347000.0
+Bugsy Malone,1976-07-22,1976,July,Thursday,"Comedy, Crime, Family",6.8,93,Alan Parker,"Jodie Foster, Scott Baio, Florence Garland, John Cassisi",,
+Gattaca,1997-09-07,1997,September,Sunday,"Drama, Sci-Fi, Thriller",7.8,106,Andrew Niccol,"Ethan Hawke, Uma Thurman, Jude Law, Gore Vidal",36000000.0,12532777.0
+Strange Days,1995-10-13,1995,October,Friday,"Crime, Drama, Sci-Fi",7.2,145,Kathryn Bigelow,"Ralph Fiennes, Angela Bassett, Juliette Lewis, Tom Sizemore",42000000.0,7959291.0
+The Other Guys,2010-08-06,2010,August,Friday,"Action, Comedy, Crime",6.6,107,Adam McKay,"Will Ferrell, Mark Wahlberg, Derek Jeter, Eva Mendes",100000000.0,170432927.0
+L'ennemi public n°1,2010-08-06,2010,August,Friday,"Action, Biography, Crime",7.4,133,Jean-François Richet,"Vincent Cassel, Ludivine Sagnier, Mathieu Amalric, Samuel Le Bihan",100000000.0,170432927.0
+Biloxi Blues,1988-03-25,1988,March,Friday,"Comedy, Drama",6.6,106,Mike Nichols,"Matthew Broderick, Christopher Walken, Matt Mulhern, Corey Parker",20000000.0,51684798.0
+A Simple Plan,1998-12-11,1998,December,Friday,"Crime, Drama, Thriller",7.5,121,Sam Raimi,"Bill Paxton, Billy Bob Thornton, Bridget Fonda, Brent Briscoe",30000000.0,16316273.0
+Sleepers,1996-10-18,1996,October,Friday,"Crime, Drama, Thriller",7.5,147,Barry Levinson,"Robert De Niro, Kevin Bacon, Brad Pitt, Jason Patric",44000000.0,165615285.0
+Letters from Iwo Jima,2006-12-19,2006,December,Tuesday,"Action, Adventure, Drama",7.9,141,Clint Eastwood,"Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryo Kase",19000000.0,68673228.0
+Psycho,1960-06-22,1960,June,Wednesday,"Horror, Mystery, Thriller",8.5,109,Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles, John Gavin",806947.0,
+The Muppet Christmas Carol,1992-12-10,1992,December,Thursday,"Comedy, Drama, Family",7.7,85,Brian Henson,"Michael Caine, Dave Goelz, Steve Whitmire, Jerry Nelson",12000000.0,27281507.0
+How to Train Your Dragon,2010-03-18,2010,March,Thursday,"Animation, Action, Adventure",8.1,98,Dean DeBlois,"Chris Sanders, Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson",165000000.0,494879471.0
+The World Is Not Enough,1999-11-17,1999,November,Wednesday,"Action, Adventure, Thriller",6.4,128,Michael Apted,"Pierce Brosnan, Sophie Marceau, Robert Carlyle, Denise Richards",135000000.0,361832400.0
+Up in the Air,2009-09-05,2009,September,Saturday,"Comedy, Drama, Romance",7.4,109,Jason Reitman,"George Clooney, Vera Farmiga, Anna Kendrick, Jason Bateman",25000000.0,166842739.0
+Avatar,2009-12-15,2009,December,Tuesday,"Action, Adventure, Fantasy",7.9,162,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",237000000.0,2923706026.0
+Bug,2006-11-11,2006,November,Saturday,"Drama, Horror, Thriller",6.1,102,William Friedkin,"Ashley Judd, Michael Shannon, Harry Connick Jr., Lynn Collins",4000000.0,8095658.0
+V for Vendetta,2006-02-23,2006,February,Thursday,"Action, Drama, Sci-Fi",8.2,132,James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea",54000000.0,132511035.0
+His Girl Friday,1940-01-18,1940,January,Thursday,"Comedy, Drama, Romance",7.8,92,Howard Hawks,"Cary Grant, Rosalind Russell, Ralph Bellamy, Gene Lockhart",,
+King of New York,1990-07-18,1990,July,Wednesday,"Crime, Thriller",6.9,103,Abel Ferrara,"Christopher Walken, David Caruso, Laurence Fishburne, Victor Argo",,
+Adaptation.,2002-12-06,2002,December,Friday,"Comedy, Drama",7.7,115,Spike Jonze,"Nicolas Cage, Meryl Streep, Chris Cooper, Tilda Swinton",19000000.0,32801173.0
+The Butcher Boy,1998-02-20,1998,February,Friday,"Comedy, Drama",7.1,110,Neil Jordan,"Stephen Rea, Fiona Shaw, Eamonn Owens, Alan Boyle",,1995911.0
+Dead Man's Shoes,2004-09-29,2004,September,Wednesday,"Crime, Drama, Thriller",7.6,90,Shane Meadows,"Paddy Considine, Gary Stretch, Toby Kebbell, Stuart Wolfenden",,
+Punch-Drunk Love,2002-10-25,2002,October,Friday,"Comedy, Drama, Romance",7.3,95,Paul Thomas Anderson,"Adam Sandler, Emily Watson, Philip Seymour Hoffman, Jason Andrews",25000000.0,24665649.0
+Master and Commander: The Far Side of the World,2003-11-14,2003,November,Friday,"Action, Adventure, Drama",7.5,138,Peter Weir,"Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy",150000000.0,212011111.0
+Born on the Fourth of July,1989-12-20,1989,December,Wednesday,"Biography, Drama, War",7.2,145,Oliver Stone,"Tom Cruise, Bryan Larkin, Raymond J. Barry, Caroline Kava",14000000.0,161001698.0
+Twin Peaks: Fire Walk with Me,1992-06-03,1992,June,Wednesday,"Drama, Horror, Mystery",7.2,134,David Lynch,"Sheryl Lee, Ray Wise, Mädchen Amick, Dana Ashbrook",10000000.0,4184990.0
+Irréversible,1992-06-03,1992,June,Wednesday,"Crime, Drama, Mystery",7.3,97,Gaspar Noé,"Monica Bellucci, Vincent Cassel, Albert Dupontel, Philippe Nahon",10000000.0,4184990.0
+Ed Wood,1994-09-27,1994,September,Tuesday,"Biography, Comedy, Drama",7.8,127,Tim Burton,"Johnny Depp, Martin Landau, Sarah Jessica Parker, Patricia Arquette",18000000.0,5887457.0
+Nochnoy dozor,1994-09-27,1994,September,Tuesday,"Action, Fantasy, Horror",6.4,114,Timur Bekmambetov,"Konstantin Khabenskiy, Vladimir Menshov, Mariya Poroshina, Valeriy Zolotukhin",18000000.0,5887457.0
+Bad Lieutenant,1992-11-20,1992,November,Friday,"Crime, Drama, Thriller",7.0,96,Abel Ferrara,"Harvey Keitel, Brian McElroy, Frank Acciarito, Peggy Gormley",1000000.0,2019469.0
+The Lincoln Lawyer,2011-03-17,2011,March,Thursday,"Crime, Drama, Mystery",7.3,118,Brad Furman,"Matthew McConaughey, Marisa Tomei, Ryan Phillippe, William H. Macy",40000000.0,85412898.0
+Wanted,2008-06-19,2008,June,Thursday,"Action, Crime, Thriller",6.7,110,Timur Bekmambetov,"Angelina Jolie, James McAvoy, Morgan Freeman, Terence Stamp",75000000.0,342463063.0
+Brokeback Mountain,2005-09-10,2005,September,Saturday,"Drama, Romance",7.7,134,Ang Lee,"Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid",14000000.0,178043761.0
+Near Dark,1987-10-02,1987,October,Friday,Horror,6.9,94,Kathryn Bigelow,"Adrian Pasdar, Jenny Wright, Lance Henriksen, Bill Paxton",5000000.0,
+The Wild Bunch,1969-06-17,1969,June,Tuesday,"Action, Adventure, Drama",7.9,145,Sam Peckinpah,"William Holden, Ernest Borgnine, Robert Ryan, Edmond O'Brien",6244087.0,638641.0
+A Few Good Men,1992-12-11,1992,December,Friday,"Drama, Thriller",7.7,138,Rob Reiner,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon",40000000.0,243240178.0
+Enron: The Smartest Guys in the Room,2005-04-22,2005,April,Friday,"Documentary, Biography, History",7.6,110,Alex Gibney,"John Beard, Tim Belden, Barbara Boxer, George W. Bush",,
+Predator,1987-06-12,1987,June,Friday,"Action, Adventure, Horror",7.8,107,John McTiernan,"Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall, Elpidia Carrillo",15000000.0,98267558.0
+La haine,1987-06-12,1987,June,Friday,"Crime, Drama",8.1,98,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili",15000000.0,98267558.0
+The Matrix Reloaded,2003-05-15,2003,May,Thursday,"Action, Sci-Fi",7.2,138,Lana Wachowski,"Lilly Wachowski, Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",150000000.0,738599701.0
+The Revenant,2015-12-25,2015,December,Friday,"Action, Adventure, Drama",8.0,156,Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson",135000000.0,532950503.0
+Deadpool,2016-02-09,2016,February,Tuesday,"Action, Comedy",8.0,108,Tim Miller,"Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein",58000000.0,783100000.0
+La vita è bella,1943-05-26,1943,May,Wednesday,"Comedy, Drama, Romance",8.6,116,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano",,
+Anvil: The Story of Anvil,1943-05-26,1943,May,Wednesday,"Documentary, Biography, Drama",7.9,80,Sacha Gervasi,"Robb Reiner, Steve 'Lips' Kudlow, Tiziana Arrigoni, Scott Ian",,
+Eden Lake,2008-09-12,2008,September,Friday,"Horror, Thriller",6.7,91,James Watkins,"Kelly Reilly, Michael Fassbender, Tara Ellis, Jack O'Connell",12850990.0,3984669.0
+The Last Seduction,1994-05-26,1994,May,Thursday,"Crime, Drama, Romance",7.0,110,John Dahl,"Linda Fiorentino, Peter Berg, Bill Pullman, Michael Raysses",2500000.0,
+In America,2003-10-31,2003,October,Friday,Drama,7.7,105,Jim Sheridan,"Paddy Considine, Samantha Morton, Djimon Hounsou, Sarah Bolger",,
+Pinocchio,2022-09-07,2022,September,Wednesday,"Animation, Adventure, Comedy",7.5,88,Norman Ferguson,"T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen, Dickie Jones, Christian Rub, Mel Blanc, Billy Bletcher",,
+Splice,2009-10-06,2009,October,Tuesday,"Horror, Sci-Fi",5.8,104,Vincenzo Natali,"Adrien Brody, Sarah Polley, Delphine Chanéac, Brandon McGibbon",26000000.0,
+ Screen Two,2009-10-06,2009,October,Tuesday,Drama,7.2,67,Alan Clarke,"Gary Oldman, Lesley Manville, Phil Davis, Andrew Wilde",26000000.0,
+Blood Simple,1984-09-07,1984,September,Friday,"Crime, Drama, Thriller",7.6,99,Joel Coen,"Ethan Coen, John Getz, Frances McDormand, Dan Hedaya, M. Emmet Walsh",1500000.0,3851855.0
+The Guest,2014-09-05,2014,September,Friday,Thriller,6.7,100,Adam Wingard,"Dan Stevens, Sheila Kelley, Maika Monroe, Joel David Moore",5000000.0,2700051.0
+Next Goal Wins,2023-11-16,2023,November,Thursday,"Documentary, Sport",7.8,97,Mike Brett,"Steve Jamison, Thomas Rongen, Jaiyah Saelua, Nicky Salapu, Gene Ne'emia",,
+Taxi,2004-10-06,2004,October,Wednesday,"Action, Comedy, Crime",7.0,89,Gérard Pirès,"Samy Naceri, Frédéric Diefenthal, Marion Cotillard, Manuela Gourary",25000000.0,71255003.0
+Secretary,2002-09-20,2002,September,Friday,"Comedy, Drama, Romance",6.9,107,Steven Shainberg,"James Spader, Maggie Gyllenhaal, Jeremy Davies, Lesley Ann Warren",4000000.0,9304609.0
+Garden State,2004-07-28,2004,July,Wednesday,"Comedy, Drama, Romance",7.4,102,Zach Braff,"Zach Braff, Peter Sarsgaard, Natalie Portman, Ian Holm",2500000.0,26781723.0
+Frost/Nixon,2008-10-15,2008,October,Wednesday,"Biography, Drama, History",7.7,122,Ron Howard,"Frank Langella, Michael Sheen, Kevin Bacon, Sam Rockwell",25000000.0,18593156.0
+Ne le dis à personne,2008-10-15,2008,October,Wednesday,"Crime, Drama, Mystery",7.5,131,Guillaume Canet,"François Cluzet, Marie-Josée Croze, André Dussollier, Kristin Scott Thomas",25000000.0,18593156.0
+22 Jump Street,2014-06-05,2014,June,Thursday,"Action, Comedy, Crime",7.0,112,Phil Lord,"Christopher Miller, Channing Tatum, Jonah Hill, Ice Cube, Nick Offerman",50000000.0,331333876.0
+21 Grams,2003-09-06,2003,September,Saturday,"Crime, Drama, Thriller",7.6,124,Alejandro G. Iñárritu,"Sean Penn, Benicio Del Toro, Naomi Watts, Danny Huston",20000000.0,60427839.0
+Bugsy,1991-12-10,1991,December,Tuesday,"Biography, Crime, Drama",6.8,136,Barry Levinson,"Warren Beatty, Annette Bening, Harvey Keitel, Ben Kingsley",30000000.0,49114016.0
+Local Hero,1983-02-17,1983,February,Thursday,"Comedy, Drama",7.3,111,Bill Forsyth,"Burt Lancaster, Peter Riegert, Fulton Mackay, Denis Lawson",,
+Annie Hall,1977-04-19,1977,April,Tuesday,"Comedy, Romance",8.0,93,Woody Allen,"Woody Allen, Diane Keaton, Tony Roberts, Carol Kane",4000000.0,38251425.0
+Heathers,1989-03-31,1989,March,Friday,"Comedy, Crime",7.2,103,Michael Lehmann,"Winona Ryder, Christian Slater, Shannen Doherty, Lisanne Falk",3000000.0,1108462.0
+Adventureland,2009-04-03,2009,April,Friday,"Comedy, Drama, Romance",6.8,107,Greg Mottola,"Jesse Eisenberg, Kristen Stewart, Ryan Reynolds, Martin Starr",,17164820.0
+The Conversation,1974-04-07,1974,April,Sunday,"Drama, Mystery, Thriller",7.8,113,Francis Ford Coppola,"Gene Hackman, John Cazale, Allen Garfield, Frederic Forrest",1600000.0,4420000.0
+Watchmen,2009-03-04,2009,March,Wednesday,"Action, Drama, Mystery",7.6,162,Zack Snyder,"Jackie Earle Haley, Patrick Wilson, Carla Gugino, Malin Akerman",130000000.0,185258983.0
+The Ghost Writer,2010-02-12,2010,February,Friday,"Crime, Drama, Mystery",7.2,128,Roman Polanski,"Ewan McGregor, Pierce Brosnan, Olivia Williams, Jon Bernthal",45000000.0,60331447.0
+[Rec],2010-02-12,2010,February,Friday,"Horror, Mystery, Thriller",7.4,78,Jaume Balagueró,"Paco Plaza, Manuela Velasco, Ferran Terraza, Jorge-Yamam Serrano, Pablo Rosso",45000000.0,60331447.0
+Dnevnoy dozor,2010-02-12,2010,February,Friday,"Action, Fantasy, Horror",6.4,132,Timur Bekmambetov,"Konstantin Khabenskiy, Mariya Poroshina, Vladimir Menshov, Galina Tyunina",45000000.0,60331447.0
+Fish Tank,2009-09-11,2009,September,Friday,Drama,7.3,123,Andrea Arnold,"Katie Jarvis, Michael Fassbender, Kierston Wareing, Rebecca Griffiths",3000000.0,2404300.0
+Sling Blade,1996-08-30,1996,August,Friday,Drama,8.0,135,Billy Bob Thornton,"Billy Bob Thornton, Dwight Yoakam, J.T. Walsh, John Ritter",1200000.0,34100000.0
+When Harry Met Sally...,1989-07-21,1989,July,Friday,"Comedy, Drama, Romance",7.7,95,Rob Reiner,"Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby",16000000.0,92823546.0
+The Kid Stays in the Picture,2002-08-16,2002,August,Friday,"Documentary, Biography",7.3,93,Nanette Burstein,"Brett Morgen, Robert Evans, Eddie Albert, Peter Bart, Charlie Bluhdorn",40000.0,1434436.0
+Ferris Bueller's Day Off,1986-06-11,1986,June,Wednesday,Comedy,7.8,103,John Hughes,"Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones",6000000.0,70136369.0
+I Love You Phillip Morris,2009-01-18,2009,January,Sunday,"Biography, Comedy, Crime",6.6,102,Glenn Ficarra,"John Requa, Jim Carrey, Ewan McGregor, Leslie Mann, Rodrigo Santoro",13000000.0,20768906.0
+Rio Bravo,1959-03-17,1959,March,Tuesday,"Drama, Western",8.0,141,Howard Hawks,"John Wayne, Dean Martin, Ricky Nelson, Angie Dickinson",,5800000.0
+Kind Hearts and Coronets,1949-06-21,1949,June,Tuesday,"Comedy, Crime",8.0,106,Robert Hamer,"Dennis Price, Alec Guinness, Valerie Hobson, Joan Greenwood",,
+Choke,2008-09-26,2008,September,Friday,"Comedy, Drama",6.4,92,Clark Gregg,"Sam Rockwell, Anjelica Huston, Kelly Macdonald, Kathryn Alexander",3000000.0,3982459.0
+The Conjuring,2013-07-18,2013,July,Thursday,"Horror, Mystery, Thriller",7.5,112,James Wan,"Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor",13000000.0,320406242.0
+Body Heat,1981-08-28,1981,August,Friday,"Crime, Drama, Romance",7.4,113,Lawrence Kasdan,"William Hurt, Kathleen Turner, Richard Crenna, Ted Danson",9000000.0,24058838.0
+The Big Red One,1980-01-22,1980,January,Tuesday,"Drama, War",7.1,113,Samuel Fuller,"Lee Marvin, Mark Hamill, Robert Carradine, Bobby Di Cicco",4500000.0,7206220.0
+The Rover,2014-06-04,2014,June,Wednesday,"Action, Crime, Drama",6.4,103,David Michôd,"Guy Pearce, Robert Pattinson, Scoot McNairy, David Field",12250000.0,2510007.0
+Moulin Rouge!,2001-05-24,2001,May,Thursday,"Drama, Musical, Romance",7.6,127,Baz Luhrmann,"Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent",52500000.0,179213434.0
+Harry Brown,2009-11-11,2009,November,Wednesday,"Action, Crime, Drama",7.2,103,Daniel Barber,"Michael Caine, Emily Mortimer, David Bradley, Charlie Creed-Miles",7300000.0,10329747.0
+The Contender,2000-10-13,2000,October,Friday,"Drama, Thriller",6.9,126,Rod Lurie,"Joan Allen, Gary Oldman, Jeff Bridges, Christian Slater",20000000.0,22428990.0
+Siu Lam juk kau,2000-10-13,2000,October,Friday,"Action, Comedy, Fantasy",7.3,113,Stephen Chow,"Stephen Chow, Wei Zhao, Yat-Fei Wong, Man-Tat Ng",20000000.0,22428990.0
+Spoorloos,2000-10-13,2000,October,Friday,"Mystery, Thriller",7.7,107,George Sluizer,"Bernard-Pierre Donnadieu, Gene Bervoets, Johanna ter Steege, Gwen Eckhaus",20000000.0,22428990.0
+Michael Collins,1996-10-25,1996,October,Friday,"Biography, Drama, Thriller",7.1,133,Neil Jordan,"Liam Neeson, Aidan Quinn, Julia Roberts, Ian Hart",25000000.0,16900000.0
+Mad Max 2,1981-12-24,1981,December,Thursday,"Action, Adventure, Sci-Fi",7.6,96,George Miller,"Mel Gibson, Bruce Spence, Michael Preston, Max Phipps",2000000.0,24600832.0
+Love and Death,1975-06-10,1975,June,Tuesday,"Comedy, War",7.7,85,Woody Allen,"Woody Allen, Diane Keaton, Georges Adet, Frank Adu",3000000.0,20173742.0
+Blue Valentine,2010-12-16,2010,December,Thursday,"Drama, Romance",7.3,112,Derek Cianfrance,"Ryan Gosling, Michelle Williams, John Doman, Faith Wladyka",1000000.0,15440333.0
+Slap Shot,1977-02-25,1977,February,Friday,"Comedy, Drama, Sport",7.3,123,George Roy Hill,"Paul Newman, Michael Ontkean, Strother Martin, Jennifer Warren",,28000000.0
+Gremlins 2: The New Batch,1990-06-15,1990,June,Friday,"Comedy, Fantasy, Horror",6.4,106,Joe Dante,"Chuck Jones, Zach Galligan, Phoebe Cates, Howie Mandel, Tony Randall",50000000.0,41482207.0
+Wall Street,1987-12-10,1987,December,Thursday,"Crime, Drama",7.3,126,Oliver Stone,"Charlie Sheen, Michael Douglas, Tamara Tunie, Franklin Cover",15000000.0,43848069.0
+Tommy,1975-03-19,1975,March,Wednesday,"Drama, Musical",6.6,111,Ken Russell,"Roger Daltrey, Ann-Margret, Oliver Reed, Elton John",5000000.0,34251525.0
+Gomorra,2015-11-05,2015,November,Thursday,"Crime, Drama",7.0,137,Matteo Garrone,"Gianfelice Imparato, Salvatore Abbruzzese, Toni Servillo, Simone Sacchettino",,
+The King of Comedy,1982-12-18,1982,December,Saturday,"Comedy, Crime, Drama",7.8,109,Martin Scorsese,"Robert De Niro, Jerry Lewis, Diahnne Abbott, Sandra Bernhard",20000000.0,2536000.0
+House of Games,1987-10-11,1987,October,Sunday,"Crime, Thriller",7.2,102,David Mamet,"Lindsay Crouse, Joe Mantegna, Mike Nussbaum, Lilia Skala",,2585639.0
+The Tree of Life,2011-05-17,2011,May,Tuesday,"Drama, Fantasy",6.8,139,Terrence Malick,"Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken",32000000.0,54674226.0
+Lethal Weapon,1987-03-06,1987,March,Friday,"Action, Crime, Thriller",7.6,109,Richard Donner,"Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan",15000000.0,120207127.0
+Midsommar,2019-07-03,2019,July,Wednesday,"Drama, Horror, Mystery",7.1,148,Ari Aster,"Florence Pugh, Jack Reynor, Vilhelm Blomgren, William Jackson Harper",9000000.0,47969371.0
+Stranger Than Fiction,2006-09-09,2006,September,Saturday,"Comedy, Drama, Fantasy",7.5,113,Marc Forster,"Will Ferrell, Emma Thompson, Dustin Hoffman, Queen Latifah",30000000.0,53653224.0
+Into the Abyss,2011-11-11,2011,November,Friday,"Documentary, Crime, Drama",7.3,107,Werner Herzog,"Werner Herzog, Richard Lopez, Michael Perry, Damon Hall",,
+The Mask,1994-07-29,1994,July,Friday,"Action, Comedy, Crime",6.9,101,Chuck Russell,"Jim Carrey, Cameron Diaz, Peter Riegert, Peter Greene",23000000.0,351583407.0
+The Muppets,2011-11-22,2011,November,Tuesday,"Adventure, Comedy, Family",7.1,120,James Bobin,"Amy Adams, Jason Segel, Chris Cooper, Rashida Jones",45000000.0,165184237.0
+Gonzo: The Life and Work of Dr. Hunter S. Thompson,2008-07-18,2008,July,Friday,"Documentary, Biography, Music",7.6,120,Alex Gibney,"Hunter S. Thompson, Johnny Depp, Joe Cairo, David Carlo",,
+Prometheus,2012-05-30,2012,May,Wednesday,"Adventure, Mystery, Sci-Fi",7.0,124,Ridley Scott,"Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",130000000.0,403354469.0
+Blazing Saddles,1974-02-07,1974,February,Thursday,"Comedy, Western",7.7,93,Mel Brooks,"Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman",2600000.0,119500000.0
+Win Win,2011-03-18,2011,March,Friday,"Comedy, Drama, Sport",7.1,106,Tom McCarthy,"Paul Giamatti, Amy Ryan, Jeffrey Tambor, Bobby Cannavale",10831173.0,10654385.0
+Dead Man Walking,1995-12-29,1995,December,Friday,"Crime, Drama",7.5,122,Tim Robbins,"Susan Sarandon, Sean Penn, Robert Prosky, Raymond J. Barry",11000000.0,39363635.0
+Mou gaan dou,1995-12-29,1995,December,Friday,"Action, Crime, Drama",8.0,101,Andrew Lau,"Alan Mak, Andy Lau, Tony Leung Chiu-wai, Anthony Chau-Sang Wong, Eric Tsang",11000000.0,39363635.0
+The Way of the Gun,2000-09-08,2000,September,Friday,"Action, Crime, Drama",6.6,119,Christopher McQuarrie,"Ryan Phillippe, Benicio Del Toro, Juliette Lewis, Taye Diggs",8500000.0,19125401.0
+Lawrence of Arabia,1962-12-11,1962,December,Tuesday,"Adventure, Biography, Drama",8.3,218,David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins",15000000.0,69995385.0
+Brüno,2009-07-08,2009,July,Wednesday,Comedy,5.9,81,Larry Charles,"Sacha Baron Cohen, Gustaf Hammarsten, Clifford Bañagale, Chibundu Orukwowu",42000000.0,138805831.0
+Redbelt,2008-04-07,2008,April,Monday,"Drama, Sport",6.7,99,David Mamet,"Chiwetel Ejiofor, Tim Allen, Emily Mortimer, Max Martini",7000000.0,
+Lethal Weapon 2,1989-07-07,1989,July,Friday,"Action, Crime, Thriller",7.2,114,Richard Donner,"Mel Gibson, Danny Glover, Joe Pesci, Patsy Kensit",25000000.0,227853986.0
+Atonement,2007-09-07,2007,September,Friday,"Drama, Mystery, Romance",7.8,123,Joe Wright,"Keira Knightley, James McAvoy, Brenda Blethyn, Saoirse Ronan",30000000.0,131016624.0
+Lost Highway,1997-01-15,1997,January,Wednesday,"Mystery, Thriller",7.6,134,David Lynch,"Bill Pullman, Patricia Arquette, John Roselius, Louis Eppolito",15000000.0,3756869.0
+Re-Animator,1985-10-18,1985,October,Friday,"Comedy, Horror, Sci-Fi",7.2,84,Stuart Gordon,"Jeffrey Combs, Bruce Abbott, Barbara Crampton, David Gale",900000.0,2023414.0
+The Wizard of Oz,1939-08-15,1939,August,Tuesday,"Adventure, Family, Fantasy",8.1,102,Victor Fleming,"George Cukor, Mervyn LeRoy, Norman Taurog, Richard Thorpe, King Vidor, Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr",2777000.0,33754967.0
+Iron Man,2008-04-30,2008,April,Wednesday,"Action, Adventure, Sci-Fi",7.9,126,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",140000000.0,585174222.0
+The Girl with the Dragon Tattoo,2011-12-14,2011,December,Wednesday,"Crime, Drama, Mystery",7.8,158,David Fincher,"Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård",90000000.0,232617430.0
+Incendies,2010-09-04,2010,September,Saturday,"Drama, Mystery",8.3,130,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel",6800000.0,6788659.0
+The Intouchables,2011-11-02,2011,November,Wednesday,"Biography, Comedy, Drama",8.5,112,Olivier Nakache,"Éric Toledano, François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",13000000.0,426588510.0
+Mr. Smith Goes to Washington,1939-10-19,1939,October,Thursday,"Comedy, Drama",8.1,129,Frank Capra,"James Stewart, Jean Arthur, Claude Rains, Edward Arnold",1500000.0,9600000.0
+Celda 211,1939-10-19,1939,October,Thursday,"Action, Adventure, Crime",7.6,113,Daniel Monzón,"Luis Tosar, Alberto Ammann, Antonio Resines, Manuel Morón",1500000.0,9600000.0
+The Guard,2011-07-07,2011,July,Thursday,"Comedy, Crime, Thriller",7.3,96,John Michael McDonagh,"Brendan Gleeson, Don Cheadle, Mark Strong, Ronan Collins",6000000.0,19560274.0
+Beauty and the Beast,1991-10-22,1991,October,Tuesday,"Animation, Family, Fantasy",8.0,84,Gary Trousdale,"Kirk Wise, Paige O'Hara, Robby Benson, Jesse Corti, Rex Everhart",25000000.0,424967620.0
+Pirates of the Caribbean: Dead Man's Chest,2006-07-06,2006,July,Thursday,"Action, Adventure, Fantasy",7.3,151,Gore Verbinski,"Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport",200000000.0,1065659812.0
+The Big Sleep,1946-08-23,1946,August,Friday,"Crime, Film-Noir, Mystery",7.9,114,Howard Hawks,"Humphrey Bogart, Lauren Bacall, John Ridgely, Martha Vickers",1600000.0,4900000.0
+Star Wars: Episode VI - Return of the Jedi,1946-08-23,1946,August,Friday,"Action, Adventure, Fantasy",8.3,131,Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",1600000.0,4900000.0
+Easy A,2010-09-16,2010,September,Thursday,"Comedy, Drama, Romance",7.0,92,Will Gluck,"Emma Stone, Amanda Bynes, Penn Badgley, Dan Byrd",8000000.0,75026327.0
+Babel,2006-09-08,2006,September,Friday,Drama,7.5,143,Alejandro G. Iñárritu,"Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam",25000000.0,135330182.0
+The Maltese Falcon,1941-10-18,1941,October,Saturday,"Crime, Film-Noir, Mystery",8.0,100,John Huston,"Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre",375000.0,1772000.0
+In the Line of Fire,1993-07-08,1993,July,Thursday,"Action, Crime, Drama",7.2,128,Wolfgang Petersen,"Clint Eastwood, John Malkovich, Rene Russo, Dylan McDermott",40000000.0,176997168.0
+Bringing Out the Dead,1999-10-22,1999,October,Friday,"Drama, Thriller",6.8,121,Martin Scorsese,"Nicolas Cage, Patricia Arquette, John Goodman, Ving Rhames",32000000.0,16800000.0
+White Heat,1949-09-02,1949,September,Friday,"Action, Crime, Drama",8.1,114,Raoul Walsh,"James Cagney, Virginia Mayo, Edmond O'Brien, Margaret Wycherly",1300000.0,3483000.0
+Chasing Amy,1997-04-04,1997,April,Friday,"Comedy, Drama, Romance",7.2,113,Kevin Smith,"Ben Affleck, Joey Lauren Adams, Ethan Suplee, Scott Mosier",250000.0,12021272.0
+Angela's Ashes,1999-12-25,1999,December,Saturday,"Biography, Drama",7.3,145,Alan Parker,"Emily Watson, Robert Carlyle, Joe Breen, Ciaran Owens",50000000.0,13042112.0
+I'm Not There,2007-10-01,2007,October,Monday,"Biography, Drama, Music",6.8,135,Todd Haynes,"Christian Bale, Cate Blanchett, Heath Ledger, Ben Whishaw",20000000.0,4001121.0
+Misery,1990-11-30,1990,November,Friday,"Drama, Thriller",7.8,107,Rob Reiner,"James Caan, Kathy Bates, Richard Farnsworth, Frances Sternhagen",20000000.0,61276872.0
+The Thomas Crown Affair,1968-06-26,1968,June,Wednesday,"Crime, Romance, Thriller",6.8,113,John McTiernan,"Pierce Brosnan, Rene Russo, Denis Leary, Ben Gazzara",4300000.0,14000000.0
+Who Framed Roger Rabbit,1988-06-21,1988,June,Tuesday,"Animation, Adventure, Comedy",7.7,104,Robert Zemeckis,"Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer",70000000.0,329803958.0
+The Treasure of the Sierra Madre,1948-01-15,1948,January,Thursday,"Adventure, Drama, Western",8.2,126,John Huston,"Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett",3800000.0,4307000.0
+Lost in Translation,2003-09-18,2003,September,Thursday,"Comedy, Drama",7.7,102,Sofia Coppola,"Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris",4000000.0,119723856.0
+Primal Fear,1996-03-06,1996,March,Wednesday,"Crime, Drama, Mystery",7.7,129,Gregory Hoblit,"Richard Gere, Laura Linney, Edward Norton, John Mahoney",30000000.0,102616183.0
+Mulholland Dr.,1999-01-01,1999,January,Friday,"Drama, Mystery, Thriller",7.9,147,David Lynch,"Naomi Watts, Laura Harring, Justin Theroux, Jeanne Bates",,
+Walk the Line,2005-09-13,2005,September,Tuesday,"Biography, Drama, Music",7.8,136,James Mangold,"Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin, Robert Patrick",28000000.0,186797986.0
+The China Syndrome,1979-03-16,1979,March,Friday,"Drama, Thriller",7.4,122,James Bridges,"Jane Fonda, Jack Lemmon, Michael Douglas, Scott Brady",5900000.0,51718367.0
+Narc,2002-01-14,2002,January,Monday,"Crime, Drama, Mystery",7.1,105,Joe Carnahan,"Ray Liotta, Jason Patric, Chi McBride, Dan Leis",6500000.0,12633747.0
+El orfanato,2002-01-14,2002,January,Monday,"Drama, Horror, Mystery",7.4,105,J.A. Bayona,"Belén Rueda, Fernando Cayo, Roger Príncep, Mabel Rivera",6500000.0,12633747.0
+De rouille et d'os,2002-01-14,2002,January,Monday,"Drama, Romance",7.4,120,Jacques Audiard,"Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette",6500000.0,12633747.0
+Bridesmaids,2011-05-13,2011,May,Friday,"Comedy, Romance",6.8,125,Paul Feig,"Kristen Wiig, Maya Rudolph, Rose Byrne, Terry Crews",32500000.0,288383523.0
+Les quatre cents coups,2011-05-13,2011,May,Friday,"Crime, Drama",8.1,99,François Truffaut,"Jean-Pierre Léaud, Albert Rémy, Claire Maurier, Guy Decomble",32500000.0,288383523.0
+Hunger,2008-05-15,2008,May,Thursday,"Biography, Crime, Drama",7.5,96,Steve McQueen,"Stuart Graham, Laine Megaw, Brian Milligan, Liam McMahon",,2724474.0
+Koroshiya 1,2008-05-15,2008,May,Thursday,"Action, Crime, Drama",7.0,129,Takashi Miike,"Tadanobu Asano, Nao Ômori, Shin'ya Tsukamoto, Paulyn Sun",,2724474.0
+The Dark Knight Rises,2012-07-16,2012,July,Monday,"Action, Drama, Thriller",8.4,164,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",250000000.0,1081041287.0
+X-Men,2000-07-13,2000,July,Thursday,"Action, Adventure, Sci-Fi",7.3,104,Bryan Singer,"Patrick Stewart, Hugh Jackman, Ian McKellen, Famke Janssen",75000000.0,296339527.0
+Filth,2013-09-23,2013,September,Monday,"Action, Comedy, Crime",7.0,97,Jon S. Baird,"James McAvoy, Jamie Bell, Eddie Marsan, Imogen Poots",5000000.0,9114264.0
+White Lightnin',2009-01-19,2009,January,Monday,"Biography, Drama",7.0,92,Dominic Murphy,"Muse Watson, Carrie Fisher, Wallace Merck, Stephanie Astalos-Jones",,
+Looper,2012-09-26,2012,September,Wednesday,"Action, Drama, Sci-Fi",7.4,119,Rian Johnson,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",30000000.0,47042000.0
+La La Land,2016-11-29,2016,November,Tuesday,"Comedy, Drama, Music",8.0,128,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",30000000.0,447407695.0
+Get Out,2017-02-24,2017,February,Friday,"Horror, Mystery, Thriller",7.7,104,Jordan Peele,"Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener",4500000.0,255407969.0
+Logan,2017-02-28,2017,February,Tuesday,"Action, Drama, Sci-Fi",8.1,137,James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",97000000.0,619021436.0
+American Gangster,2007-11-02,2007,November,Friday,"Biography, Crime, Drama",7.8,157,Ridley Scott,"Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin",100000000.0,266465037.0
+Interstellar,2014-11-05,2014,November,Wednesday,"Adventure, Drama, Sci-Fi",8.7,169,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",165000000.0,701729206.0
+Der amerikanische Freund,2014-11-05,2014,November,Wednesday,"Crime, Drama, Mystery",7.4,128,Wim Wenders,"Dennis Hopper, Bruno Ganz, Lisa Kreuzer, Gérard Blain",165000000.0,701729206.0
+Alan Partridge: Alpha Papa,2013-07-24,2013,July,Wednesday,"Action, Comedy, Crime",6.9,90,Declan Lowney,"Steve Coogan, Colm Meaney, Tim Key, Karl Theobald",4000000.0,9800000.0
+X: First Class,2013-07-24,2013,July,Wednesday,"Action, Sci-Fi",7.7,131,Matthew Vaughn,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon",4000000.0,9800000.0
+Crash,1996-07-17,1996,July,Wednesday,Drama,6.4,100,David Cronenberg,"James Spader, Holly Hunter, Elias Koteas, Deborah Kara Unger",9000000.0,
+Mona Lisa,1986-06-13,1986,June,Friday,"Crime, Drama, Romance",7.3,104,Neil Jordan,"Bob Hoskins, Cathy Tyson, Michael Caine, Robbie Coltrane",,5794184.0
+Pitch Black,2000-02-18,2000,February,Friday,"Action, Horror, Sci-Fi",7.0,109,David Twohy,"Radha Mitchell, Cole Hauser, Vin Diesel, Keith David",23000000.0,53187659.0
+"Synecdoche, New York",2008-10-24,2008,October,Friday,Drama,7.5,124,Charlie Kaufman,"Philip Seymour Hoffman, Samantha Morton, Michelle Williams, Catherine Keener",20000000.0,4383538.0
+Us,2019-03-14,2019,March,Thursday,"Horror, Mystery, Thriller",6.8,116,Jordan Peele,"Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker",20000000.0,256067149.0
+The Town,2010-09-15,2010,September,Wednesday,"Crime, Drama, Thriller",7.5,125,Ben Affleck,"Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner",37000000.0,154026136.0
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos,2006-01-01,2006,January,Sunday,"Documentary, Sport",7.3,97,Paul Crowder,"John Dower, Pelé, Giorgio Chinaglia, Matt Dillon, Ahmet Ertegun",1000000.0,
+Mission: Impossible III,2006-04-25,2006,April,Tuesday,"Action, Adventure, Thriller",6.9,126,J.J. Abrams,"Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman",150000000.0,398479497.0
+On Her Majesty's Secret Service,1969-12-18,1969,December,Thursday,"Action, Adventure, Thriller",6.7,142,Peter R. Hunt,"George Lazenby, Diana Rigg, Telly Savalas, Gabriele Ferzetti",6000000.0,64574493.0
+Ace Ventura: Pet Detective,1994-02-04,1994,February,Friday,Comedy,6.9,86,Tom Shadyac,"Jim Carrey, Courteney Cox, Sean Young, Tone Loc",15000000.0,107217396.0
+Sherlock Holmes,2009-12-23,2009,December,Wednesday,"Action, Adventure, Mystery",7.6,128,Guy Ritchie,"Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong",90000000.0,524028679.0
+Piranha 3D,2010-08-20,2010,August,Friday,"Comedy, Horror",5.5,88,Alexandre Aja,"Elisabeth Shue, Jerry O'Connell, Richard Dreyfuss, Ving Rhames",24000000.0,83188165.0
+Kingsman: The Secret Service,2014-12-13,2014,December,Saturday,"Action, Adventure, Comedy",7.7,129,Matthew Vaughn,"Colin Firth, Taron Egerton, Samuel L. Jackson, Michael Caine",81000000.0,414351546.0
+Song of the Sea,2014-09-06,2014,September,Saturday,"Animation, Adventure, Drama",8.0,93,Tomm Moore,"David Rawle, Brendan Gleeson, Lisa Hannigan, Fionnula Flanagan",,857522.0
+Creed,2015-11-25,2015,November,Wednesday,"Action, Drama, Sport",7.6,133,Ryan Coogler,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad",37000000.0,173567581.0
+Star Wars: Episode VIII - The Last Jedi,2015-11-25,2015,November,Wednesday,"Action, Adventure, Fantasy",6.9,152,Rian Johnson,"Daisy Ridley, John Boyega, Mark Hamill, Carrie Fisher",37000000.0,173567581.0
+Hacksaw Ridge,2016-10-07,2016,October,Friday,"Biography, Drama, History",8.1,139,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer",40000000.0,175302354.0
+Dunkirk,2017-07-19,2017,July,Wednesday,"Action, Drama, History",7.8,106,Christopher Nolan,"Fionn Whitehead, Barry Keoghan, Mark Rylance, Tom Hardy",,527000000.0
+Kinsey,2004-09-04,2004,September,Saturday,"Biography, Drama, Romance",7.1,118,Bill Condon,"Liam Neeson, Laura Linney, Chris O'Donnell, Peter Sarsgaard",11000000.0,17050017.0
+Gimme Shelter,1970-12-13,1970,December,Sunday,"Documentary, Music, Thriller",7.8,91,Albert Maysles,"David Maysles, Charlotte Zwerin, Mick Jagger, Keith Richards, Mick Taylor, Charlie Watts",,252570.0
+Frenzy,1972-05-25,1972,May,Thursday,Thriller,7.4,116,Alfred Hitchcock,"Jon Finch, Barry Foster, Barbara Leigh-Hunt, Anna Massey",3500000.0,12600000.0
+Amadeus,1984-09-19,1984,September,Wednesday,"Biography, Drama, Music",8.4,160,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice",18000000.0,51973029.0
+Jodaeiye Nader az Simin,1984-09-19,1984,September,Wednesday,Drama,8.3,123,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat, Shahab Hosseini",18000000.0,51973029.0
+Dallas Buyers Club,2013-11-01,2013,November,Friday,"Biography, Drama",7.9,117,Jean-Marc Vallée,"Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn",5000000.0,55736588.0
+Die Hard with a Vengeance,2013-11-01,2013,November,Friday,"Action, Adventure, Thriller",7.6,128,John McTiernan,"Bruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene",5000000.0,55736588.0
+Freeway,1996-08-23,1996,August,Friday,"Crime, Drama, Thriller",6.8,102,Matthew Bright,"Reese Witherspoon, Kiefer Sutherland, Bokeem Woodbine, Paul Perri",3000000.0,
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,1996-08-23,1996,August,Friday,"Documentary, Biography, History",8.1,107,Errol Morris,"Robert McNamara, John F. Kennedy, Fidel Castro, Richard Nixon",3000000.0,
+Carlos,2010-07-07,2010,July,Wednesday,"Biography, Crime, Drama",7.6,334,Edgar Ramírez,"Alexander Scheer, Fadi Abi Samra, Karam Ghossein",18000000.0,871279.0
+Per qualche dollaro in più,2010-07-07,2010,July,Wednesday,"Drama, Western",8.2,132,Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè, Mara Krupp",18000000.0,871279.0
+Ratatouille,2007-06-28,2007,June,Thursday,"Animation, Adventure, Comedy",8.1,111,Brad Bird,"Jan Pinkava, Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm",150000000.0,623726000.0
+The Funeral,1996-01-26,1996,January,Friday,"Crime, Drama",6.6,99,Abel Ferrara,"Christopher Walken, Chris Penn, Annabella Sciorra, Isabella Rossellini",12500000.0,1227324.0
+The Devil's Advocate,1997-10-17,1997,October,Friday,"Drama, Mystery, Thriller",7.5,144,Taylor Hackford,"Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones",57000000.0,152944660.0
+The Player,1992-04-03,1992,April,Friday,"Comedy, Crime, Drama",7.5,124,Robert Altman,"Tim Robbins, Greta Scacchi, Fred Ward, Whoopi Goldberg",8000000.0,21706101.0
+Thank You for Smoking,2005-09-09,2005,September,Friday,"Comedy, Drama",7.5,92,Jason Reitman,"Aaron Eckhart, Cameron Bright, Maria Bello, Joan Lunden",6500000.0,24793509.0
+Seven Psychopaths,2012-10-12,2012,October,Friday,"Comedy, Crime",7.1,110,Martin McDonagh,"Colin Farrell, Woody Harrelson, Sam Rockwell, Christopher Walken",15000000.0,33035736.0
+Skyfall,2012-10-24,2012,October,Wednesday,"Action, Adventure, Thriller",7.8,143,Sam Mendes,"Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench",200000000.0,
+Hereditary,2018-06-07,2018,June,Thursday,"Drama, Horror, Mystery",7.3,127,Ari Aster,"Toni Collette, Milly Shapiro, Gabriel Byrne, Alex Wolff",10000000.0,82530552.0
+Starred Up,2014-03-21,2014,March,Friday,"Crime, Drama",7.3,106,David Mackenzie,"Jack O'Connell, Ben Mendelsohn, Rupert Friend, Sam Spruell",,54915.0
+Paddington,2014-11-24,2014,November,Monday,"Adventure, Comedy, Family",7.3,95,Paul King,"Hugh Bonneville, Sally Hawkins, Julie Walters, Jim Broadbent",55000000.0,259207227.0
+Joe,2013-05-16,2013,May,Thursday,"Crime, Drama, Thriller",6.8,117,David Gordon Green,"Nicolas Cage, Tye Sheridan, Gary Poulter, Ronnie Gene Blevins",4000000.0,2365467.0
+Bloody Sunday,2002-01-16,2002,January,Wednesday,"Drama, History, War",7.6,111,Paul Greengrass,"James Nesbitt, Tim Pigott-Smith, Nicholas Farrell, Allan Gildea",,773228.0
+Sen to Chihiro no kamikakushi,2002-01-16,2002,January,Wednesday,"Animation, Adventure, Family",8.6,125,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino, Rumi Hiiragi",,773228.0
+Neds,2010-10-08,2010,October,Friday,Drama,6.9,124,Peter Mullan,"Conor McCarron, Greg Forrest, Joe Szula, Mhairi Anderson",,
+Michael,1996-12-25,1996,December,Wednesday,"Drama, Thriller",6.9,96,Markus Schleinzer,"Kathrin Resetarits, Michael Fuith, David Rauchenberger, Christine Kain, Ursula Strauss",,119718203.0
+The Shape of Water,2017-12-01,2017,December,Friday,"Drama, Fantasy, Romance",7.3,123,Guillermo del Toro,"Sally Hawkins, Octavia Spencer, Michael Shannon, Doug Jones",19500000.0,195333312.0
+"Three Billboards Outside Ebbing, Missouri",2017-12-01,2017,December,Friday,"Comedy, Crime, Drama",8.1,115,Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones",15000000.0,160192031.0
+Three Identical Strangers,2018-06-29,2018,June,Friday,"Documentary, Biography, Drama",7.6,96,Tim Wardle,"Robert Shafran, Michael Domnitz, Howard Schneider, Ellen Cervone",,1041955.0
+State of Play,2009-04-17,2009,April,Friday,"Crime, Drama, Mystery",7.1,127,Kevin Macdonald,"Russell Crowe, Rachel McAdams, Ben Affleck, Helen Mirren",60000000.0,87812371.0
+The Wackness,2008-07-03,2008,July,Thursday,"Comedy, Drama, Romance",6.9,99,Jonathan Levine,"Josh Peck, Ben Kingsley, Olivia Thirlby, Famke Janssen",6000000.0,3175469.0
+Dirty Rotten Scoundrels,1988-12-14,1988,December,Wednesday,"Comedy, Crime",7.4,110,Frank Oz,"Steve Martin, Michael Caine, Glenne Headly, Anton Rodgers",,42039085.0
+Los ojos de Julia,1988-12-14,1988,December,Wednesday,"Horror, Mystery, Thriller",6.7,118,Guillem Morales,"Belén Rueda, Lluís Homar, Pablo Derqui, Francesc Orella",,42039085.0
+Ghostbusters II,1989-06-16,1989,June,Friday,"Action, Comedy, Fantasy",6.6,108,Ivan Reitman,"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",37000000.0,215394738.0
+Jackass 3D,2010-10-15,2010,October,Friday,"Documentary, Action, Comedy",7.0,94,Jeff Tremaine,"Johnny Knoxville, Steve-O, Bam Margera, Ryan Dunn",20000000.0,117224271.0
+Stake Land,2010-09-30,2010,September,Thursday,"Drama, Horror, Sci-Fi",6.4,98,Jim Mickle,"Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones",650000.0,33245.0
+No,2012-08-09,2012,August,Thursday,"Drama, History",7.4,118,Pablo Larraín,"Gael García Bernal, Alfredo Castro, Antonia Zegers, Luis Gnecco",,2341226.0
+Empire of the Sun,1987-12-09,1987,December,Wednesday,"Drama, War",7.7,153,Steven Spielberg,"Christian Bale, John Malkovich, Miranda Richardson, Nigel Havers",35000000.0,66700000.0
+Tombstone,1993-12-25,1993,December,Saturday,"Biography, Drama, History",7.8,130,George P. Cosmatos,"Kevin Jarre, Kurt Russell, Val Kilmer, Sam Elliott, Bill Paxton",25000000.0,56505065.0
+The Addiction,1995-01-10,1995,January,Tuesday,"Drama, Horror",6.4,82,Abel Ferrara,"Lili Taylor, Christopher Walken, Annabella Sciorra, Edie Falco",,
+Indiana Jones and the Temple of Doom,1984-05-23,1984,May,Wednesday,"Action, Adventure",7.5,118,Steven Spielberg,"Harrison Ford, Kate Capshaw, Ke Huy Quan, Amrish Puri",28000000.0,333000000.0
+"Paris, je t'aime",1984-05-23,1984,May,Wednesday,"Comedy, Drama, Romance",7.2,120,Olivier Assayas,"Frédéric Auburtin, Gurinder Chadha, Sylvain Chomet, Ethan Coen, Joel Coen, Isabel Coixet, Wes Craven, Alfonso Cuarón, Gérard Depardieu, Christopher Doyle, Richard LaGravenese, Vincenzo Natali, Alexander Payne, Bruno Podalydès, Walter Salles, Oliver Schmitz, Nobuhiro Suwa, Daniela Thomas, Tom Tykwer, Gus Van Sant, Juliette Binoche, Leonor Watling, Ludivine Sagnier, Fanny Ardant",28000000.0,333000000.0
+Get Him to the Greek,2010-06-03,2010,June,Thursday,"Comedy, Music",6.3,109,Nicholas Stoller,"Jonah Hill, Russell Brand, Elisabeth Moss, Rose Byrne",40000000.0,90029656.0
+Scream,2022-01-12,2022,January,Wednesday,"Horror, Mystery",7.4,111,Wes Craven,"Neve Campbell, Courteney Cox, David Arquette, Skeet Ulrich",24000000.0,140041405.0
+Iron Man Three,2022-01-12,2022,January,Wednesday,"Action, Adventure, Sci-Fi",7.1,130,Shane Black,"Robert Downey Jr., Guy Pearce, Gwyneth Paltrow, Don Cheadle",24000000.0,140041405.0
+The Village,2004-07-30,2004,July,Friday,"Drama, Mystery, Thriller",6.6,108,M. Night Shyamalan,"Sigourney Weaver, William Hurt, Joaquin Phoenix, Bryce Dallas Howard",60000000.0,256697520.0
+21 Jump Street,2012-03-14,2012,March,Wednesday,"Action, Comedy, Crime",7.2,109,Phil Lord,"Christopher Miller, Jonah Hill, Channing Tatum, Ice Cube, Brie Larson",42000000.0,201585328.0
+Pacific Rim,2013-07-11,2013,July,Thursday,"Action, Adventure, Sci-Fi",6.9,131,Guillermo del Toro,"Idris Elba, Charlie Hunnam, Rinko Kikuchi, Charlie Day",180000000.0,411002906.0
+Shoot 'Em Up,2007-07-26,2007,July,Thursday,"Action, Comedy, Thriller",6.6,86,Michael Davis,"Clive Owen, Monica Bellucci, Paul Giamatti, Stephen McHattie",39000000.0,26820641.0
+Angels with Dirty Faces,1938-11-26,1938,November,Saturday,"Crime, Drama, Film-Noir",7.9,97,Michael Curtiz,"James Cagney, Pat O'Brien, Humphrey Bogart, Ann Sheridan",,
+Rachel Getting Married,2008-10-03,2008,October,Friday,"Drama, Romance",6.7,113,Jonathan Demme,"Anne Hathaway, Rosemarie DeWitt, Debra Winger, Sebastian Stan",,16937968.0
+Planet Terror,2007-04-06,2007,April,Friday,"Action, Comedy, Horror",7.1,105,Robert Rodriguez,"Rose McGowan, Freddy Rodríguez, Josh Brolin, Marley Shelton",,
+Private Parts,1997-03-07,1997,March,Friday,"Biography, Comedy, Drama",6.9,109,Betty Thomas,"Howard Stern, Mary McCormack, Robin Quivers, Fred Norris",28000000.0,41230799.0
+Spring Breakers,2013-01-24,2013,January,Thursday,"Crime, Drama, Thriller",5.3,94,Harmony Korine,"Vanessa Hudgens, Selena Gomez, Ashley Benson, Rachel Korine",5000000.0,31724284.0
+Wag the Dog,1997-12-25,1997,December,Thursday,"Comedy, Drama",7.1,97,Barry Levinson,"Dustin Hoffman, Robert De Niro, Anne Heche, Woody Harrelson",15000000.0,64256513.0
+Margin Call,2011-02-11,2011,February,Friday,"Drama, Thriller",7.1,107,J.C. Chandor,"Zachary Quinto, Stanley Tucci, Kevin Spacey, Paul Bettany",3500000.0,19504039.0
+Cinderella Man,2005-06-02,2005,June,Thursday,"Biography, Drama, Romance",8.0,144,Ron Howard,"Russell Crowe, Renée Zellweger, Craig Bierko, Paul Giamatti",88000000.0,108539911.0
+"Paris, Texas",1984-08-23,1984,August,Thursday,Drama,8.1,145,Wim Wenders,"Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Sam Berry",1746964.0,2181987.0
+Prisoners,2013-09-18,2013,September,Wednesday,"Crime, Drama, Mystery",8.1,153,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo",46000000.0,122126687.0
+Bone Tomahawk,2015-10-23,2015,October,Friday,"Drama, Horror, Western",7.1,132,S. Craig Zahler,"Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins",1800000.0,
+Westworld,1973-08-15,1973,August,Wednesday,"Action, Sci-Fi, Thriller",6.9,88,Michael Crichton,"Yul Brynner, Richard Benjamin, James Brolin, Norman Bartold",,
+The Hateful Eight,2015-12-25,2015,December,Friday,"Crime, Drama, Mystery",7.8,168,Quentin Tarantino,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",44000000.0,155760117.0
+Room,2015-10-16,2015,October,Friday,"Drama, Thriller",8.1,118,Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson",13000000.0,35401758.0
+The Nice Guys,2016-05-15,2016,May,Sunday,"Action, Comedy, Crime",7.3,116,Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",50000000.0,62788218.0
+Hell or High Water,2016-08-11,2016,August,Thursday,"Crime, Drama, Thriller",7.6,102,David Mackenzie,"Chris Pine, Ben Foster, Jeff Bridges, Gil Birmingham",12000000.0,37589296.0
+Nocturnal Animals,2016-11-04,2016,November,Friday,"Drama, Thriller",7.5,116,Tom Ford,"Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson",22500000.0,29252978.0
+Spotlight,2015-11-06,2015,November,Friday,"Biography, Crime, Drama",8.1,129,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",20000000.0,98690254.0
+Tenet,2020-08-22,2020,August,Saturday,"Action, Sci-Fi, Thriller",7.3,150,Christopher Nolan,"John David Washington, Robert Pattinson, Elizabeth Debicki, Juhan Ulfsak",205000000.0,365304105.0
+The Loved Ones,2009-09-13,2009,September,Sunday,"Crime, Horror",6.6,84,Sean Byrne,"Xavier Samuel, Robin McLeavy, John Brumpton, Richard Wilson",,
+"Good Morning, Vietnam",1987-12-23,1987,December,Wednesday,"Biography, Comedy, Drama",7.3,121,Barry Levinson,"Robin Williams, Forest Whitaker, Tom. T. Tran, Chintara Sukapatana",13000000.0,123922370.0
+Badlands,1973-10-15,1973,October,Monday,"Action, Crime, Drama",7.7,94,Terrence Malick,"Martin Sheen, Sissy Spacek, Warren Oates, Ramon Bieri",450000.0,
+The Class of '92,1973-10-15,1973,October,Monday,"Documentary, Sport",7.9,99,Ben Turner,"Gabe Turner, David Beckham, Nicky Butt, Ryan Giggs, Gary Neville",450000.0,
+Withnail & I,1987-06-19,1987,June,Friday,"Comedy, Drama",7.5,107,Bruce Robinson,"Richard E. Grant, Paul McGann, Richard Griffiths, Ralph Brown",,1544889.0
+Bowfinger,1999-08-12,1999,August,Thursday,Comedy,6.5,97,Frank Oz,"Steve Martin, Eddie Murphy, Heather Graham, Christine Baranski",55000000.0,98625775.0
+Diamonds Are Forever,1971-12-14,1971,December,Tuesday,"Action, Adventure, Thriller",6.5,120,Guy Hamilton,"Sean Connery, Jill St. John, Charles Gray, Lana Wood",7200000.0,116019547.0
+Live and Let Die,1973-07-05,1973,July,Thursday,"Action, Adventure, Thriller",6.7,121,Guy Hamilton,"Roger Moore, Yaphet Kotto, Jane Seymour, Clifton James",7000000.0,126377836.0
+127 Hours,2010-11-12,2010,November,Friday,"Biography, Drama",7.5,94,Danny Boyle,"James Franco, Amber Tamblyn, Kate Mara, Sean Bott",18000000.0,35692920.0
+Jacob's Ladder,1990-11-02,1990,November,Friday,"Drama, Horror, Mystery",7.4,113,Adrian Lyne,"Tim Robbins, Elizabeth Peña, Danny Aiello, Matt Craven",25000000.0,26118851.0
+Black Hawk Down,2001-12-28,2001,December,Friday,"Action, Drama, History",7.7,144,Ridley Scott,"Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana",92000000.0,172989651.0
+Machete,2010-09-01,2010,September,Wednesday,"Action, Crime, Thriller",6.6,105,Ethan Maniquis,"Robert Rodriguez, Danny Trejo, Michelle Rodriguez, Robert De Niro, Jessica Alba",20000000.0,44093316.0
+The Adventures of Tintin,2011-10-24,2011,October,Monday,"Animation, Action, Adventure",7.3,107,Steven Spielberg,"Jamie Bell, Andy Serkis, Daniel Craig, Simon Pegg",130000000.0,373993951.0
+Mission: Impossible II,2000-05-24,2000,May,Wednesday,"Action, Adventure, Thriller",6.1,123,John Woo,"Tom Cruise, Dougray Scott, Thandiwe Newton, Ving Rhames",125000000.0,546388105.0
+A Matter of Life and Death,1946-12-15,1946,December,Sunday,"Drama, Fantasy, Romance",8.0,104,Michael Powell,"Emeric Pressburger, David Niven, Kim Hunter, Robert Coote, Kathleen Byron",,
+Kubo and the Two Strings,2016-08-18,2016,August,Thursday,"Animation, Action, Adventure",7.7,101,Travis Knight,"Charlize Theron, Art Parkinson, Matthew McConaughey, Ralph Fiennes",60000000.0,76249438.0
+Arbitrage,2012-09-14,2012,September,Friday,"Drama, Thriller",6.6,107,Nicholas Jarecki,"Richard Gere, Susan Sarandon, Brit Marling, Tim Roth",12000000.0,35485056.0
+Ringu,2012-09-14,2012,September,Friday,"Horror, Mystery",7.2,96,Hideo Nakata,"Nanako Matsushima, Miki Nakatani, Yûko Takeuchi, Hitomi Satô",12000000.0,35485056.0
+Suspiria,2018-10-11,2018,October,Thursday,Horror,7.3,99,Dario Argento,"Jessica Harper, Stefania Casini, Flavio Bucci, Miguel Bosé",20000000.0,6348889.0
+Carrie,2002-11-04,2002,November,Monday,"Horror, Mystery",7.4,98,Brian De Palma,"Sissy Spacek, Piper Laurie, Amy Irving, John Travolta",,
+Dark City,1998-02-27,1998,February,Friday,"Fantasy, Mystery, Sci-Fi",7.6,100,Alex Proyas,"Rufus Sewell, Kiefer Sutherland, Jennifer Connelly, William Hurt",27000000.0,27200316.0
+Breakfast at Tiffany's,1961-10-06,1961,October,Friday,"Comedy, Drama, Romance",7.6,115,Blake Edwards,"Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen",2500000.0,9500000.0
+Thirteen Days,2000-12-25,2000,December,Monday,"Drama, History, Thriller",7.3,145,Roger Donaldson,"Kevin Costner, Bruce Greenwood, Shawn Driscoll, Drake Cook",80000000.0,34566746.0
+Source Code,2011-03-30,2011,March,Wednesday,"Action, Drama, Mystery",7.5,93,Duncan Jones,"Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga, Jeffrey Wright",32000000.0,147332697.0
+The Jungle Book,1967-10-18,1967,October,Wednesday,"Adventure, Drama, Family",7.4,106,Jon Favreau,"Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba",4000000.0,205843612.0
+Supersonic,2016-10-02,2016,October,Sunday,"Documentary, Biography, Music",7.8,122,Mat Whitecross,"Paul Arthurs, Christine Biller, Mark Coyle, Debbie Turner",,226286.0
+The Killing,1956-06-06,1956,June,Wednesday,"Crime, Drama, Film-Noir",7.9,84,Stanley Kubrick,"Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen",320000.0,
+True Lies,1994-07-15,1994,July,Friday,"Action, Comedy, Thriller",7.3,141,James Cameron,"Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton",115000000.0,378882411.0
+Swimming with Sharks,1994-09-10,1994,September,Saturday,"Comedy, Crime",7.0,93,George Huang,"Kevin Spacey, Frank Whaley, Michelle Forbes, Benicio Del Toro",700000.0,382928.0
+Nurse Betty,2000-08-30,2000,August,Wednesday,"Comedy, Crime, Drama",6.3,110,Neil LaBute,"Renée Zellweger, Morgan Freeman, Chris Rock, Greg Kinnear",24000000.0,
+Henry: Portrait of a Serial Killer,1986-09-24,1986,September,Wednesday,"Biography, Crime, Drama",7.0,83,John McNaughton,"Michael Rooker, Tracy Arnold, Tom Towles, Mary Demas",111000.0,
+Buffalo '66,1998-01-20,1998,January,Tuesday,"Comedy, Drama, Romance",7.4,110,Vincent Gallo,"Vincent Gallo, Christina Ricci, Ben Gazzara, Mickey Rourke",1500000.0,2375097.0
+Der Untergang,1998-01-20,1998,January,Tuesday,"Biography, Drama, History",8.2,156,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler",1500000.0,2375097.0
+Star Wars: Episode I - The Phantom Menace,1999-05-19,1999,May,Wednesday,"Action, Adventure, Fantasy",6.5,136,George Lucas,"Ewan McGregor, Liam Neeson, Natalie Portman, Jake Lloyd",115000000.0,924317558.0
+Risky Business,1983-08-05,1983,August,Friday,"Comedy, Crime, Drama",6.8,99,Paul Brickman,"Tom Cruise, Rebecca De Mornay, Joe Pantoliano, Richard Masur",6200000.0,63541777.0
+The Last King of Scotland,2006-01-12,2006,January,Thursday,"Biography, Drama, History",7.6,123,Kevin Macdonald,"James McAvoy, Forest Whitaker, Gillian Anderson, Kerry Washington",6000000.0,48618191.0
+Short Cuts,1993-09-05,1993,September,Sunday,"Comedy, Drama",7.7,188,Robert Altman,"Andie MacDowell, Julianne Moore, Tim Robbins, Bruce Davison",,6110979.0
+Witness,1985-02-08,1985,February,Friday,"Drama, Romance, Thriller",7.4,112,Peter Weir,"Harrison Ford, Kelly McGillis, Lukas Haas, Josef Sommer",12000000.0,68706993.0
+The Limey,1999-05-15,1999,May,Saturday,"Crime, Drama, Mystery",6.9,89,Steven Soderbergh,"Terence Stamp, Peter Fonda, Lesley Ann Warren, Luis Guzmán",10000000.0,3204663.0
+Cast Away,2000-12-22,2000,December,Friday,"Adventure, Drama, Romance",7.8,143,Robert Zemeckis,"Tom Hanks, Helen Hunt, Paul Sanchez, Lari White",90000000.0,429632142.0
+Gangster No. 1,2000-06-09,2000,June,Friday,"Crime, Drama, Thriller",6.7,103,Paul McGuigan,"Malcolm McDowell, David Thewlis, Paul Bettany, Saffron Burrows",,30915.0
+The Godfather Part III,1990-12-25,1990,December,Tuesday,"Crime, Drama",7.6,162,Francis Ford Coppola,"Al Pacino, Diane Keaton, Andy Garcia, Talia Shire",54000000.0,136766062.0
+The Crow,1994-05-11,1994,May,Wednesday,"Action, Crime, Drama",7.5,102,Alex Proyas,"Brandon Lee, Michael Wincott, Rochelle Davis, Ernie Hudson",23000000.0,50694672.0
+Eastern Promises,2007-09-14,2007,September,Friday,"Crime, Drama, Thriller",7.6,100,David Cronenberg,"Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl, Josef Altin",51500000.0,56106607.0
+The Hobbit: The Desolation of Smaug,2013-12-11,2013,December,Wednesday,Fantasy,7.8,161,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",250000000.0,958400000.0
+Manhattan,1979-04-25,1979,April,Wednesday,"Comedy, Drama, Romance",7.8,96,Woody Allen,"Woody Allen, Diane Keaton, Mariel Hemingway, Michael Murphy",9000000.0,39946780.0
+Kingpin,1996-07-04,1996,July,Thursday,"Comedy, Sport",6.9,114,Bobby Farrelly,"Peter Farrelly, Woody Harrelson, Randy Quaid, Bill Murray, Vanessa Angel",27000000.0,25023434.0
+Quantum of Solace,2008-10-29,2008,October,Wednesday,"Action, Adventure, Mystery",6.6,106,Marc Forster,"Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench",200000000.0,589580482.0
+El mariachi,2008-10-29,2008,October,Wednesday,"Action, Crime, Thriller",6.8,81,Robert Rodriguez,"Carlos Gallardo, Consuelo Gómez, Jaime de Hoyos, Peter Marquardt",200000000.0,589580482.0
+Big Trouble in Little China,1986-05-30,1986,May,Friday,"Action, Adventure, Comedy",7.2,99,John Carpenter,"Kurt Russell, Kim Cattrall, Dennis Dun, James Hong",25000000.0,11000000.0
+The Sting,1973-12-25,1973,December,Tuesday,"Comedy, Crime, Drama",8.3,129,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw, Charles Durning",5500000.0,159616327.0
+Apollo 13,1995-06-30,1995,June,Friday,"Adventure, Drama, History",7.7,140,Ron Howard,"Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise",52000000.0,355237933.0
+Noah,2014-03-07,2014,March,Friday,"Action, Adventure, Drama",5.8,138,Darren Aronofsky,"Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson",125000000.0,362637473.0
+Once,2007-03-23,2007,March,Friday,"Drama, Music, Romance",7.8,86,John Carney,"Glen Hansard, Markéta Irglová, Hugh Walsh, Gerard Hendrick",160000.0,20710513.0
+Captain Fantastic,2016-07-08,2016,July,Friday,"Comedy, Drama",7.8,118,Matt Ross,"Viggo Mortensen, George MacKay, Samantha Isler, Annalise Basso",5000000.0,23123592.0
+Lord of War,2005-09-16,2005,September,Friday,"Crime, Drama",7.6,122,Andrew Niccol,"Nicolas Cage, Ethan Hawke, Jared Leto, Bridget Moynahan",50000000.0,72617068.0
+The Last of the Mohicans,1992-08-26,1992,August,Wednesday,"Action, Adventure, Drama",7.7,112,Michael Mann,"Daniel Day-Lewis, Madeleine Stowe, Russell Means, Eric Schweig",40000000.0,75505856.0
+Lone Survivor,2013-12-24,2013,December,Tuesday,"Action, Biography, Drama",7.5,121,Peter Berg,"Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster",40000000.0,149295601.0
+Jumanji,1995-12-15,1995,December,Friday,"Adventure, Comedy, Family",7.0,104,Joe Johnston,"Robin Williams, Kirsten Dunst, Bonnie Hunt, Jonathan Hyde",65000000.0,262821940.0
+Apocalypto,2006-12-07,2006,December,Thursday,"Action, Adventure, Drama",7.8,139,Mel Gibson,"Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández, Rudy Youngblood",40000000.0,120654337.0
+Youth in Revolt,2009-09-11,2009,September,Friday,"Comedy, Drama, Romance",6.4,90,Miguel Arteta,"Michael Cera, Portia Doubleday, Jean Smart, Zach Galifianakis",18000000.0,
+Lords of Dogtown,2005-06-03,2005,June,Friday,"Biography, Drama, Sport",7.1,107,Catherine Hardwicke,"Heath Ledger, Emile Hirsch, Victor Rasuk, Johnny Knoxville",25000000.0,13411957.0
+Team America: World Police,2004-10-10,2004,October,Sunday,"Action, Comedy",7.2,98,Trey Parker,"Trey Parker, Matt Stone, Elle Russ, Kristen Miller",32000000.0,50907422.0
+After Hours,1985-08-16,1985,August,Friday,"Comedy, Crime, Drama",7.6,97,Martin Scorsese,"Griffin Dunne, Rosanna Arquette, Verna Bloom, Tommy Chong",4500000.0,10609321.0
+Man on the Moon,1999-12-22,1999,December,Wednesday,"Biography, Comedy, Drama",7.4,118,Milos Forman,"Jim Carrey, Danny DeVito, Gerry Becker, Greyson Erik Pendry",82000000.0,47434430.0
+Trolljegeren,1999-12-22,1999,December,Wednesday,"Drama, Fantasy, Horror",6.9,103,André Øvredal,"Otto Jespersen, Robert Stoltenberg, Knut Nærum, Glenn Erland Tosterud",82000000.0,47434430.0
+Snitch,2013-02-21,2013,February,Thursday,"Crime, Drama, Thriller",6.6,93,Ted Demme,"Denis Leary, Ian Hart, Jason Barry, Lenny Clarke",35000000.0,42930462.0
+Heavenly Creatures,1994-09-12,1994,September,Monday,"Biography, Crime, Drama",7.3,99,Peter Jackson,"Melanie Lynskey, Kate Winslet, Sarah Peirse, Diana Kent",5000000.0,3049135.0
+Monsoon Wedding,2001-08-30,2001,August,Thursday,"Comedy, Drama, Romance",7.3,114,Mira Nair,"Naseeruddin Shah, Lillete Dubey, Shefali Shah, Vijay Raaz",,
+The Sweet Hereafter,1997-09-25,1997,September,Thursday,Drama,7.5,112,Atom Egoyan,"Ian Holm, Sarah Polley, Caerthan Banks, Tom McCamus",5000000.0,7951247.0
+Cube,1997-09-09,1997,September,Tuesday,"Drama, Horror, Mystery",7.1,90,Vincenzo Natali,"Nicole de Boer, Maurice Dean Wint, David Hewlett, Andrew Miller",350000.0,8969065.0
+Breaking the Waves,1996-05-13,1996,May,Monday,Drama,7.8,159,Lars von Trier,"Emily Watson, Stellan Skarsgård, Katrin Cartlidge, Jean-Marc Barr",,3803298.0
+The Man with Two Brains,1983-06-10,1983,June,Friday,"Comedy, Romance, Sci-Fi",6.4,93,Carl Reiner,"Steve Martin, Kathleen Turner, David Warner, Paul Benedict",10100000.0,
+Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,2014,October,Friday,"Comedy, Drama",7.7,119,Alejandro G. Iñárritu,"Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough",18000000.0,103215094.0
+Beverly Hills Cop,1984-12-05,1984,December,Wednesday,"Action, Comedy, Crime",7.3,105,Martin Brest,"Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher",14000000.0,316360478.0
+The Ring,2002-10-18,2002,October,Friday,"Horror, Mystery",7.1,115,Gore Verbinski,"Naomi Watts, Martin Henderson, Brian Cox, David Dorfman",48000000.0,249348933.0
+Kids,1995-07-28,1995,July,Friday,Drama,7.0,91,Larry Clark,"Leo Fitzpatrick, Justin Pierce, Chloë Sevigny, Sarah Henderson",1500000.0,20412216.0
+Hearts of Darkness: A Filmmaker's Apocalypse,1991-11-27,1991,November,Wednesday,Documentary,8.1,96,Fax Bahr,"George Hickenlooper, Eleanor Coppola, Dennis Hopper, Martin Sheen, Marlon Brando, George Lucas",,1318449.0
+Roger Dodger,2002-05-09,2002,May,Thursday,"Comedy, Drama",6.9,106,Dylan Kidd,"Campbell Scott, Jesse Eisenberg, Isabella Rossellini, Elizabeth Berkley",,1260761.0
+Hard Candy,2005-01-14,2005,January,Friday,"Drama, Thriller",7.0,104,David Slade,"Patrick Wilson, Elliot Page, Sandra Oh, Odessa Rae",950000.0,7022209.0
+Sicko,2007-05-18,2007,May,Friday,"Documentary, Drama",8.0,123,Michael Moore,"Michael Moore, Tucker Albrizzi, Tony Benn, George W. Bush",9000000.0,24538513.0
+Lenny,1974-11-10,1974,November,Sunday,"Biography, Drama",7.6,111,Bob Fosse,"Dustin Hoffman, Valerie Perrine, Jan Miner, Stanley Beck",,
+Persepolis,2007-06-27,2007,June,Wednesday,"Animation, Biography, Drama",8.0,96,Vincent Paronnaud,"Marjane Satrapi, Chiara Mastroianni, Catherine Deneuve, Gena Rowlands, Danielle Darrieux",7300000.0,
+The Others,2001-08-02,2001,August,Thursday,"Horror, Mystery, Thriller",7.6,101,Alejandro Amenábar,"Nicole Kidman, Christopher Eccleston, Fionnula Flanagan, Alakina Mann",17000000.0,209947037.0
+Bill & Ted's Excellent Adventure,1989-02-17,1989,February,Friday,"Adventure, Comedy, Music",6.9,90,Stephen Herek,"Keanu Reeves, Alex Winter, George Carlin, Terry Camilleri",10000000.0,40485039.0
+Zoolander,2001-09-28,2001,September,Friday,Comedy,6.5,90,Ben Stiller,"Ben Stiller, Owen Wilson, Christine Taylor, Will Ferrell",28000000.0,60780981.0
+Rescue Dawn,2006-09-09,2006,September,Saturday,"Adventure, Biography, War",7.3,120,Werner Herzog,"Christian Bale, Steve Zahn, Jeremy Davies, Zach Grenier",10000000.0,7177143.0
+Rear Window,1954-08-01,1954,August,Sunday,"Mystery, Thriller",8.5,112,Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter",1000000.0,37034514.0
+Being There,1979-12-19,1979,December,Wednesday,"Comedy, Drama",8.0,130,Hal Ashby,"Peter Sellers, Shirley MacLaine, Melvyn Douglas, Jack Warden",,30177511.0
+Fear and Loathing in Las Vegas,1998-05-22,1998,May,Friday,"Adventure, Comedy, Drama",7.5,118,Terry Gilliam,"Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin",18500000.0,10680275.0
+John Wick,2014-10-22,2014,October,Wednesday,"Action, Crime, Thriller",7.4,101,Chad Stahelski,"David Leitch, Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe",20000000.0,88761661.0
+Rope,1948-03-11,1948,March,Thursday,"Crime, Drama, Mystery",7.9,80,Alfred Hitchcock,"James Stewart, John Dall, Farley Granger, Dick Hogan",1500000.0,2200000.0
+Enter the Dragon,1973-08-17,1973,August,Friday,"Action, Crime, Drama",7.6,102,Robert Clouse,"Bruce Lee, John Saxon, Jim Kelly, Ahna Capri",10000000.0,21485066.0
+Wayne's World,1992-02-14,1992,February,Friday,"Comedy, Music",7.0,94,Penelope Spheeris,"Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere",20000000.0,183097323.0
+This Is Spinal Tap,1984-05-04,1984,May,Friday,"Comedy, Music",7.9,82,Rob Reiner,"Rob Reiner, Michael McKean, Christopher Guest, Kimberly Stringer",2500000.0,4736202.0
+Old School,2003-02-21,2003,February,Friday,Comedy,7.0,88,Todd Phillips,"Luke Wilson, Vince Vaughn, Will Ferrell, Jeremy Piven",24000000.0,87135520.0
+Top Five,2014-12-12,2014,December,Friday,"Comedy, Romance",6.4,102,Chris Rock,"Chris Rock, Rosario Dawson, Gabrielle Union, Kevin Hart",,25434291.0
+All About Eve,1950-10-06,1950,October,Friday,Drama,8.2,138,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders, Celeste Holm",1400000.0,8400000.0
+Scum,1979-09-12,1979,September,Wednesday,"Crime, Drama",7.6,98,Alan Clarke,"Ray Winstone, Mick Ford, Julian Firth, John Blundell",420000.0,
+Blackfish,2013-06-07,2013,June,Friday,Documentary,8.1,83,Gabriela Cowperthwaite,"Tilikum, Dave Duffus, Samantha Berg, Dean Gomersall",,2063312.0
+The Martian,2015-09-30,2015,September,Wednesday,"Adventure, Drama, Sci-Fi",8.0,144,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara",108000000.0,630600000.0
+The Cove,2009-07-31,2009,July,Friday,"Documentary, Biography, Crime",8.4,92,Louie Psihoyos,"Richard O'Barry, Louie Psihoyos, Hardy Jones, Michael Illiff",,1162422.0
+Dope,2015-06-19,2015,June,Friday,"Adventure, Comedy, Crime",7.2,103,Rick Famuyiwa,"Shameik Moore, Tony Revolori, Kiersey Clemons, Kimberly Elise",7000000.0,17986781.0
+Steve Jobs,2015-10-09,2015,October,Friday,"Biography, Drama",7.2,122,Danny Boyle,"Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels",30000000.0,34441873.0
+First Blood,1982-10-22,1982,October,Friday,"Action, Adventure, Thriller",7.7,93,Ted Kotcheff,"Sylvester Stallone, Brian Dennehy, Richard Crenna, Bill McKinney",15000000.0,125212904.0
+A Nightmare on Elm Street,1984-11-09,1984,November,Friday,Horror,7.4,91,Wes Craven,"Heather Langenkamp, Johnny Depp, Robert Englund, John Saxon",1100000.0,57000000.0
+You Only Live Twice,1967-06-13,1967,June,Tuesday,"Action, Adventure, Thriller",6.8,117,Lewis Gilbert,"Sean Connery, Akiko Wakabayashi, Mie Hama, Tetsurô Tanba",9500000.0,111584787.0
+Bronson,2008-10-09,2008,October,Thursday,"Action, Crime, Drama",7.0,92,Nicolas Winding Refn,"Tom Hardy, Kelly Adams, Luing Andrews, Katy Barker",230000.0,2260712.0
+Project Nim,2011-07-08,2011,July,Friday,Documentary,7.4,93,James Marsh,"Nim Chimpsky, Stephanie LaFarge, Herbert Terrace, Wer LaFarge",,
+Three Days of the Condor,1975-09-24,1975,September,Wednesday,"Crime, Mystery, Thriller",7.4,117,Sydney Pollack,"Robert Redford, Faye Dunaway, Cliff Robertson, Max von Sydow",7800000.0,41509797.0
+Sullivan's Travels,1941-11-30,1941,November,Sunday,"Adventure, Comedy, Drama",7.9,90,Preston Sturges,"Joel McCrea, Veronica Lake, Robert Warwick, William Demarest",700000.0,1200000.0
+Cape Fear,1991-11-13,1991,November,Wednesday,"Crime, Thriller",7.3,128,Martin Scorsese,"Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis",35000000.0,182300000.0
+Glory,1989-12-15,1989,December,Friday,"Biography, Drama, History",7.8,122,Edward Zwick,"Matthew Broderick, Denzel Washington, Cary Elwes, Morgan Freeman",18000000.0,26828365.0
+Pink Flamingos,1972-03-17,1972,March,Friday,"Comedy, Crime",6.0,93,John Waters,"Divine, David Lochary, Mary Vivian Pearce, Mink Stole",12000.0,6000000.0
+Eraserhead,1977-03-19,1977,March,Saturday,"Fantasy, Horror",7.3,89,David Lynch,"Jack Nance, Charlotte Stewart, Allen Joseph, Jeanne Bates",100000.0,7000000.0
+Tucker and Dale vs Evil,1977-03-19,1977,March,Saturday,"Comedy, Horror",7.5,89,Eli Craig,"Tyler Labine, Alan Tudyk, Katrina Bowden, Jesse Moss",100000.0,7000000.0
+The Man Who Wasn't There,2001-10-26,2001,October,Friday,"Crime, Drama",7.5,116,Joel Coen,"Billy Bob Thornton, Frances McDormand, Michael Badalucco, James Gandolfini",20000000.0,
+Django,1966-04-06,1966,April,Wednesday,"Action, Drama, Western",7.2,91,Sergio Corbucci,"Franco Nero, José Canalejas, José Bódalo, Loredana Nusciak",,17277.0
+Singin' in the Rain,1952-04-09,1952,April,Wednesday,"Comedy, Musical, Romance",8.3,103,Stanley Donen,"Gene Kelly, Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen",2540800.0,7200000.0
+Auto Focus,2002-10-18,2002,October,Friday,"Biography, Crime, Drama",6.7,105,Paul Schrader,"Greg Kinnear, Willem Dafoe, Maria Bello, Rita Wilson",7000000.0,2062066.0
+The Iron Giant,1999-08-06,1999,August,Friday,"Animation, Action, Adventure",8.1,86,Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel",70000000.0,23159305.0
+Mononoke-hime,1999-08-06,1999,August,Friday,"Animation, Action, Adventure",8.3,134,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Billy Crudup",70000000.0,23159305.0
+Mission: Impossible - Rogue Nation,2015-07-23,2015,July,Thursday,"Action, Adventure, Thriller",7.4,131,Christopher McQuarrie,"Tom Cruise, Rebecca Ferguson, Jeremy Renner, Simon Pegg",150000000.0,682716636.0
+Double Indemnity,1944-06-14,1944,June,Wednesday,"Crime, Drama, Film-Noir",8.3,107,Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Byron Barr",927262.0,2500000.0
+Aladdin,1992-11-25,1992,November,Wednesday,"Animation, Adventure, Comedy",8.0,90,Ron Clements,"John Musker, Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman",28000000.0,504050219.0
+It Follows,2014-09-24,2014,September,Wednesday,"Horror, Mystery, Thriller",6.8,100,David Robert Mitchell,"Maika Monroe, Keir Gilchrist, Olivia Luccardi, Lili Sepe",2000000.0,14674076.0
+Fast & Furious 7,2014-09-24,2014,September,Wednesday,"Action, Crime, Thriller",7.1,137,James Wan,"Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham",2000000.0,14674076.0
+King Kong,2005-12-12,2005,December,Monday,"Adventure, Horror, Sci-Fi",7.9,100,Merian C. Cooper,"Ernest B. Schoedsack, Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher",207000000.0,562363449.0
+Spring,2014-10-08,2014,October,Wednesday,"Horror, Romance, Sci-Fi",6.7,109,Justin Benson,"Aaron Moorhead, Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti, Nick Nevern",,49970.0
+Sicario,2015-09-17,2015,September,Thursday,"Action, Crime, Drama",7.6,121,Denis Villeneuve,"Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal",30000000.0,84872444.0
+Awakenings,1990-12-04,1990,December,Tuesday,"Biography, Drama",7.8,121,Penny Marshall,"Robert De Niro, Robin Williams, Julie Kavner, Ruth Nelson",,52096475.0
+Young Adult,2011-11-11,2011,November,Friday,"Comedy, Drama",6.3,94,Jason Reitman,"Charlize Theron, Patrick Wilson, Patton Oswalt, Elizabeth Reaser",12000000.0,22939027.0
+Blow-Up,1966-12-18,1966,December,Sunday,"Drama, Mystery, Thriller",7.5,111,Michelangelo Antonioni,"David Hemmings, Vanessa Redgrave, Sarah Miles, John Castle",1800000.0,
+The Long Goodbye,1973-03-07,1973,March,Wednesday,"Comedy, Crime, Drama",7.5,112,Robert Altman,"Elliott Gould, Nina van Pallandt, Sterling Hayden, Mark Rydell",1700000.0,959000.0
+Spartacus,1960-10-13,1960,October,Thursday,"Adventure, Biography, Drama",7.9,197,Stanley Kubrick,"Anthony Mann, Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton",12000000.0,60000000.0
+Ronin,1998-09-25,1998,September,Friday,"Action, Crime, Thriller",7.2,122,John Frankenheimer,"Robert De Niro, Jean Reno, Natascha McElhone, Stellan Skarsgård",55000000.0,70692101.0
+Mad Max,1979-04-12,1979,April,Thursday,"Action, Adventure, Sci-Fi",6.8,88,George Miller,"Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley",350000.0,100000000.0
+Touch of Evil,1958-03-30,1958,March,Sunday,"Crime, Drama, Film-Noir",8.0,95,Orson Welles,"Charlton Heston, Orson Welles, Janet Leigh, Joseph Calleia",829000.0,2247500.0
+Nymphomaniac: Vol. I,2013-12-25,2013,December,Wednesday,Drama,6.9,117,Lars von Trier,"Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf",,13545832.0
+Ong-bak,2013-12-25,2013,December,Wednesday,"Action, Crime, Thriller",7.1,108,Prachya Pinkaew,"Tony Jaa, Phetthai Vongkumlao, Pumwaree Yodkamol, Suchao Pongwilai",,13545832.0
+Manhattan Melodrama,1934-05-04,1934,May,Friday,"Crime, Drama, Romance",7.1,93,W.S. Van Dyke,"Jack Conway, George Cukor, Clark Gable, William Powell, Myrna Loy, Leo Carrillo",,
+Boyhood,2014-06-05,2014,June,Thursday,Drama,7.9,165,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith",4000000.0,48137666.0
+Terms of Endearment,1983-11-20,1983,November,Sunday,"Comedy, Drama",7.4,132,James L. Brooks,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito",8000000.0,108423749.0
+The Master,2012-09-07,2012,September,Friday,Drama,7.1,138,Paul Thomas Anderson,"Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams, Jesse Plemons",32000000.0,28258060.0
+How to Train Your Dragon 2,2014-06-05,2014,June,Thursday,"Animation, Action, Adventure",7.8,102,Dean DeBlois,"Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson",145000000.0,621537519.0
+What We Do in the Shadows,2014-06-19,2014,June,Thursday,"Comedy, Horror",7.6,86,Jemaine Clement,"Taika Waititi, Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer, Jonny Brugh",1600000.0,6263224.0
+Roger & Me,1989-09-01,1989,September,Friday,Documentary,7.5,91,Michael Moore,"Michael Moore, Roger B. Smith, Rhonda Britton, Fred Ross",160000.0,6706368.0
+Role Models,2008-11-07,2008,November,Friday,Comedy,6.8,99,David Wain,"Paul Rudd, Seann William Scott, Elizabeth Banks, Christopher Mintz-Plasse",28000000.0,92380927.0
+Wayne's World 2,1993-12-10,1993,December,Friday,"Comedy, Music",6.2,95,Stephen Surjik,"Mike Myers, Dana Carvey, Christopher Walken, Tia Carrere",40000000.0,48198019.0
+The Warriors,1979-02-09,1979,February,Friday,"Action, Crime, Thriller",7.6,93,Walter Hill,"Michael Beck, James Remar, Dorsey Wright, Brian Tyler",4000000.0,22490039.0
+The Castle,1997-04-10,1997,April,Thursday,"Comedy, Drama",7.7,85,Rob Sitch,"Michael Caton, Anne Tenney, Stephen Curry, Anthony Simcoe",786675.0,861789.0
+Home Alone 2: Lost in New York,1992-11-19,1992,November,Thursday,"Adventure, Comedy, Crime",6.8,120,Chris Columbus,"Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara",18000000.0,358994850.0
+Final Destination 2,2003-01-31,2003,January,Friday,"Horror, Thriller",6.2,90,David R. Ellis,"A.J. Cook, Ali Larter, Tony Todd, Michael Landes",26000000.0,90941129.0
+Mean Streets,1973-10-14,1973,October,Sunday,"Crime, Drama, Thriller",7.2,112,Martin Scorsese,"Robert De Niro, Harvey Keitel, David Proval, Amy Robinson",500000.0,3000000.0
+The Full Monty,1997-08-13,1997,August,Wednesday,"Comedy, Drama",7.2,91,Peter Cattaneo,"Robert Carlyle, Tom Wilkinson, Mark Addy, Wim Snape",3500000.0,257850122.0
+Fast Times at Ridgemont High,1982-08-13,1982,August,Friday,"Comedy, Drama",7.1,90,Amy Heckerling,"Sean Penn, Jennifer Jason Leigh, Judge Reinhold, Robert Romanus",4500000.0,27092880.0
+Black Dynamite,2009-10-16,2009,October,Friday,"Action, Comedy",7.4,84,Scott Sanders,"Michael Jai White, Arsenio Hall, Tommy Davidson, Phyllis Applegate",2900000.0,296557.0
+Everything Is Illuminated,2005-09-16,2005,September,Friday,"Comedy, Drama",7.4,106,Liev Schreiber,"Elijah Wood, Eugene Hutz, Boris Lyoskin, Jonathan Safran Foer",7000000.0,3601974.0
+No Way Out,2022-08-12,2022,August,Friday,"Action, Crime, Drama",7.1,114,Roger Donaldson,"Kevin Costner, Gene Hackman, Sean Young, Will Patton",,
+State of Grace,1990-09-14,1990,September,Friday,"Action, Crime, Drama",7.2,134,Phil Joanou,"Sean Penn, Ed Harris, Gary Oldman, Robin Wright",,
+The Hunger Games: Catching Fire,2013-11-15,2013,November,Friday,"Action, Adventure, Sci-Fi",7.5,146,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman",130000000.0,865011746.0
+Miracle on 34th Street,1947-06-04,1947,June,Wednesday,"Comedy, Drama, Family",7.9,96,George Seaton,"Edmund Gwenn, Maureen O'Hara, John Payne, Gene Lockhart",630000.0,2700000.0
+Big Fish,2003-12-25,2003,December,Thursday,"Adventure, Drama, Fantasy",8.0,125,Tim Burton,"Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange",70000000.0,123218424.0
+Analyze This,1999-03-05,1999,March,Friday,"Comedy, Crime",6.7,103,Harold Ramis,"Robert De Niro, Billy Crystal, Lisa Kudrow, Chazz Palminteri",80000000.0,176885658.0
+Ben-Hur,1959-11-18,1959,November,Wednesday,"Adventure, Drama",8.1,212,William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet",15000000.0,164000000.0
+Top Secret!,1984-06-08,1984,June,Friday,"Comedy, Crime, Music",7.2,90,Jim Abrahams,"David Zucker, Jerry Zucker, Val Kilmer, Omar Sharif, Jeremy Kemp, Warren Clarke",9000000.0,20458340.0
+Fast Five,2011-04-20,2011,April,Wednesday,"Action, Crime, Thriller",7.3,130,Justin Lin,"Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster",125000000.0,626137675.0
+An Officer and a Gentleman,1982-07-28,1982,July,Wednesday,"Drama, Romance",7.0,124,Taylor Hackford,"Richard Gere, Debra Winger, David Keith, Robert Loggia",7500000.0,129795554.0
+Mystic River,2003-03-03,2003,March,Monday,"Crime, Drama, Mystery",7.9,138,Clint Eastwood,"Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum",25000000.0,156822020.0
+Shut Up and Play the Hits,2012-01-22,2012,January,Sunday,"Documentary, Music",7.3,108,Will Lovelace,"Dylan Southern, James Murphy, Chuck Klosterman, Keith Wood, Nancy Whang",,
+Bobby Fischer Against the World,2011-06-06,2011,June,Monday,"Documentary, Biography, History",7.4,93,Liz Garbus,"Bobby Fischer, David Edmonds, Anthony Saidy, Susan Polgar",,
+Southern Comfort,1981-09-21,1981,September,Monday,"Action, Thriller",7.1,106,Walter Hill,"Keith Carradine, Powers Boothe, Fred Ward, Franklyn Seales",,
+Rocky II,1979-06-15,1979,June,Friday,"Drama, Sport",7.3,119,Sylvester Stallone,"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",7000000.0,85182160.0
+Time Bandits,1981-07-13,1981,July,Monday,"Adventure, Comedy, Fantasy",6.9,116,Terry Gilliam,"Sean Connery, Shelley Duvall, John Cleese, Katherine Helmond",5000000.0,42365581.0
+Jungle Fever,1991-06-07,1991,June,Friday,"Drama, Romance",6.6,132,Spike Lee,"Wesley Snipes, Annabella Sciorra, Spike Lee, Ossie Davis",14000000.0,32482682.0
+Down Terrace,2010-07-30,2010,July,Friday,"Crime, Drama",6.4,93,Ben Wheatley,"Robin Hill, Robert Hill, Julia Deakin, David Schaal",31192.0,10000.0
+"Play It Again, Sam",1972-05-04,1972,May,Thursday,"Comedy, Romance",7.6,85,Herbert Ross,"Woody Allen, Diane Keaton, Tony Roberts, Jerry Lacy",,
+Bill & Ted's Bogus Journey,1991-07-19,1991,July,Friday,"Adventure, Comedy, Fantasy",6.3,93,Peter Hewitt,"Keanu Reeves, Alex Winter, William Sadler, Joss Ackland",,
+Napoleon Dynamite,2004-06-11,2004,June,Friday,Comedy,6.9,96,Jared Hess,"Jon Heder, Efren Ramirez, Jon Gries, Aaron Ruell",400000.0,46118097.0
+We Need to Talk About Kevin,2011-09-28,2011,September,Wednesday,"Drama, Mystery, Thriller",7.5,112,Lynne Ramsay,"Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell",7000000.0,10765283.0
+August: Osage County,2013-12-26,2013,December,Thursday,"Comedy, Drama",7.2,121,John Wells,"Meryl Streep, Dermot Mulroney, Julia Roberts, Juliette Lewis",25000000.0,74188937.0
+The Wedding Singer,1998-02-13,1998,February,Friday,"Comedy, Music, Romance",6.9,97,Frank Coraci,"Adam Sandler, Drew Barrymore, Christine Taylor, Allen Covert",18000000.0,123306987.0
+The Naked Gun 2½: The Smell of Fear,1991-06-28,1991,June,Friday,"Comedy, Crime",6.9,85,David Zucker,"Leslie Nielsen, Priscilla Presley, George Kennedy, O.J. Simpson",23000000.0,86930411.0
+Midnight in Paris,2011-05-11,2011,May,Wednesday,"Comedy, Fantasy, Romance",7.7,94,Woody Allen,"Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller",17000000.0,151119219.0
+Philadelphia,1993-12-22,1993,December,Wednesday,Drama,7.7,125,Jonathan Demme,"Tom Hanks, Denzel Washington, Roberta Maxwell, Buzz Kilman",26000000.0,206678440.0
+Beowulf,2007-11-05,2007,November,Monday,"Animation, Action, Adventure",6.3,115,Robert Zemeckis,"Ray Winstone, Crispin Glover, Angelina Jolie, Robin Wright",70000000.0,195735876.0
+Deep Cover,1992-04-15,1992,April,Wednesday,"Action, Crime, Thriller",6.9,107,Bill Duke,"Laurence Fishburne, Jeff Goldblum, Lira Angel, René Assa",,
+Runaway Jury,2003-01-16,2003,January,Thursday,"Crime, Drama, Thriller",7.1,127,Gary Fleder,"John Cusack, Rachel Weisz, Gene Hackman, Dustin Hoffman",60000000.0,80154140.0
+Save the Tiger,1973-02-14,1973,February,Wednesday,Drama,6.9,100,John G. Avildsen,"Jack Lemmon, Jack Gilford, Laurie Heineman, Norman Burton",,
+Mississippi Burning,1988-12-08,1988,December,Thursday,"Crime, Drama, Mystery",7.8,128,Alan Parker,"Gene Hackman, Willem Dafoe, Frances McDormand, Brad Dourif",15000000.0,34604000.0
+Goon,2012-01-06,2012,January,Friday,"Comedy, Drama, Sport",6.8,92,Michael Dowse,"Seann William Scott, Jay Baruchel, Alison Pill, Eugene Levy",,6483963.0
+Final Destination,2000-03-17,2000,March,Friday,"Horror, Thriller",6.7,98,James Wong,"Devon Sawa, Ali Larter, Kerr Smith, Kristen Cloke",23000000.0,112880294.0
+Fletch,1985-05-31,1985,May,Friday,"Comedy, Crime, Mystery",6.9,98,Michael Ritchie,"Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson, Richard Libertini",8000000.0,59612888.0
+The Lion King,1994-06-23,1994,June,Thursday,"Animation, Adventure, Drama",8.5,88,Roger Allers,"Rob Minkoff, Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg",45000000.0,763455561.0
+Sleeper,1973-12-17,1973,December,Monday,"Comedy, Sci-Fi",7.1,89,Woody Allen,"Woody Allen, Diane Keaton, John Beck, Mary Gregory",2000000.0,18344729.0
+Shichinin no samurai,1973-12-17,1973,December,Monday,"Action, Drama",8.6,207,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki",2000000.0,18344729.0
+Amy,2015-07-03,2015,July,Friday,"Documentary, Biography, Music",7.8,128,Asif Kapadia,"Amy Winehouse, Mitch Winehouse, Mark Ronson, Russell Brand",,8413144.0
+The Lobster,2015-10-15,2015,October,Thursday,"Drama, Romance, Sci-Fi",7.1,119,Yorgos Lanthimos,"Colin Farrell, Rachel Weisz, Jessica Barden, Olivia Colman",4000000.0,15656193.0
+Commando,1985-10-03,1985,October,Thursday,"Action, Adventure, Thriller",6.7,90,Mark L. Lester,"Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya, Vernon Wells",10000000.0,57500000.0
+Ted,2012-06-29,2012,June,Friday,Comedy,6.9,106,Seth MacFarlane,"Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale",50000000.0,549368315.0
+The 40 Year Old Virgin,2005-08-11,2005,August,Thursday,"Comedy, Romance",7.1,116,Judd Apatow,"Steve Carell, Catherine Keener, Paul Rudd, Romany Malco",26000000.0,177378645.0
+Mary Poppins,1964-12-17,1964,December,Thursday,"Comedy, Family, Fantasy",7.8,139,Robert Stevenson,"Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns",6000000.0,103082380.0
+The Sound of Music,1965-03-29,1965,March,Monday,"Biography, Drama, Family",8.1,172,Robert Wise,"Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn",8200000.0,286214286.0
+Arrival,2016-11-10,2016,November,Thursday,"Drama, Mystery, Sci-Fi",7.9,116,Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg",47000000.0,203388186.0
+Uncut Gems,2019-08-30,2019,August,Friday,"Crime, Drama, Thriller",7.4,135,Benny Safdie,"Josh Safdie, Adam Sandler, Julia Fox, Idina Menzel, Mesfin Lamengo",19000000.0,50020902.0
+Manchester by the Sea,2016-11-18,2016,November,Friday,Drama,7.8,137,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges",9000000.0,78988148.0
+Blade Runner 2049,2017-10-04,2017,October,Wednesday,"Action, Drama, Mystery",8.0,164,Denis Villeneuve,"Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista",150000000.0,259239658.0
+Baby Driver,2017-06-28,2017,June,Wednesday,"Action, Crime, Drama",7.6,113,Edgar Wright,"Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza González",34000000.0,226945087.0
+Thor: Ragnarok,2017-10-24,2017,October,Tuesday,"Action, Adventure, Comedy",7.9,130,Taika Waititi,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",180000000.0,855301806.0
+Detroit,2017-07-28,2017,July,Friday,"Crime, Drama, History",7.3,143,Kathryn Bigelow,"John Boyega, Anthony Mackie, Algee Smith, Jacob Latimore",34000000.0,23355100.0
+Guardians of the Galaxy Vol. 2,2017-04-19,2017,April,Wednesday,"Action, Adventure, Comedy",7.6,136,James Gunn,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",200000000.0,863756051.0
+The Ballad of Buster Scruggs,2018-11-09,2018,November,Friday,"Comedy, Drama, Musical",7.3,133,Ethan Coen,"Joel Coen, Tim Blake Nelson, Willie Watson, Clancy Brown, Danny McCarthy",,
+The Post,2017-12-22,2017,December,Friday,"Biography, Drama, History",7.2,116,Steven Spielberg,"Meryl Streep, Tom Hanks, Sarah Paulson, Bob Odenkirk",50000000.0,179769467.0
+Hellboy II: The Golden Army,2008-07-11,2008,July,Friday,"Action, Adventure, Fantasy",7.0,120,Guillermo del Toro,"Ron Perlman, Selma Blair, Doug Jones, John Alexander",85000000.0,160388063.0
+Dear Zachary: A Letter to a Son About His Father,2008-10-31,2008,October,Friday,"Documentary, Biography, Crime",8.5,95,Kurt Kuenne,"Kurt Kuenne, Andrew Bagby, David Bagby, Kathleen Bagby",,
+The Edge of Seventeen,2016-11-18,2016,November,Friday,"Comedy, Drama",7.3,104,Kelly Fremon Craig,"Hailee Steinfeld, Haley Lu Richardson, Blake Jenner, Kyra Sedgwick",9000000.0,18803648.0
+13th,2016-10-07,2016,October,Friday,"Documentary, Crime, History",8.2,100,Ava DuVernay,"Melina Abdullah, Michelle Alexander, Cory Booker, Dolores Canales",,
+Molly's Game,2017-12-25,2017,December,Monday,"Biography, Crime, Drama",7.4,140,Aaron Sorkin,"Jessica Chastain, Idris Elba, Kevin Costner, Michael Cera",30000000.0,59284015.0
+Free Fire,2017-03-31,2017,March,Friday,"Action, Comedy, Crime",6.3,91,Ben Wheatley,"Sharlto Copley, Brie Larson, Armie Hammer, Cillian Murphy",7000000.0,3719383.0
+A Star Is Born,2018-09-20,2018,September,Thursday,"Drama, Music, Romance",7.6,136,Bradley Cooper,"Lady Gaga, Bradley Cooper, Sam Elliott, Greg Grunberg",36000000.0,433888866.0
+Blade II,2002-03-22,2002,March,Friday,"Action, Horror, Sci-Fi",6.7,117,Guillermo del Toro,"Wesley Snipes, Kris Kristofferson, Ron Perlman, Leonor Varela",54000000.0,155010032.0
+Falling Down,1993-02-26,1993,February,Friday,"Action, Crime, Drama",7.6,113,Joel Schumacher,"Michael Douglas, Robert Duvall, Barbara Hershey, Rachel Ticotin",25000000.0,40903593.0
+Eyes Wide Shut,1999-07-16,1999,July,Friday,"Drama, Mystery, Thriller",7.5,159,Stanley Kubrick,"Tom Cruise, Nicole Kidman, Todd Field, Sydney Pollack",65000000.0,162100000.0
+The Lost Boys,1987-07-31,1987,July,Friday,"Comedy, Horror",7.2,97,Joel Schumacher,"Jason Patric, Corey Haim, Dianne Wiest, Barnard Hughes",8500000.0,32222567.0
+Deadpool 2,2018-05-10,2018,May,Thursday,"Action, Adventure, Comedy",7.6,119,David Leitch,"Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",110000000.0,785896609.0
