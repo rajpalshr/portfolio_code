@@ -25,6 +25,14 @@ from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
 ######################
 
+# Page
+######################
+st.set_page_config(
+    page_title="Movie Recommendation"
+)
+######################
+
+
 # Load custom CSS file - Github
 ######################
 custom_css = '''
@@ -33,13 +41,6 @@ custom_css = '''
 st.markdown(custom_css, unsafe_allow_html=True)
 ######################
 
-
-# Page
-######################
-st.set_page_config(
-    page_title="Movie Recommendation"
-)
-######################
 
 # Title
 ######################
