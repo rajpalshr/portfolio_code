@@ -25,19 +25,20 @@ from sklearn.pipeline import Pipeline
 ######################
 
 
+# Page
+######################
+st.set_page_config(
+    page_title="Movie Revenue Prediction"
+)
+######################
+
+
 # Load custom CSS file - Github
 ######################
 custom_css = '''
 <link rel="stylesheet" href="./custom.css">
 '''
 st.markdown(custom_css, unsafe_allow_html=True)
-######################
-
-# Page
-######################
-st.set_page_config(
-    page_title="Movie Revenue Prediction"
-)
 ######################
 
 # Image, Title
