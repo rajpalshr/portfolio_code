@@ -176,5 +176,5 @@ with st.expander("Show Code"):
 
     code_snippet = "recommend('GoodFellas')"
     st.code(code_snippet, language='python')
-    st.image('/Users/shreshthrajpal/Desktop/Portfolio/assets/rec/rec_out.png', width=300)
+    st.image('./assets/rec/rec_out.png', width=300)
 ######################
