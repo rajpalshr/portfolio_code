@@ -18,6 +18,14 @@ matplotlib.rcParams['figure.figsize'] = (10, 6)
 matplotlib.rcParams['figure.facecolor'] = '#00000000'
 ######################
 
+# Page
+######################
+st.set_page_config(
+    page_title="Exploratory Data Analysis"
+)
+######################
+
+
 # Load custom CSS file - Github
 ######################
 custom_css = '''
@@ -26,13 +34,6 @@ custom_css = '''
 st.markdown(custom_css, unsafe_allow_html=True)
 ######################
 
-
-# Page
-######################
-st.set_page_config(
-    page_title="Exploratory Data Analysis"
-)
-######################
 
 # Image, Title
 ######################
