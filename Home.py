@@ -17,7 +17,7 @@ st.set_page_config(
 ######################
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "style.css"
-resume_file = current_dir / "assets" / "Resume.pdf"
+resume_file = current_dir / "assets" / "Resume_Shreshth_Rajpal.pdf"
 profile_pic = current_dir / "assets" / "dp.png"
 file_name = "Resume_Shreshth_Rajpal.pdf"
 ######################
