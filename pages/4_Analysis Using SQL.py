@@ -8,6 +8,14 @@ import warnings
 warnings.filterwarnings('ignore')
 ######################
 
+# Page
+######################
+st.set_page_config(
+    page_title="Analysis Using SQL"
+)
+######################
+
+
 # Load custom CSS file - Github
 ######################
 custom_css = '''
@@ -16,13 +24,6 @@ custom_css = '''
 st.markdown(custom_css, unsafe_allow_html=True)
 ######################
 
-
-# Page
-######################
-st.set_page_config(
-    page_title="Analysis Using SQL"
-)
-######################
 
 
 # Image, Title
