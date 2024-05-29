@@ -106,20 +106,38 @@ st.markdown('''
 #####################
 
 
-
 # Work Experience
 #####################
 st.markdown('''
 ## Work Experience
 ''')
-txt('**Data Analyst Intern**, Ernst & Young, India',
-'2021-2021')
-
+# iNeuron
+txt('**iNeuron.ai** | Data Analyst Intern', ' ')
+st.text('Canada (Remote)                                              Jan 2024 - May 2024')
 st.markdown('''
-• Developed and implemented key column classification for line item categorization \n
-• Segmented the data into GSTR1 Processing, reversed and re-raised entry cases to remove errors \n
-• Executed comprehensive data operations to prepare it for DigiGST \n
-• Collaborated with the team members to interpret data findings 
+• Led a project aimed at reducing costs by utilizing Python for ETL processes and thorough data exploration. \n
+• Identified key cost drivers and trends from expenditure data, implementing advanced analytics to uncover factors 
+driving high costs. \n
+• Developed new cost reduction strategies based on data-driven insights and effectively communicated findings
+through detailed reports and related documents.
+''')
+
+# George Brown College
+txt('**George Brown College** | Capstone Project', ' ')
+st.text('Canada                                                      Sep 2022 - Dec 2022')
+st.markdown('''
+• Developed a project focused on training GANs in PyTorch, managing data exploration, GPU utilization, and neural network design. \n
+• Worked with the Face Dataset, implementing advanced training methodologies such as binary cross-entropy loss, custom Adam optimizers, convolutional layers, batch normalization, and activation functions. \n
+• Demonstrated expertise in handling large datasets and unsupervised learning, generating visually impressive outputs that evolved from noise to realistic images.
+''')
+
+# Ernst & Young
+txt('**Ernst & Young** | Data Analyst Intern', ' ')
+st.text('India                                                      Mar 2021 - Jun 2021')
+st.markdown('''
+• Performed data cleaning to improve overall data quality and developed key column classification for accurate line item categorization. \n
+• Segmented the data into GSTR1 Processing, reversed, and re-raised entry cases to eliminate errors, and executed comprehensive data operations to prepare it for DigiGST. \n
+• Collaborated with team members to interpret data findings, leveraging collective insights for better decision making.
 ''')
 #####################
             
