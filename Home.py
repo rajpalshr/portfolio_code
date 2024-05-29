@@ -46,7 +46,6 @@ with col1:
 with col2:
     st.markdown("<h1 style='font-size:40px'>{}</h1>".format('Shreshth Rajpal'), unsafe_allow_html=True)
     st.markdown("<p style='font-size:20px'>{}</p>".format('Data Science | Development'), unsafe_allow_html=True)
-    download_button("Download Resume", PDFbyte, file_name)
     st.write("📫", 'shreshthrajpal@gmail.com')
 ######################
 
