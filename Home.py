@@ -17,19 +17,16 @@ st.set_page_config(
 ######################
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "style.css"
-resume_file = current_dir / "assets" / "Resume_Shreshth_Rajpal.pdf"
 profile_pic = current_dir / "assets" / "dp.png"
 file_name = "Resume_Shreshth_Rajpal.pdf"
 ######################
 
 
 
-# CSS, PDF & PROFIL PIC
+# CSS and PROFILE PIC
 ######################
 with open(css_file) as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
-with open(resume_file, "rb") as pdf_file:
-    PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
 st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
 ######################
